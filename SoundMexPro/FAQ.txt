@@ -1,0 +1,112 @@
+-------------------------------------------------------------------------------------
+Problem:
+  Using 'loadmem' command on Python on multi-channel arrays the output is not as expected,
+  the output seems to be mixed/distorted
+Solution:
+  SoundMexPro expects the data for multi-channel data arrays to be sorted non-interleaved
+  in memory. Where MATLAB adjusts the order in memory when transposing a matrix, this is 
+  NOT the case with Python: transposing numpy ndarray only changes striping, the order in  
+  memory stays unchanged. Especially when reading wave files to memory, the channels will
+  end up interleaved in memory! You may switch the order in memory using the function
+  'numpy.asfortranarray' (see SoundMexPro tutorials for examples). The same holds for 
+  arrays that are created in code: be sure, that the memory order will be non-interleaved 
+  when passing data to SoundMexPro!
+-------------------------------------------------------------------------------------
+Problem:
+  Any call fails with 'SMPIPC startup error: IPC process unexpectedly terminated: 
+  check runtime libraries: ...' (... lists all needed libraries)
+Solution:
+  Starting with version 2.4.0.0 SoundMexPro needs the listed runtime libaries. Be sure
+  that they can be found in current path or Windows seacrh path!
+-------------------------------------------------------------------------------------
+Problem:
+  Init fails with 'Inconsistent buffer sizes', 'Invalid buffer size granularity' 
+  or similar errors	
+
+Solution:
+  Load the latest driver for your soundcard. Some soundcards drivers (e.g MAudio) 
+  contained a bug in older version when quering the supported buffer sizes leading 
+  to the described error.
+-------------------------------------------------------------------------------------
+Problem:
+  Command 'start' fails with error message 'setting samplerate of device to XY not 
+  successful'	
+
+Solution: 
+  most probably the sampling frequency of your driver is locked (check control 
+  panel and documentation of driver for more information). 
+-------------------------------------------------------------------------------------
+Problem:
+  Playback or record has dropouts (xruns detected with command 'xrun')	
+
+Solution: 
+  Increase number of buffers specified in 'numbufs' parameter in command 'init' 
+-------------------------------------------------------------------------------------
+Problem:
+  Playback sounds ok, recording and visualization has dropouts / is distorted	  
+
+Solution: 
+  Ensure that your record files are not written to a network drive or any other slow 
+  drive!  
+-------------------------------------------------------------------------------------
+Problem:
+  When starting device you get a message containing a message similar to 'timeout 
+  occurred in WaitForRampState'  
+
+Solution: 
+  Check, that no other software is using the soundcard you are trying to use.
+  Increase the 'starttimeout' and/or 'stoptimeout' value on init (see command help for 
+  'start').  
+-------------------------------------------------------------------------------------
+Problem:
+  Loading a VST plugin fails with an error message about missing files/libraries/Dlls
+  
+Solution: 
+  Some plugins require all files they are shipped with to be located in a directory 
+  that is part of the DOS/Windows search path. Copy the corresponding files to such a 
+  directory (e.g. Windows directory) or add the directory where they are located to the 
+  DOS/Windows search path.   
+-------------------------------------------------------------------------------------
+Problem:
+  Command fails with error message, if drivers own control panel is visible  
+
+Solution: 
+  For some soundcards (e.g. MOTU Traveller) the access to the driver fails, if the 
+  control panel shipped with the driver is visible (either shown 'by hand', e.g. from 
+  start menu, or shown by SoundMexPro command 'controlpanel'). 
+  Therefore you have to close the control panel before calling any other SoundMexPro 
+  commands.
+-------------------------------------------------------------------------------------
+Problem:
+  starting fails with error message: 'error starting device: driver does not want data!'
+
+Solution: 
+  
+  Some soundcards (e.g. RME DIGI96, RME FireFace) do not start the device, if no playback
+  channels are used and only recording channels were specified (i.e. '-1' was specified for parameter 'output' in command  
+  'init'). In that case you have to use at least one output channel. The easiest way is 
+  to specify one or more output channels and use the value '0' for parameter 'length' in 
+  command 'start': in that case SoundMexPro plays zeros on all used channels automatically.
+-------------------------------------------------------------------------------------
+Problem:
+  initialization fails on scripts that ran fine immediately before 
+
+Solution: 
+  With version 1.3.0.10 the internal SoundMexPro structure was changed. If e.g. MATLAB 
+  crashes and due to that the SoundMexPro cleanup was not complete, then the new interprocess
+  communication executable might not be terminated correctly and will block the soundcard.
+  Check if a process called SMPIPC.EXE is resident in memory with the task manager. If so,
+  kill the process and run your script again.
+-------------------------------------------------------------------------------------
+Problem:
+  Init fails with error 'driver with requested name not found' for unchanged scripts in 
+  wdm mode (i.e. soundmexpro('setdrivermodel', 'value', 'wdm') called).
+ 
+Solution: 
+  Starting with version 2.2.0.3 the wdm mode of SoundMexPro uses new Windows API, where
+  the device names returned by the driver might have changed (in older versions the name 
+  was cut to a maximum length of 32 characters by the operating system). If you are loading
+  a driver by name please adjust the name (call soundmexpro('getdrivers') to retrieve the new
+  names).
+-------------------------------------------------------------------------------------
+

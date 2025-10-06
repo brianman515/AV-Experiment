@@ -1,0 +1,378 @@
+Version 2.8.0.0., Date: 01.12.2021
+- Python support added
+- Support for Octave 6.3 added
+Version 2.7.10.6, Date: 12.02.2021
+- plugin HtVSTEq now supports four different interpolation modes for filter values
+Version 2.7.9.6, Date: 12.02.2021
+- support for Ocatve 6.1 added
+Version 2.7.8.6, Date: 28.08.2020 
+- new parameter 'recfileclose' for command 'recpause'
+Version 2.7.7.6, Date: 24.08.2020 
+- bugfix for timing problems on ('pause', 'value', 0) on some computers
+Version 2.7.6.6, Date: 22.05.2020 
+- bugfix for init parameter 'reccompensatelatency'
+Version 2.7.5.6, Date: 17.02.2020
+- missing runtime library added to setup
+- more bugfixes for Octave 
+Version 2.7.5.5, Date: 10.02.2020
+- Support for Octave 5.2.0.0 added
+- more bugfixes for Octave 
+- Cursor display in trackview rewritten
+Version 2.7.4.3, Date: 28.01.2020
+- bugfix for Octave (crashed on some machines)
+Version 2.7.3.3, Date: 05.12.2019
+- bugfix: all commands work again with DEMO license
+- setup and executables now signed
+Version 2.7.2.3, Date: 10.10.2019
+- bugfix in GUI when using NO output tracks at all (input only)
+Version 2.7.1.3, Date: 09.07.2019
+- Support for Octave 5.1.0.0 added
+- Internal buffersize for 'loadfile' lowered. Can be adjusted now with new 'init' parameter 'filereadbufsize'
+Version 2.7.0.3, Date: 30.04.2019
+- support for online licenses as an alternative to dongle licenses added
+- fixed a bug with overflowing integer in position returned by commmand 'recgetdata'
+Version 2.6.4.2, Date: 29.11.2018
+- new option 'reccompensatelatency' for command 'init'. If set to 1 then the latency of the ASIO driver
+  is compensated in recorded files. NOTE: this option uses the latency retrieved from the driver itself.
+  Depending in a particular driver this might lead to perfectly 'aligned' record files that contain exactly
+  the played samples - or not!
+- command 'getproperties' now additionally returns input latency and output latency as retrieved from driver.  
+- process priority of SoundMexPro set to "HIGH" on startup (processing thread still has realtime priority)
+- Support for Octave 4.4.1 added
+Version 2.6.2.2, Date: 21.08.2018
+- bugfix for commands 'version': now returns all four parts of version number again
+Version 2.6.1.2, Date: 14.08.2018
+- bugfix for commands 'recgetdata' and 'plugingetdata' for recent MATLAB versions (MATLAB did crash)
+Version 2.6.1.1, Date: 14.06.2018
+- new option 'recprocesseddata' to allow harddisk recording of data processed by plugins
+- VST plugins compiling bugfix
+- bugfixes
+Version 2.6.0.0, Date: 30.05.2018
+- compiler change
+- support for Octave 4.4 added
+- command 'license' changed
+- VST plugin HtVSTEqualizer replaced by HtVSTEq
+- many internal bugfixes
+Version 2.5.0.2, Date: 20.03.2018
+- bugfix for horizontal zoom in track view
+- track view partially rewritten for better performance
+- minor internal bugfixes
+Version 2.4.4.2, Date: 02.10.2017
+- addtional VST plugin type 'final' added: 'final' plugins are applied on output channels
+  AFTER applying the MATLAB script plugins, while 'master' plugins are applied BEFORE
+  the MATLAB script plugins
+- 'reclength' now can be changed while device is running (but recording to file must not be active)
+Version 2.4.4.1, Date: 09.08.2017
+- extended command 'showerror': when setting it's value to 2, then each failing command calls
+  'error' in MATLAB
+Version 2.4.3.0, Date: 16.05.2017
+- Mixer now shows current peak level in dB fullscale
+- Bugfix in command parser
+Version 2.4.2.0, Date: 20.04.2017
+- bugfix for command 'startthreshold': output stayed muted after threshold exceeded
+Version 2.4.1.0, Date: 25.01.2017
+- bugfix for command 'recthreshold': 'mode' 0 did not work
+- bugfix for command 'loadfile': if a length was specified > (filesize - startoffset)
+  with loopcount 1, then the file was NOT looped internal as stated in help.
+Version 2.4.0.0, Date: 22.12.2016
+- Support for Octave 64bit 
+- new parameter for 'recdownsamplefactor' for command 'init': simple downsampling of recording data 
+  supported for data written to disk or retrieved via 'recgetdata'
+- new parameter for 'recfiledisable' for command 'init': disables recording to file completely. No
+  recording files will be created at all.
+- new advanced example "Threshold Driven Playback" 
+- internal bugfixes 
+- runtime libraries added. SoundMexPro now needs the following runtime libaries (shipped in BIN directory):
+  borlndmm.dll,  cc32100mt.dll, rtl140.bpl, rtl140.de, vcl140.bpl, vcl140.de, vclx140.bpl, vclx140.de 
+  Be sure they are in BIN path or Windows search path!
+Version 2.3.3.8, Date: 10.10.2016
+- bugfix for usage on Windows versions before Windows Vista
+- bugfix for using ramps with loopcount = 0 (endess loop)
+Version 2.3.2.7, Date: 17.08.2016
+- bugfix for return values. Don't use 2.3.2.6!
+Version 2.3.2.6, Date: 15.08.2016
+- bugfix for Octave 4.01 and higher: first return value was not set correctly
+Version 2.3.2.5, Date: 02.06.2016
+- new parameter 'forcelic' for command 'init' to force taking over
+  a license locked by another computer
+- bugfix for 'loadmem' with loopcount 0 (endless loop) and startoffset > 0
+Version 2.3.1.5, Date: 05.04.2016
+- new command 'license' returning license information for dongle(s)
+- new parameter 'pluginuserdatasize' for command 'init' for user defined size of user data in script plugins
+- Adjusted many tutorials and examples for newer MATLAB versions
+- bugfix for 'init': license type is returned correctly again
+Version 2.3.0.5, Date: 14.03.2016
+- rudimental low level MIDI commands added for sending MIDI messages to a MIDI device
+- example added for controlling RME TotalMix via MIDI commands
+- bugfix: sparse matrices as audio data could crash SoundMexPro: now a sparse matrices 
+  are detected and a corresponding error message is generated
+Version 2.2.2.4, Date: 21.01.2016
+- minor bugfixes
+Version 2.2.1.4, Date: 28.10.2015
+- performance enhancements in WDM mode
+- minor bugfixes
+Version 2.2.0.3, Date: 06.10.2015
+- driver model 'wdm' rewritten for more stability and forced 24/32-bit output. The WDM mode
+  now uses new Windows API and is thus only available for Windows Vista and above.
+- more bugfixes for plotting wave data in track view
+Version 2.1.3.3, Date: 10.09.2015
+- bugfix for plotting vector wave data in track view
+- bugfix for hang on init on some machines
+Version 2.1.2.3, Date: 06.08.2015
+- minor internal changes 
+Version 2.1.1.3, Date: 28.07.2015
+- Bugfix for command 'setbutton' for newer MATALAB versions
+Version 2.1.0.2, Date: 22.07.2015
+- Bugfix for showing wavedata (showtracks)
+- new parameter 'pluginforcejvm' for command 'init'. This will be needed if GUI
+  commands are used in MATLAB script plugins.
+- enhanced performance for MATLAB script plugins.  
+- commands 'cleartrack' and 'cleardata' now allowed while playing, but only if
+  'start' was called with 'length' set to 0'.
+Version 2.0.3.2, Date: 02.07.2015
+- Bugfix for compiled DSP plugins
+Version 2.0.2.2, Date: 10.06.2015
+- Support for GNU Octave 3.8 added
+- Bugfix for recording VST host
+Version 2.0.1.1, Date: 04.06.2015
+- Support for GNU Octave added
+- stft.m and stftinit.m renamed to smp_stft.m and smp_stftinit.m for GNU Octave compatibility
+- tutorials and examples adjusted for GNU Octave
+Version 2.0.0.0, Date: 04.05.2015
+- <B>New commands:</B>
+- channelname, trackname, recname: symbolic names can be set for tracks, 
+  output and input channels and these names can be used in all commands for the parameters 
+  'track', 'output' and 'input respectively besides their indices
+- recvolume: sets recording gain
+- tracklen: returns total length of loaded data in tracks
+- cleartrack: clears data in particular tracks
+- <B>New features for loading sound data (file or vector)</B>:
+- object gains: each loaded object can get it's own gain
+- crossfading between loaded sound objects
+- object ramps: each loaded object can have own volume ramps
+- loop ramps: each loaded object can have own volume ramps for each loop
+- loop-crossfade: each loaded object can do a crossfade when looping
+- <B>Other new features:</B>
+- VST plugins for recording channels now supported
+- Support for compiled MATLAB script DSP plugins
+- Most commands now allowed while sound output is already running
+- <B>New GUI features:</B>
+- Update of wavedata in trackview while running allowed
+- Ctrl + left mouse button sets playback position in trackview
+- Mixer now has a variable width
+- <B>Changes in default behaviour:</B>
+- Default value for parameter 'autocleanup' in command 'init' is now 0 
+- Default value for parameter 'wavedata in commands 'showtracks' and 'updatetracks' is now 1 
+- Default GUI (command 'show') was removed. Command 'show' now is identical to 'showmixer'
+Version 1.5.8.16, Date: 06.01.2015
+- bugfixes in volume and trackvolume
+- bugfix mixer GUI for many tracks/channels
+Version 1.5.7.16, Date: 04.11.2014
+- bugfix in sfft skripts for spectral script driven plugins
+Version 1.5.6.16, Date: 31.07.2014
+- bugfix for mixer GUI
+- bugfix for problems with Asio4All
+Version 1.5.5.16, Date: 05.02.2014
+- bugfixes for quiet option of command 'init' 
+Version 1.5.5.15, Date: 04.02.2014
+- new parameter 'quiet' for command 'init' to supress printing of version information
+  to workspace
+- soundmexpro.dll for MATLAB versions older than 7.1 now renamed to soundmexpro.old.dll
+  to avoid 'shadowing' messages in workspace by default. Users of old MATLAB versions
+  will have to rename this DLL.
+- bugfixes for command 'setbutton' 
+Version 1.5.4.13, Date: 12.08.2013
+- bugfix in command 'iostatus': now duplicates for input are allowed to map one input
+  to multiple tracks 
+- default value of parameter 'length' changed to 0 (endless recording) if no output channels
+  used at all
+Version 1.5.3.13, Date: 19.02.2013
+- change for command 'volume': now volume is applied directly before buffer is passed
+  to soundcard. Thus the latency of the new volume to be audible does not depend on 
+  number of buffers (see command 'init'). NOTE: this does NOT apply for 'trackvolume'.
+  trackvolume has to be applied within buffers because plugins may do costy calculations
+  AFTER the trackvolume and thus trackvolume has to be applied in buffered audio data!
+- new parameters 'tracks', 'output' and 'inputs' for command 'showmixer' to hide groups
+  of mixer sliders
+- bugfix for command 'getdriverstatus'
+Version 1.5.2.13, Date: 02.01.2013
+- bugfixes for WDM mode in 'start' (samples missing) and 'wait' (returned too early)
+Version 1.5.1.13, Date: 01.12.2012
+- bugfixes in HtVstEqualizer 
+- bugfix VST host for parameter names containing blanks
+Version 1.5.0.13, Date: 01.07.2012
+- new commands 'setdrivermodel' and 'getdrivermodel' for 'wdm' mode
+Version 1.4.5.13, Date: 13.01.2012
+- bugfix in VST host of SoundMexPro
+- bugfix in error handling
+Version 1.4.3.12, Date: 14.11.2011
+- new command 'startthreshold' and corresponding tutorial added
+- fix for buggy sound card drivers (e.g. M-Audio Delta, error 'C++-Exception' on 'init')
+Version 1.4.1.12, Date: 07.09.2011
+- bugfix for MATLAB-script-plugin interface (error 'mpluginmex' not found)
+Version 1.4.0.12, Date: 06.09.2011
+- recursive wiring for VST plugins
+- thread handling for VST plugins enhanced
+- new parameter 'vstthreadpriority' for command 'init'
+- performance of VST convolver plugin enhanced
+- bugfix (EAccessViolation in 'init' on some 64bit systems)
+- bugfix (command 'about' caused access violation)
+Version 1.3.5.12, Date: 18.4.2011
+- 'numbufs' supports 1 as value.
+- new chapter 'Buffer configuration' in manual. 
+Version 1.3.4.12, Date: 16.02.11
+- new feature 'file2file'-operation with new parameters 'file2file' and 'f2fbufsize'
+  for command 'init' and new command 'f2ffilename'
+- new tutorial t_11a_file2file.m showing usage of 'file2file'-operation 
+- new command 'debugfilename' for setting filenames of audio debug output
+- bugifx in command 'recpause' (did return wrong recpause status)
+- help for recpause extended (file closing)
+- manual: description of VST plugin usage extended and tutorial added
+Version 1.3.3.12, Date: 25.10.10
+- VST host now multi-threading capable to make use of multi-core processors
+- examples and tutorials adjusted to use global settings (see set_driver_channels.m)
+- minor bugfixes
+Version 1.3.2.12, Date: 21.06.10
+- minor bugfixes
+- extended error handling on startup
+Version 1.3.1.11, Date: 07.06.10
+- internal bugfixes
+- license support without license files for 'blue' dongles (number starts with an 'M')
+Version 1.3.0.10, Date: 12.03.10
+- new communication between MATLAB and SoundMexPro using interprocess communication
+  to support 64-bit MATLAB 
+- bugfixes for MATLAB deadlock on start, if device is in use
+- bugfix for situations where more recording than playback channels are used
+- new example: Bekesy-Tracking
+- new parameter 'plugintimeout' for command 'init'
+ 
+Version 1.2.0.8, Date: 05.02.10
+- maintenance update with many minor bugfixes
+- command parser rewritten
+
+Version 1.1.3.7, Date: 20.11.09
+- bugfix for MATLAB plugins for Windows Vista and Windows 7
+- bugfix for initialization without software buffering ("'numbufs', 0" in 'init' 
+  command)
+- bugfix in command 'reclength': return value was not correct, now correct 
+  value(s) are returned.
+- New command 'clipthreshold'.
+- new argument 'pause' for command 'start' for pausing device automatically after 
+  playback has finished (rather than stopping it)
+- new argument 'mode' for command 'wait' (waiting for data output or device stop 
+  respectively)
+- trackview extended: optional visualization of loaded wave data, new parameter 
+  'wavedata' for commands 'showtracks' and 'updatetracks'.
+  NOTE: this feature is in BETA-state: use with care!!
+
+Version 1.1.2.6, Date: 03.09.09
+- new argument 'logfile' for command init for debugging
+- new value 'all' for command 'init' parameters 'input' and 'output' to use all 
+  available channels.
+- command 'playposition' now also sets current playback position in pause mode.
+- new arguments 'startoffset' and 'length' for command 'loadfile'. Important 
+  note: the meaning of argument 'fileoffset' has changed slightly!
+- new argument 'startoffset' for command 'loadmem'
+- bugfix in command 'iostatus': Important note: check your scripts that use 
+  'iostatus'. The mapping was not as described here. If the syntax was used with 
+  same number of inputs and tracks n, then always the first n inputs were used, 
+  not the specified ones.
+- bugfixes in trackview
+- bugfix in command 'loadfile'
+- new tool scripts in BIN-directory (soundmexpro_showdevs.m, soundmexpro_showcfg.m 
+  soundmexpro_trackmap.m) for hardware/configuration checking and setup. Very 
+  useful!
+- new tutorial t_02b_config_tools.m added for the new tool scripts
+- tutorial adjusted for new commands/arguments,  examples moved within tutorials
+- manual restructured and extended
+- more internal minor bugfixes
+- removed path message boxes from SoundDllProLoader
+
+Version 1.1.1.5, Date: 29.06.09
+- new commands 'trackmute', 'channelmute', 'recmute'
+- new commands 'tracksolo', 'channelsolo', 'recsolo'
+- new command 'resetclipcount',
+- additional return value for command 'clipcount' (now track clipping is returned 
+  as well)
+- new commands 'showmixer' and 'hidemixer'
+- new arguments for command 'showtracks' and 'show'
+- track visualization improved
+- new example sine_generator.m: online sine generator with variable frequency 
+
+Version 1.1.0.5, Date: 17.04.09
+- additional bugfix for loading required DLL ("Cannot load required library 
+  SOUNDDLLPRO.DLL")
+
+Version 1.1.0.4, Date: 16.04.09
+- bugfix for loading required DLL ("Cannot load required library SOUNDDLLPRO.DLL")
+
+Version 1.1.0.3, Date: 16.04.09
+- new commands 'showtracks', 'hidetracks'  and 'updatetracks' for showing file/
+  vector load and playback in all tracks
+- new application SoundDllProLoader.exe for using SoundMexPro without MATLAB
+- support for reading different audio file formats added (24bit Wav, OGG/Vorbis, 
+  IFF, AIFF, VOC, FLAC ...)
+- minor VST-Host bugfixes
+- manual extended
+
+Version 1.0.12.3, Date: 24.03.09
+- new command 'cleardata'
+- new return value for command 'getproperties' returning supported samplerates
+- new parameter 'name' in command 'loadmem' (needed for next release)
+- 'recgetdata' return argument 'position' rewritten: now position is identical 
+  to sample positions within recorded files
+- bugfix for alignment with endless looped files/vectors
+- performance of file reading improved
+- minor bugfixes
+
+Version 1.0.11.2, Date: 13.02.09
+- new command 'controlpanel'
+- bugfix for 'loadmem' with data pointers > 2 GB
+- bugfix for playing files ("unexpected wave file read error")
+- detection of external change of sample rate (output stopped and message of 
+  asynchronous error is set correspondingly)
+- detection of external change of buffer size (output stopped and message of 
+  asynchronous error is set correspondingly)
+- manual on command help extended
+
+Version 1.0.10.2, Date: 19.12.08
+- Manual extended
+- Minor internal bugfixes
+
+Version 1.0.9.2, Date: 26.11.08
+- bugfix in command 'recfilename': did not work with blanks in filename/pathname 
+  when working with cell array
+- bugfix in commands 'playing' and 'wait'
+- bugfix for playing small files with 'loadfile'
+- Performance increased when playing files (loadfile)
+- Number of channels in hetero-dyning plugin decreased to two to increase 
+  performance (multiple instancs can be used to use more channels)
+
+Version 1.0.8.1, Date: 01.11.08
+- "ASIO Direct Monitoring" (ADM) support added (command 'adm')
+- command 'xrun' extended
+
+Version 1.0.7.1, Date: 17.09.08
+- bugfix in VST plugin HtVstEqualizer for log filters
+
+Version 1.0.6.1, Date: 11.09.08
+- new command 'helpa' ('alphasort') showing command list in alphabetical order
+- new argument 'topmost' for command 'show'
+- minor bugfixes
+- command interface completely case insensitive now
+- new argument 'stoptimeout' for command 'init'
+- 'stop' extended to detect stopping failures
+
+Version 1.0.5.0, Date: 26.08.08
+- new argument 'starttimeout' for command 'init'
+- bugfix for large ASIO buffer sizes
+- manual extended
+
+Version 1.0.3.0, Date: 13.05.08
+- minor bugfixes
+- 'iostatus' syntax extended
+- fast convolution plugin HtVSTConv.dll added
+
+Version 1.0.0.0, Date: 21.04.08
+- first release
+

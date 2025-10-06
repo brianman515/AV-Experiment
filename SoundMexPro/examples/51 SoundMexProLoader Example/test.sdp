@@ -1,0 +1,14 @@
+% simple example with mixing four files to two channels
+command=init;track=4;driver=0;output=0,1
+% load noise to first two tracks (both channels)
+command=loadfile;filename=../../waves/noise_16bit.wav;loopcount=1;track=0,1
+% load two signals to 
+command=loadfile;filename=../../waves/sweep.wav;loopcount=3;track=2,-1
+command=loadfile;filename=../../waves/eurovision.wav;loopcount=2;track=-1,3
+% wait one second (only to show usage of 'pause')
+pause(1000)
+command=show
+command=start
+% wait for playback done
+command=wait
+command=exit

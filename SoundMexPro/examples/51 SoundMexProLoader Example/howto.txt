@@ -1,0 +1,14 @@
+How to run the SoundMexProLoader example
+-----------------------------------------
+
+1. open the test script TEST.SDP with a text editor and adjust the line
+
+   command=init;track=4;driver=0;output=0,1
+   
+   for your needs (driver index and channel indices).
+
+2. Run SoundDllProLoader.exe from the bin directory of SoundMexPro
+   and open the file TEST.SDP with SoundDllProLoader
+
+3. Click the run-button on SoundDllProLoader to run the example
+
