@@ -1,0 +1,1201 @@
+Sentence,Words,Template,Keywords,Slope_F1A,Inflection_F1A,Screening_F1A,Screening_F1P,Screening_F1V,Screening_F2A,Screening_F2P,Screening_F2V,Screening_M1A,Screening_M1P,Screening_M1V,Screening_M2A,Screening_M2P,Screening_M2V,Naturalness,Discomfort,Responses
+1,Der er mange drenge der deltager i konkurrencer,1,"drenge, deltager, konkurrencer",8.479896951,-4.828702871,1,1,1,1,1,1,1,0,1,1,1,1,6.33,0,15
+2,Hun var berømt fordi hun samarbejdede med præsidenten,2,"berømt, samarbejdede, præsidenten",21.67194084,-6.203770799,1,0,1,1,1,1,1,1,1,1,1,1,6.43,0,14
+3,Vores butik medvirkede i en kampagne sidste forår,3,"butik, medvirkede, forår",18.60066084,-6.796455092,1,1,1,1,1,1,1,1,1,1,1,1,5.93,0,15
+4,Bossen understøtter hvordan de vander planterne,4,"bossen, vander, planterne",16.42491928,-2.041726828,1,1,1,1,1,1,1,1,1,1,1,1,2.25,0,8
+5,Det var enestående at initiativet førte til handling,5,"enestående, initiativet, handling",14.27567384,-5.429306472,1,1,1,1,1,1,1,1,1,1,1,1,5.73,0,15
+6,I maj meldte min søn sig ind i en fagforening,6,"maj, søn, fagforening",25.60013452,-6.156738087,1,1,1,1,1,1,1,1,0,1,1,1,6.71,0,14
+7,Hun vil naturligvis gerne flytte billederne til et galleri,7,"flytte, billederne, galleri",13.64997297,-3.793387062,1,1,1,1,1,1,1,1,0,1,0,1,6.14,0,14
+8,Vi mener bestemt at de igen har skærpet tonen,8,"mener, skærpet, tonen",14.04641583,-4.260779865,1,1,1,1,1,1,1,1,1,1,1,1,5.79,0,14
+9,Det er en institution som forener mange borgere,9,"institution, forener, borgere",15.1056512,-6.645033921,1,1,1,1,1,1,1,1,1,1,1,1,5.88,0,8
+10,Han undrede sig over deres fantasi og deres mod,10,"undrede, fantasi, mod",13.21456145,-6.245680538,1,1,1,1,1,1,1,1,1,0,0,1,6.36,0,14
+11,Der var et marked der lå på det grønne område,1,"marked, lå, område",16.9606782,-4.060874333,1,1,1,1,1,1,1,1,1,1,1,1,5.38,0,8
+12,Det er dejligt hvis fonden gerne vil støtte byggeriet,2,"dejligt, fonden, byggeriet",5.318347813,-2.667652026,1,1,1,0,1,1,1,1,1,1,1,1,6.38,0,8
+13,Deres skarpe reaktion tog fokus væk fra turneringen,3,"reaktion, tog, turneringen",35.10160069,-4.049863621,1,1,1,1,1,1,1,1,1,1,0,1,5.93,0,15
+14,De gættede på hvem der først ville hoppe ned fra scenen,4,"gættede, hoppe, scenen",20.37220938,-5.432719336,1,1,1,0,1,1,1,1,1,1,0,1,6.2,0,15
+15,Det er naturligt at ægteskabet former vores tilværelse,5,"naturligt, former, tilværelse",12.33264246,-6.346099101,1,1,1,1,1,0,1,1,1,1,1,1,5.86,0,14
+16,For tiden fotograferer hun mest sygeplejersker,6,"tiden, fotograferer, sygeplejersker",25.42926698,-6.556011441,1,1,1,1,1,1,1,1,0,1,1,1,6.36,0,14
+17,En revisor havde netop oprettet den for et ægtepar,7,"revisor, oprettet, ægtepar",12.75537566,-3.109585006,1,1,1,0,0,1,1,1,1,1,1,1,5.53,0,15
+18,Det beviste at man kan dele alle lige tal med to,8,"beviste, dele, tal",29.37306121,-6.901493048,1,1,1,1,1,1,1,1,1,1,1,1,5,0,8
+19,Det var vores rektor som var nået frem før halvlegen,9,"rektor, nået, halvlegen",6.302064083,-4.538459107,1,1,1,1,1,1,1,1,1,1,1,1,5.13,0,15
+20,Lastbilerne larmede og støjede tæt ved vores hus,10,"larmede, støjede, hus",13.09483724,-4.6299973,1,1,1,1,1,1,1,1,1,1,1,1,6.47,0,15
+21,Der er banker der udbetaler renter hvert kvartal,1,"banker, udbetaler, kvartal",27.28959254,-6.131555745,1,1,0,1,1,1,1,1,1,1,1,1,5.5,0,8
+22,I bliver rige hvis efterspørgslen pludselig stiger,2,"rige, efterspørgslen, stiger",243.5568237,-2.571145752,1,1,1,0,1,1,1,1,0,1,1,1,6.38,0,8
+23,Beslutningen har sikret naturen langs med kysten,3,"sikret, naturen, kysten",13.91750649,-4.90063098,1,1,1,1,1,1,1,1,1,1,1,1,4.54,1,13
+24,Ledelsen opdagede hvem der havde repareret lampen,4,"ledelsen, opdagede, lampen",2.500652548,-9.133771009,1,1,1,1,1,0,0,1,0,1,1,1,5.75,0,8
+25,Det var rigtigt at familierne gerne måtte leje en bolig,5,"rigtigt, familierne, bolig",4.567589888,-4.103431791,1,1,1,1,1,1,1,1,1,1,1,1,4.31,0,13
+26,Under de omstændigheder vil vi gerne arbejde på skibet,6,"omstændigheder, arbejde, skibet",10.44523225,-5.836336053,1,1,1,1,1,1,1,1,1,1,1,1,5.57,0,14
+27,En dommer havde lige tildelt dem endnu et bidrag,7,"dommer, tildelt, bidrag",5.804488308,-2.974997657,1,1,1,1,1,1,1,1,0,1,0,1,3.38,1,13
+28,Du registrerede vel at vi anvendte alle dine materialer,8,"registrerede, anvendte, materialer",5.569351157,-2.711679441,1,1,1,1,1,1,1,1,0,1,1,1,5.15,0,13
+29,Det er vejret som næsten har ødelagt vores forsøg,9,"vejret, ødelagt, forsøg",15.12604616,-4.68802685,1,1,1,1,1,1,1,1,1,1,1,1,4.31,0,13
+30,De drøftede både revolutionen og dens betydning,10,"drøftede, revolutionen, betydning",31.34587538,-4.440152345,1,1,1,1,1,1,1,1,0,1,1,1,6.21,0,14
+31,Der var flere fag der virkelig inspirerede de studerende,1,"fag, inspirerede, studerende",34.92332139,-6.343723093,1,1,1,1,1,1,1,1,1,1,1,1,6.31,0,13
+32,Vi var trygge fordi min søster havde anbefalet stedet,2,"trygge, søster, stedet",10.08748098,-7.304390998,0,1,1,1,1,1,1,1,1,1,1,1,6.63,0,8
+33,Det her brød passer faktisk meget fint til suppen,3,"brød, passer, suppen",10.42232096,-6.257365035,1,1,1,1,1,1,1,1,1,1,1,1,6.15,0,13
+34,Firmaet havde forandret hvordan de udskrev regninger,4,"forandret, udskrev, regninger",17.60065145,-3.177805156,1,1,1,1,1,1,1,1,1,1,0,1,3.77,3,13
+35,Det er glædeligt at flertallet kan påvirke samfundet,5,"glædeligt, flertallet, samfundet",13.41290858,-5.212399029,1,1,1,1,1,1,1,1,1,1,1,1,5.08,0,13
+36,Af princip lukker de ned for faglige diskussioner,6,"princip, lukker, diskussioner",27.85483609,-5.558288122,1,0,1,1,1,0,1,1,1,1,1,1,4.77,0,13
+37,Hendes chauffør rakte hende en værdifuld ring,7,"chauffør, rakte, ring",3.525757795,-4.354798421,1,1,1,1,1,0,0,1,1,1,1,1,4.85,0,13
+38,Jeg vil tilføje at han har offentliggjort den her artikel,8,"tilføje, offentliggjort, artikel",16.98737518,-4.521622403,1,1,1,1,1,1,1,1,1,1,1,1,5,0,13
+39,Det bliver pizza som skal erstatte den sædvanlige ret,9,"pizza, erstatte, ret",8.63402852,-5.973654904,1,1,1,1,1,1,1,1,1,1,1,1,4.79,0,14
+40,Dyrlægen pegede netop på dens stærke ben,10,"Dyrlægen, pegede, ben",18.73017808,-3.736799848,1,1,1,1,1,0,1,1,1,1,1,1,5.5,0,8
+41,Der er et tysk par der har budt på sommerhuset,1,"par, budt, sommerhuset",13.25421319,-3.217549161,1,1,1,0,1,1,1,1,1,1,1,1,6.63,0,8
+42,De var populære før teateret hævede niveauet,2,"populære, teateret, niveauet",7.950714609,-2.057495215,1,1,1,1,1,1,1,1,1,1,0,1,4.75,0,16
+43,Det her nummer overraskede os under premieren,3,"nummer, overraskede, premieren",25.63881627,-2.365273628,1,1,1,1,1,1,1,1,1,1,0,1,6.13,0,16
+44,De har selv valgt hvem der skal designe huset,4,"valgt, designe, huset",10.20918108,-5.699586889,1,1,1,0,1,0,1,1,1,1,0,1,6.63,0,16
+45,Det var smart at pigerne arrangerede min fødselsdag,5,"smart, pigerne, fødselsdag",30.00453292,-7.809575122,1,1,1,1,1,1,1,1,1,1,1,1,5.81,0,16
+46,I oktober modtog vi en spændende ansøgning,6,"oktober, modtog, ansøgning",19.79373767,-5.132445556,0,1,1,1,1,1,1,1,1,1,1,1,6.44,0,16
+47,Præsten havde vist forklaret det til pensionisterne,7,"præsten, forklaret, pensionisterne",11.06737873,-5.364952615,0,1,1,1,1,0,1,1,1,1,1,1,5.88,0,16
+48,Han tillader jo at vi blander os i efterforskningen,8,"tillader, blander, efterforskningen",23.47085313,-4.471617835,1,1,1,1,1,1,1,1,0,1,1,1,5.94,1,16
+49,Det var vores bus som havde passeret grænsen,9,"bus, passeret, grænsen",22.19909873,-6.577236135,1,1,1,1,1,1,1,1,1,1,1,1,5.44,0,16
+50,Jeg foretrækker altid fred og ro på min ferie,10,"foretrækker, fred, ferie",10.52591186,-5.97893726,1,1,1,1,1,1,1,1,1,1,1,1,6.81,0,16
+51,Der var nogle lærere der ville oprette en forening,1,"lærere, oprette, forening",14.60736308,-5.482655925,1,1,1,1,1,0,1,0,0,1,0,1,6.38,0,8
+52,Hun bliver ret begejstret når hun griber bolden,2,"begejstret, griber, bolden",9.165323173,-2.903848607,1,1,1,0,1,1,1,1,1,1,1,1,6.38,0,8
+53,Koen vil jo bare gerne varme sig i solen,3,"koen, varme, solen",12.28090176,-2.475192948,0,1,1,1,1,1,1,0,1,1,1,1,5.56,0,16
+54,Han skal varsle hvornår han maler vores tag,4,"varsle, maler, tag",16.93129386,-5.262235134,1,1,1,1,1,1,1,1,1,1,0,1,5.44,0,16
+55,Det er rimeligt at kandidaten selv finder en fotograf,5,"rimeligt, finder, fotograf",12.12940742,-3.25816268,1,1,1,1,1,1,0,1,1,1,1,1,6.44,0,16
+56,I løbet af vinteren havde de nået en konklusion,6,"vinteren, nået, konklusion",11.26659729,-3.12730514,1,1,1,1,1,1,1,1,1,1,1,1,5.88,1,16
+57,Dagbladene vil underholde os frem til valget,7,"dagbladene, underholde, valget",13.13243049,-2.197424352,1,1,1,1,1,1,1,1,1,1,1,1,5.81,1,16
+58,Han har indrømmet at han sparkede til håndbolden,8,"indrømmet, sparkede, håndbolden",12.72263522,-2.450844977,1,1,1,1,1,1,1,1,1,1,1,1,6.38,0,16
+59,Det er min ven som har den røde campingvogn,9,"ven, røde, campingvogn",11.32646825,-2.659458306,1,1,1,1,1,1,1,1,1,1,1,1,6.75,0,8
+60,De vil lancere en plade lige før eller efter jul,10,"lancere, plade, jul",18.20638034,-3.011101577,1,1,1,1,0,1,1,1,0,1,1,1,6.19,0,16
+61,Der er en elev der tit vinker til vores rektor,1,"elev, vinker, rektor",22.51319812,-3.898154338,1,1,1,1,1,1,1,1,1,1,1,1,6.63,0,8
+62,Hun blev ansat fordi hun imponerede landstræneren,2,"ansat, imponerede, landstræneren",11.01224325,-4.905597627,1,1,1,1,1,1,1,1,1,1,1,1,6.31,0,16
+63,Partiet skal behandle min generation med respekt,3,"behandle, generation, respekt",33.33347991,-5.790190693,1,1,1,0,1,1,1,1,1,1,1,1,6.19,0,16
+64,Vi kan stadig huske hvad vi indspillede i studiet,4,"huske, indspillede, studiet",15.22063765,-6.122268528,1,1,1,0,1,1,1,1,1,1,1,1,6.5,0,8
+65,Det er interessant at turisterne må ryge i bussen,5,"interessant, ryge, bussen",5.399101423,-3.804392826,1,1,1,1,0,1,1,1,1,1,1,1,6.19,0,16
+66,I december nedlagde de endelig stationen,6,"december, nedlagde, stationen",15.83511019,-5.635475721,1,1,1,1,1,0,1,1,1,1,1,1,6.75,0,16
+67,Min kone råbte et eller andet til maleren,7,"kone, råbte, maleren",14.55299249,-3.058784351,1,1,1,1,1,0,1,1,1,1,1,1,6.41,0,17
+68,Han udelukker at de begynder i den her måned,8,"udelukker, begynder, måned",16.69526472,-3.312057792,1,1,1,1,1,1,1,1,1,1,1,1,5.5,2,16
+69,Det var en titel som afspejlede hendes succes,9,"titel, afspejlede, succes",8.444346014,-6.53223051,1,1,1,1,1,1,1,1,1,1,1,1,5.31,0,16
+70,De sammenlignede materialet med beton og mursten,10,"sammenlignede, beton, mursten",28.38117385,-2.353900517,1,1,1,1,1,1,1,1,1,1,1,1,6.25,0,8
+71,Der er nogle gamle råd der bare mangler kvalitet,1,"råd, mangler, kvalitet",38.99434394,-3.974557281,1,1,1,1,0,1,1,1,1,1,1,1,4.06,1,16
+72,Han er kendt selvom han kun tager sære roller,2,"kendt, tager, roller",5.038138733,-0.493597013,1,0,1,0,0,1,1,0,1,1,0,1,5.44,0,16
+73,Dagbladene beskæftiger sig med situationen i udlandet,3,"beskæftiger, situationen, udlandet",21.32991246,-5.424025252,1,1,1,1,1,1,1,1,1,1,1,1,6.38,0,16
+74,Det afhang af hvor de kunne anbringe stolene,4,"afhang, anbringe, stolene",27.281965,-1.010569809,1,1,1,1,1,1,1,1,1,1,1,1,5.38,0,16
+75,Det var skønt at juristen engagerede sig i handlen,5,"skønt, engagerede, handlen",12.22778014,-5.196199007,1,1,0,1,1,0,1,1,1,1,1,1,5.25,1,16
+76,I sin fritid rider hun af og til rundt på et stadion,6,"fritid, rider, stadion",9.589853991,-5.307596368,1,1,1,1,1,1,1,1,0,1,0,1,4.5,1,16
+77,De havde udsendt mailen til alle embedsmændene,7,"udsendt, mailen, embedsmændene",8.589125657,-2.846745051,1,1,1,1,1,1,1,1,1,1,0,1,6.19,0,16
+78,Han argumenterede for at vi skulle udgive en tegneserie,8,"argumenterede, udgive, tegneserie",15.31808845,-5.199072157,1,1,1,1,0,1,1,1,1,1,1,1,6.5,0,8
+79,Det er toppen som dominerer i superligaen,9,"toppen, dominerer, superligaen",14.53701632,-4.353780965,1,1,1,1,1,1,1,1,1,1,1,1,4.69,2,16
+80,Alle flaskerne skal selvfølgelig indeholde øl,10,"flaskerne, indeholde, øl",12.8830857,-4.847048946,1,1,1,1,1,1,1,1,0,1,1,1,5.76,0,17
+81,Der er mange bilister der godt kan håndtere tæt trafik,1,"bilister, håndtere, trafik",23.21270897,-4.508530642,1,1,0,1,1,1,1,1,1,1,1,1,6.06,0,16
+82,Hun bliver dygtig hvis hun træner hver eftermiddag,2,"dygtig, træner, eftermiddag",14.03480933,-6.22678989,1,1,1,1,1,1,1,1,1,1,1,1,6.75,0,8
+83,Prisen hænger næsten altid sammen med efterspørgslen,3,"prisen, hænger, efterspørgslen",38.22799802,-6.494866197,1,1,1,1,1,1,1,1,1,1,1,1,6.38,0,16
+84,Jeg bestemte hvad vi skulle lege sidste søndag,4,"bestemte, lege, søndag",17.75365926,-6.753991919,0,1,1,1,1,1,1,1,0,1,1,1,5.94,0,16
+85,Det var meget vigtigt at bandet kunne spille i takt,5,"vigtigt, spille, takt",12.56147685,-6.222847847,0,1,1,1,1,1,1,1,1,1,1,1,6.06,0,16
+86,På fredag skal vi rejse ned til et billigt hotel,6,"fredag, rejse, hotel",11.08128404,-9.153854198,1,1,1,1,1,1,1,1,1,1,1,0,5.59,0,17
+87,De vil gerne overføre deres omkostninger til maj,7,"overføre, omkostninger, maj",15.30927715,-4.574597317,1,1,1,1,1,1,1,0,1,1,0,1,5.12,1,17
+88,Han opmuntrede os til at teste chokoladen,8,"opmuntrede, teste, chokoladen",15.27489442,-6.571188886,0,1,1,1,1,1,1,1,1,1,0,1,5.25,0,8
+89,Det er en sejr som virkelig kan forene vores by,9,"sejr, forene, by",14.10303009,-4.413014334,1,0,1,1,1,0,1,0,1,1,1,1,5.76,0,17
+90,De tjekkede både gulvet og loftet i stuen,10,"tjekkede, gulvet, stuen",14.42698693,-6.779391955,1,1,1,1,1,1,1,1,1,1,1,1,6.12,1,17
+91,Der var flere deltagere der sprang over foredraget,1,"deltagere, sprang, foredraget",16.18581444,-7.135203168,1,1,1,1,1,1,1,1,1,1,1,1,4.71,1,17
+92,Han var lettet fordi de havde underskrevet dokumentet,2,"lettet, underskrevet, dokumentet",22.40133948,-7.08062916,1,1,1,1,1,1,1,1,1,1,1,1,6.06,0,17
+93,Min kollega glemte sin taske på biblioteket,3,"kollega, taske, biblioteket",13.47335752,-6.079321178,0,1,1,1,1,1,1,1,0,1,1,1,6.88,0,8
+94,Hun har planlagt hvordan vi kan dele alle udgifterne,4,"planlagt, dele, udgifterne",18.36701243,-4.261635291,1,1,1,1,1,0,1,1,1,1,1,1,6.31,0,16
+95,Det er korrekt at månen bevæger sig gennem rummet,5,"korrekt, månen, rummet",16.27677204,-3.156298052,1,1,1,1,1,1,1,0,1,1,1,1,6,0,8
+96,Under dansen smed en herre sin hat op i luften,6,"dansen, hat, luften",15.57895006,-3.919746373,1,1,1,1,1,1,1,1,1,1,0,1,5.63,0,8
+97,Hun har ofte hældt en lille smule olie i sit hår,7,"hældt, olie, hår",17.08346594,-0.51892944,1,1,1,1,1,1,1,1,1,1,0,1,5.25,0,16
+98,Vi konkluderede at vi burde igangsætte madlavningen,8,"konkluderede, igangsætte, madlavningen",12.18597974,-4.310004515,1,1,1,1,0,1,1,1,1,1,1,1,5.63,0,8
+99,Det var en replik som instruktøren havde foreslået,9,"replik, instruktøren, foreslået",245.8945703,-5.111691526,1,1,1,1,1,1,1,1,0,1,1,1,6.29,0,17
+100,Vi opfordrer folk til at ringe til vores talsmand,10,"folk, ringe, talsmand",8.239212801,-6.080609796,1,1,1,1,1,1,1,1,1,1,1,1,5.88,1,17
+101,Der var medier der helst ville hylde parlamentet,1,"medier, hylde, parlamentet",9.898043149,-0.940156984,0,1,1,1,1,1,1,1,1,1,1,1,6,0,8
+102,De er ivrige fordi en motorvej kan forbinde områderne,2,"ivrige, motorvej, områderne",10.28246136,-2.266633298,1,1,1,1,1,1,1,1,0,1,1,1,5.38,0,8
+103,Vores stykke tiltalte faktisk en seriøs forfatter,3,"stykke, tiltalte, forfatter",11.5457475,-3.829581862,1,1,1,1,1,1,1,1,1,1,1,0,4.5,0,16
+104,Han har også lært hvordan man driver forretning,4,"lært, driver, forretning",241.7996595,-7.252078309,1,1,1,1,1,1,1,1,1,1,1,1,6.38,0,16
+105,Det er klart at pressen vil foretrække en sejr,5,"klart, pressen, sejr",9.580128881,-5.513504611,0,1,1,1,1,0,1,1,1,1,1,1,6.13,0,8
+106,På den egn koger man typisk ænderne i vin,6,"koger, ænderne, vin",11.50482001,-1.067364602,1,1,1,1,1,1,1,1,1,1,0,1,5.56,0,16
+107,Deres advokat overbeviste os på fem minutter,7,"advokat, overbeviste, minutter",24.67460418,-6.078273682,1,1,1,0,1,0,1,1,1,1,1,1,6.88,0,8
+108,Hun fejrer at hun lige har oprettet et hospital,8,"fejrer, oprettet, hospital",29.52987593,-6.687976779,1,1,1,1,1,0,1,1,1,1,1,1,2.25,0,16
+109,Det var en sønderjysk pige som scorede målet,9,"pige, scorede, målet",11.6365102,-5.551117034,1,1,1,1,1,1,1,1,1,1,1,1,6,0,16
+110,Han takkede både for forestillingen og for omgangen,10,"takkede, forestillingen, omgangen",8.896444058,-4.593918307,0,1,1,1,1,1,1,1,0,1,1,1,5.2,0,15
+111,Der er kampagner der opfordrer til mindre forbrug,1,"kampagner, opfordrer, forbrug",17.02779093,-4.68615532,1,1,1,1,1,0,1,1,1,1,0,1,6.33,0,15
+112,Jeg er ansvarlig imens selskabet undersøger kontrakten,2,"ansvarlig, selskabet, kontrakten",13.49819696,-5.602064728,1,1,1,1,1,1,1,1,0,1,0,1,4.6,0,15
+113,Kunstneren havde virkelig boet midt på en strand,3,"kunstneren, boet, strand",8.469315104,-1.623330358,1,1,1,1,1,1,1,1,1,1,1,1,4.8,0,15
+114,Vi fornemmede hvem der kunne bruge mere papir,4,"fornemmede, bruge, papir",11.81075391,-2.761269608,1,1,1,1,1,1,1,1,1,1,1,1,4.13,0,8
+115,Det var forståeligt at anbefalingen imponerede forhandleren,5,"forståeligt, anbefalingen, forhandleren",7.340249194,-5.369765916,1,1,1,0,1,1,1,1,1,1,1,1,4.75,0,16
+116,Efter bare et døgn meldte vi os til et nyt løb,6,"døgn, meldte, løb",7.815644816,-1.094040178,1,1,1,1,1,1,1,1,1,1,1,1,6.5,0,8
+117,En eller anden koncern ville betale os en præmie,7,"koncern, betale, præmie",15.51777363,-1.193320747,1,1,1,1,1,1,1,1,1,1,1,1,5.13,0,8
+118,Vi må antage at de vil udarbejde en konklusion,8,"antage, udarbejde, konklusion",11.85841279,-4.79689045,1,1,1,1,1,1,1,1,0,1,1,1,6.25,0,8
+119,Det er en teknisk fejl som har afbrudt showet,9,"fejl, afbrudt, showet",7.898788813,-5.465959873,1,1,1,1,1,1,1,1,1,1,1,1,5.67,0,15
+120,Han havde ryddet op på tanken om natten,10,"ryddet, tanken, natten",12.00370253,-4.442507651,1,1,1,1,1,1,1,1,1,1,1,1,5.53,0,15
+121,Der var nogle eksperter der blandede sig i debatten,1,"eksperter, blandede, debatten",13.65547868,-4.524424318,1,1,1,1,1,1,1,1,0,1,1,1,6.5,0,16
+122,Vi er nervøse for om de vil aflyse spillet,2,"nervøse, aflyse, spillet",14.91455028,-5.22279162,1,1,1,1,1,1,1,1,1,1,1,1,6.25,1,16
+123,De bager faktisk kun rugbrød omkring jul,3,"bager, rugbrød, jul",19.87495034,-3.341095291,1,1,1,1,1,0,1,0,0,1,1,1,6.13,0,8
+124,Jeg spurgte dem om hvem der havde varetaget opgaven,4,"spurgte, varetaget, opgaven",7.81151788,-7.680549974,1,1,1,1,1,0,1,1,1,1,1,1,5.69,1,16
+125,Det er godt at næstformanden overtog kontrollen,5,"godt, næstformanden, kontrollen",6.684089388,-9.32526395,1,1,1,1,1,1,1,1,1,1,1,1,6.31,0,16
+126,Hver måned afsætter de tyve kilo kartofler,6,"måned, afsætter, kartofler",16.29412691,-3.995545724,1,1,1,1,1,1,1,1,1,0,1,1,6.13,0,16
+127,Damerne havde fulgt os helt hen til landsbyen,7,"damerne, fulgt, landsbyen",23.7461143,-5.20276041,1,1,1,1,1,1,1,1,1,1,1,1,5.94,0,16
+128,Han håber at vi efterlader vores halvdel på øen,8,"håber, halvdel, øen",7.779947456,-1.875345409,1,1,1,1,1,1,1,1,0,1,0,0,4.19,0,16
+129,Det var værten som pludselig forlod lejligheden,9,"værten, forlod, lejligheden",8.882895862,-1.636645114,1,1,1,1,1,1,0,1,1,1,1,1,5.65,0,17
+130,Han betragter ofte de andre bilister eller trafikken,10,"betragter, bilister, trafikken",13.00427998,-7.444491264,1,1,1,1,1,1,1,1,0,0,1,1,5.25,0,8
+131,Der er regioner der stadig tillader afstemninger,1,"regioner, tillader, afstemninger",9.76293978,-3.696572895,1,1,1,1,1,0,1,1,1,1,1,1,6,0,16
+132,Hun var meget seriøs mens retssagen foregik,2,"seriøs, retssagen, foregik",4.543312114,-1.295018358,1,1,1,1,1,1,1,1,1,1,1,1,5.31,0,16
+133,Dagbladet havde dokumenteret hele begivenheden,3,"dagbladet, dokumenteret, begivenheden",14.30083965,-5.580761778,1,0,1,1,1,0,1,0,1,1,1,1,6.5,0,8
+134,De så hvordan han bevægede sig med bolden,4,"så, bevægede, bolden",18.89811377,-7.27280884,1,1,1,1,1,1,1,1,1,1,1,1,6.25,0,16
+135,Det var specielt at en ingeniør havde forfattet et eventyr,5,"specielt, ingeniør, eventyr",7.750892541,-6.39504029,1,1,1,1,1,1,1,1,0,1,0,1,5.65,0,17
+136,På søndag skal vi nok fordele alle rollerne,6,"søndag, fordele, rollerne",14.64516507,-7.972077129,1,1,1,1,1,1,1,1,1,1,1,1,6.5,0,16
+137,Hun kunne selvfølgelig forvandle mælk til smør,7,"forvandle, mælk, smør",44.77846425,-1.161041838,1,1,1,0,0,1,1,1,1,1,1,1,5.88,0,16
+138,De påpeger at de har orienteret deres købere,8,"påpeger, orienteret, købere",7.576280875,-3.134346126,1,1,1,1,1,1,1,1,1,0,1,1,6.38,0,8
+139,Det er en ide som kan fremme beskæftigelsen,9,"ide, fremme, beskæftigelsen",13.17159013,-3.717788187,1,1,1,1,1,1,1,0,1,1,1,1,6.19,0,16
+140,Vi burde kende både sproget og traditionerne,10,"kende, sproget, traditionerne",13.22391103,-4.008635665,1,1,1,1,1,1,1,1,1,1,1,1,6.19,0,16
+141,Der var en overlæge der smilede til min tante,1,"overlæge, smilede, tante",10.58831545,-4.466703563,1,1,1,1,1,1,1,1,1,1,1,1,6.63,0,8
+142,Vi er optimistiske selvom vores træner er stoppet,2,"optimistiske, træner, stoppet",17.21191404,-4.553415822,1,1,1,1,0,1,1,1,1,1,1,1,6.44,0,16
+143,Den lokale købmand lukkede tilbage i august,3,"købmand, lukkede, august",29.02272029,-4.746996669,1,1,1,1,1,1,1,1,0,1,1,1,6.63,0,8
+144,Jeg har sagt hvad han skal øve sig på inden koncerten,4,"sagt, øve, koncerten",10.32903327,-4.737707904,1,1,1,1,1,1,1,1,0,1,1,1,5.94,0,16
+145,Det er unikt at en film kan udløse så meget glæde,5,"unikt, film, glæde",23.27218224,-5.441190368,1,1,1,1,1,1,1,1,1,1,1,1,6.13,0,8
+146,På onsdag skal jeg ud og handle med en veninde,6,"onsdag, handle, veninde",13.5976399,-5.633159952,1,1,1,1,1,1,1,1,1,1,1,1,6.12,0,17
+147,Han udviste altid respekt for sine konkurrenter,7,"udviste, respekt, konkurrenter",10.75854668,-6.572901878,1,1,1,1,1,0,1,1,1,1,1,1,6.13,0,16
+148,De omtalte heldigvis at vi har øget omsætningen,8,"omtalte, øget, omsætningen",8.790949998,-3.457246079,1,1,1,1,1,1,1,1,1,1,1,1,5,0,16
+149,Det var en amerikaner som havde glemt frugterne,9,"amerikaner, glemt, frugterne",15.47206754,-3.21457347,1,1,1,1,1,1,1,1,0,1,1,1,4.56,0,16
+150,Hun forlanger altid salt og fisk til sin fødselsdag,10,"forlanger, salt, fødselsdag",10.30775406,-8.596658815,1,1,1,1,1,1,1,1,1,1,0,1,3.94,1,16
+151,Der er mange følelser der minder om kærlighed,1,"følelser, minder, kærlighed",17.62715728,-5.314057472,1,1,1,1,1,1,1,1,1,1,1,1,5.81,0,16
+152,Hun var meget kreativ da hun indrettede sit sommerhus,2,"kreativ, indrettede, sommerhus",14.60139914,-5.403831486,1,1,1,1,1,1,1,1,1,1,1,1,6.13,0,16
+153,Min bror havde faktisk allerede iført sig dragten,3,"bror, iført, dragten",11.1413107,-3.901855106,1,1,1,1,1,1,1,1,1,1,1,1,6.25,0,8
+154,Vi har beskrevet hvordan man kan følge med i sagen,4,"beskrevet, følge, sagen",219.4625076,-5.046188423,1,1,1,1,1,0,1,1,1,1,1,1,6.06,0,16
+155,Det var vanvittigt at parret bidrog med en hel million,5,"vanvittigt, bidrog, million",7.182112054,-0.832032009,1,1,1,1,1,1,1,0,0,0,1,1,5.69,0,16
+156,Efter pausen kan vi rette vores fokus mod fremtiden,6,"pausen, rette, fremtiden",10.36666652,-6.31689555,1,1,1,1,1,1,1,1,1,1,1,0,5.94,0,16
+157,Det vil medføre en gevinst for hele samfundet,7,"medføre, gevinst, samfundet",14.90666208,-5.598326859,1,1,1,1,1,1,1,1,1,1,0,1,6.88,0,8
+158,Vi fastslog at vi gerne vil hjælpe passagererne,8,"fastslog, hjælpe, passagererne",11.2499221,-4.084330364,1,1,1,1,1,1,1,1,1,1,0,1,5.29,0,17
+159,Det er kun pressen som anvender meningsmålingen,9,"pressen, anvender, meningsmålingen",13.14519525,-2.129184736,1,1,1,1,1,1,1,1,1,1,1,1,5.81,0,16
+160,De har muligvis skadet enten taget eller dørene,10,"skadet, taget, dørene",9.97631697,-1.882928468,1,1,1,0,1,0,1,1,1,1,1,1,5.06,0,16
+161,Der var en komponist der virkelig begejstrede kritikerne,1,"komponist, begejstrede, kritikerne",34.7567035,-4.001165576,1,1,1,1,1,1,1,1,0,1,1,1,5.38,0,16
+162,De bliver lykkelige når deres favorit scorer,2,"lykkelige, favorit, scorer",14.22645285,-2.156743201,1,1,1,1,1,1,1,1,1,1,1,1,6.13,0,8
+163,Redaktøren arbejdede meget under valgkampen,3,"redaktøren, arbejdede, valgkampen",10.59551983,-6.832634995,1,1,1,1,1,1,1,1,1,1,1,1,6.19,1,16
+164,Hun har besluttet hvordan vi skal sænke niveauet,4,"besluttet, sænke, niveauet",11.40892771,-5.85250763,1,1,1,1,1,1,1,1,1,1,0,1,5.44,0,16
+165,Det er rigtigt at kongressen vil påtage sig projektet,5,"rigtigt, påtage, projektet",11.2315218,-5.470331858,1,1,1,0,1,1,1,1,1,1,0,1,6.25,0,8
+166,I april skal vi igen levere asier til centeret,6,"april, levere, centeret",24.22770099,-5.27685356,1,1,0,1,1,1,1,1,1,1,1,1,4.75,1,16
+167,Den fyr der har lige solgt os noget elegant tøj,7,"fyr, solgt, tøj",31.82231274,-5.55478711,1,0,0,1,0,1,1,1,1,1,1,0,4.38,2,16
+168,Han havde accepteret at de forandrede spillet,8,"accepteret, forandrede, spillet",6.447791994,-4.605534175,1,1,1,1,1,0,1,1,1,1,1,1,5.44,0,16
+169,Det var en professor som demonstrerede teorien,9,"professor, demonstrerede, teorien",13.54506725,-6.478989185,1,1,1,1,1,0,1,1,1,1,0,1,5.81,1,16
+170,Jeg uddannede mig til pædagog efter folkeskolen,10,"uddannede, pædagog, folkeskolen",252.3772126,-7.31458858,1,1,1,1,1,1,1,1,1,1,1,1,6.75,0,8
+171,Der er få mennesker der argumenterer imod unionen,1,"mennesker, argumenterer, unionen",11.8233549,-1.707479965,0,1,1,1,1,1,1,1,1,0,0,1,5.81,1,16
+172,Vi er forsigtige selvom vi selv har forfattet kontrakten,2,"forsigtige, forfattet, kontrakten",250.2537919,-7.260454336,1,1,1,1,1,0,1,1,1,1,1,1,4.44,1,16
+173,Ugebladet citerede ham for den bemærkning,3,"ugebladet, citerede, bemærkning",18.48264603,-3.748521935,1,1,1,1,1,1,1,1,1,1,1,1,6.75,0,8
+174,Han kan mærke hvor hånden berører nettet,4,"mærke, hånden, nettet",9.049587368,-2.716259517,1,1,1,1,1,1,1,1,1,1,1,1,4,1,16
+175,Det var lidt sjovt at skyen lignede en bamse,5,"sjovt, lignede, bamse",13.43598597,-4.43456848,1,1,1,1,1,1,1,1,1,1,1,1,6.63,0,8
+176,Hver aften gentager han de samme replikker,6,"aften, gentager, replikker",9.567276699,-4.914814035,1,1,1,1,1,1,1,1,0,1,1,1,6.19,0,16
+177,En konsulent har hjulpet hende med statistikken,7,"konsulent, hjulpet, statistikken",13.98053151,-5.601530241,1,1,1,1,1,1,1,1,1,1,1,1,6.25,0,16
+178,Vi vil gerne fejre at vi skal på ferie i morgen,8,"fejre, ferie, morgen",15.07045091,-4.810363495,1,1,1,1,1,0,1,1,1,1,0,1,6.25,0,16
+179,Det er en konkurrence som tiltrækker mange ryttere,9,"konkurrence, tiltrækker, ryttere",11.30903597,-6.036560721,1,1,1,1,1,0,1,1,1,1,1,1,6.31,0,16
+180,Hun kan godt fremstå lidt kølig eller formel i starten,10,"fremstå, kølig, starten",10.93120366,-6.645467975,1,1,1,1,0,1,1,1,0,1,1,1,6.44,0,16
+181,Der var flere lande der søgte en alliance,1,"lande, søgte, alliance",14.12355413,-6.221000817,1,1,1,1,1,0,1,1,1,1,0,1,5.93,0,14
+182,Hun var meget social når hun opholdt sig i provinsen,2,"social, opholdt, provinsen",7.849075762,-4.331411299,1,1,1,1,1,1,1,1,0,1,1,1,5.75,0,8
+183,Beboerne befinder sig egentlig godt i deres lejligheder,3,"beboerne, befinder, lejligheder",5.958129902,-3.028682333,1,1,1,1,1,1,1,1,1,1,1,1,5.43,0,14
+184,Jeg har hørt hvorfor han isolerede sit sommerhus,4,"hørt, isolerede, sommerhus",6.376403292,-5.116847094,1,1,1,1,1,1,1,1,1,1,1,1,5.88,0,8
+185,Det er fint at ministeren kan inspirere landsholdet,5,"fint, ministeren, landsholdet",16.29146571,-6.686930116,1,1,1,1,1,0,1,1,0,1,1,1,6,0,8
+186,I juli stod han selv for rengøringen i hjemmet,6,"stod, rengøringen, hjemmet",241.7502873,-5.104606094,1,1,1,1,1,1,0,1,1,1,0,1,6.38,0,8
+187,De måtte faktisk bære skrivebordet helt hen til kirken,7,"bære, skrivebordet, kirken",31.65431543,-4.442480372,1,1,1,1,1,1,1,1,1,1,1,1,5.13,0,8
+188,Vi nød selvfølgelig at de behandlede os som konger,8,"nød, behandlede, konger",13.14817984,-2.80253882,0,1,1,1,1,1,1,1,1,1,1,1,5.77,1,13
+189,Det var en avis som ville begrænse sit forbrug,9,"avis, begrænse, forbrug",20.88076377,-4.21810788,1,1,0,1,1,1,1,1,1,1,1,1,4.5,0,8
+190,Han havde gennemstegt og krydret bøfferne,10,"gennemstegt, krydret, bøfferne",7.084482495,0.556958186,1,1,1,1,1,1,1,1,1,1,1,1,6.63,0,8
+191,Der er et par der har udarbejdet nogle huskeregler,1,"par, udarbejdet, huskeregler",16.9856883,-3.679868263,1,1,1,1,1,1,1,1,1,1,1,1,4.86,0,14
+192,Han var bange for at vi slukkede for hans mobiltelefon,2,"bange, slukkede, mobiltelefon",12.27606583,-4.158070005,1,1,1,1,1,1,1,1,1,1,0,1,5.79,1,14
+193,I burde nok drøfte ordningen med en dommer,3,"drøfte, ordningen, dommer",21.7539101,-4.629903867,1,1,1,1,1,1,1,1,1,1,1,1,6.07,0,15
+194,Han erkendte at han måtte udsætte arrangementet,4,"erkendte, udsætte, arrangementet",46.04574342,-3.604724069,1,1,1,1,1,1,1,1,0,0,1,1,6.29,0,14
+195,Det var sært at alle stjernerne lød så almindelige,5,"sært, lød, almindelige",26.254803,-4.142950185,1,1,1,1,1,1,1,0,1,1,0,1,2.62,0,13
+196,Hver eneste dag løfter de en hel masse kasser,6,"dag, løfter, kasser",11.14118439,-6.079620212,1,1,1,1,1,1,1,1,1,1,1,1,5.86,0,14
+197,Brugerne kan henvende sig til vores afdeling,7,"brugerne, henvende, afdeling",23.91304436,-4.064106198,1,1,1,1,0,1,1,1,0,1,1,1,5.92,0,13
+198,Hun har demonstreret at hun kan styre centeret,8,"demonstreret, styre, centeret",14.71892428,-4.168374417,1,1,1,1,1,1,1,1,0,1,1,1,5.5,1,14
+199,Det er et hold som kan ændre superligaen,9,"hold, ændre, superligaen",29.61605905,-2.809240795,1,1,1,1,1,1,1,0,1,1,1,0,6.15,0,13
+200,Det kan ende med en førsteplads eller en andenplads,10,"ende, førsteplads, andenplads",23.95561977,-5.027004693,1,1,1,1,1,1,1,1,1,1,1,1,6.88,0,8
+201,Der var en flok der gik rundt på vores marker,1,"flok, gik, marker",11.50120758,-3.713081129,1,1,1,1,1,1,1,1,0,1,1,1,4.87,2,15
+202,Hun er dygtig fordi hun selv kunne løse problemet,2,"dygtig, løse, problemet",20.17521842,-6.635582795,1,1,1,1,1,1,1,1,0,1,1,1,5.47,0,15
+203,Han har endelig fundet glæden i hverdagen,3,"fundet, glæden, hverdagen",21.66582905,-2.900541065,1,1,1,1,1,1,1,1,1,1,1,1,6,0,16
+204,Vi styrer selv hvordan vi foretager målingerne,4,"styrer, foretager, målingerne",12.59870838,-5.452013611,1,1,1,1,1,1,1,1,0,1,1,1,6.2,0,15
+205,Det er flot at det her initiativ overhovedet eksisterer,5,"flot, initiativ, eksisterer",9.377780334,-7.207516947,1,1,1,1,1,1,1,0,1,1,1,1,5.56,0,16
+206,I september skal vi nok standse byggeriet,6,"september, standse, byggeriet",7.082562054,-4.666288744,1,1,1,1,0,1,1,1,1,1,1,1,5.53,0,15
+207,Deres indsats sikrede dem et nyt mandat,7,"indsats, sikrede, mandat",6.632809538,-6.497884378,1,1,1,1,1,1,1,1,1,1,1,1,6,0,16
+208,Jeg forventer at de renser cyklerne inden etapen,8,"forventer, cyklerne, etapen",7.283890179,-4.098074698,1,1,1,1,1,1,1,1,1,1,0,1,6,0,16
+209,Det var nemlig fodbold som forenede alle tilskuerne,9,"fodbold, forenede, tilskuerne",15.01700458,-6.279154457,1,1,1,0,1,1,1,1,1,1,1,1,4.63,1,16
+210,Han havde fortjent både gevinsten og gaverne,10,"fortjent, gevinsten, gaverne",4.068891925,-3.457856178,1,1,1,1,1,1,1,1,1,1,0,1,6.33,0,15
+211,Der er en landmand der uddeler gratis æbler,1,"landmand, uddeler, æbler",15.23134089,-3.602838663,0,1,1,1,0,1,1,1,1,1,1,1,6.75,0,8
+212,Han var for hurtig da han planlagde turneringen,2,"hurtig, planlagde, turneringen",11.09488265,-5.101044502,1,1,1,1,1,0,1,1,0,1,0,1,5.69,0,16
+213,Min ven arbejder stadigvæk på et landbrug,3,"ven, arbejder, landbrug",8.994329104,-4.501505706,1,1,1,1,1,0,1,1,1,1,1,1,6,0,8
+214,Vi skal tælle hvor mange rækker de markerer,4,"tælle, rækker, markerer",9.183161454,-6.338108336,1,1,1,1,1,0,1,1,1,1,1,1,4.33,1,15
+215,Det var klart at bordene tilhørte arbejdspladsen,5,"klart, bordene, arbejdspladsen",8.763846029,-3.177559274,0,1,1,0,1,1,1,1,1,1,1,1,5.73,0,15
+216,I morgen vil de åbenbart forstærke gulvet,6,"morgen, forstærke, gulvet",7.520627391,-2.788222118,1,1,1,1,1,1,1,0,1,1,1,1,4.63,0,8
+217,Selskabet har faktisk publiceret otte bøger,7,"selskabet, publiceret, bøger",11.69197386,-5.883827269,1,1,1,1,1,1,1,1,1,1,1,1,6.75,0,8
+218,Hun syntes at vi skulle variere spørgsmålene,8,"syntes, variere, spørgsmålene",50.36348583,-6.190122688,1,1,1,1,1,1,1,1,1,1,1,1,6.27,0,15
+219,Det er kun lønnen som begejstrer vores lektor,9,"lønnen, begejstrer, lektor",14.36165973,-3.474386442,1,1,1,1,1,1,1,1,1,1,1,1,5.06,1,16
+220,Hun dukkede pludselig op med et glas og en øl,10,"dukkede, glas, øl",12.07315362,-6.835693606,1,1,1,1,1,1,1,1,1,1,1,1,6.07,0,15
+221,Der er ret mange dansere der går til badminton,1,"dansere, går, badminton",38.20887125,-6.004991306,1,1,1,1,1,1,1,0,1,1,1,1,5.5,0,8
+222,Hun er stolt fordi vi reklamerer for hendes galleri,2,"stolt, reklamerer, galleri",8.491624157,-5.43664089,1,1,1,1,1,1,1,1,1,1,1,1,6.75,0,8
+223,Vi vil først spørge vores nabo om ændringerne,3,"spørge, nabo, ændringerne",4.970640955,-4.59545664,1,1,1,1,0,1,1,1,1,1,1,1,6.25,0,8
+224,Jeg kan selv vælge hvem der skal lede mit firma,4,"vælge, lede, firma",12.77025565,-4.337099006,1,1,1,1,1,1,1,1,1,1,1,1,6.25,0,16
+225,Det er godt at de vil lytte til vores klager,5,"godt, lytte, klager",25.88584432,-5.102211812,1,1,1,1,1,1,1,1,1,1,1,1,6.25,0,16
+226,I september må man igen ride i anlægget,6,"september, ride, anlægget",10.06919407,-3.101267723,1,1,0,1,1,1,1,1,0,1,1,1,5.63,1,16
+227,Borgmesteren tilbød os heldigvis et alternativ,7,"borgmesteren, tilbød, alternativ",15.70250139,-5.680615582,1,1,1,1,1,1,1,1,1,1,1,1,6.63,0,8
+228,De har afvist at de vil uddele flere biler lige nu,8,"afvist, uddele, biler",16.4389871,-4.430873089,1,1,1,1,1,0,1,1,1,1,1,1,4.13,0,8
+229,Det var hans synspunkter som tiltalte min veninde,9,"synspunkter, tiltalte, veninde",6.648169556,-2.902938011,1,1,1,1,1,0,1,1,1,1,1,0,5.88,0,8
+230,De ville rykke kampen til om eftermiddagen,10,"rykke, kampen, eftermiddagen",31.21727646,-3.764300652,1,1,1,1,1,0,1,1,1,1,1,1,6.65,1,17
+231,Der er en skuespiller der henviser til min hjemmeside,1,"skuespiller, henviser, hjemmeside",20.61874788,-6.083836115,1,1,1,1,1,1,1,1,1,1,1,1,6.38,0,8
+232,Han blev populær da hans forslag reddede regeringen,2,"populær, forslag, regeringen",52.82875701,-5.516023772,1,1,1,1,1,1,1,1,1,1,1,1,5.81,1,16
+233,Han har skiftet til et gymnasium tæt ved sin bolig,3,"skiftet, gymnasium, bolig",9.895649952,-6.135494523,1,1,1,1,1,1,1,1,0,1,1,0,5.5,1,16
+234,De har beregnet hvordan vi kan opnå en højere fart,4,"beregnet, opnå, fart",11.39424157,-4.388291207,1,1,1,1,1,1,1,1,1,1,1,1,6.31,3,16
+235,Det var spændende at de åbnede for telefonerne,5,"spændende, åbnede, telefonerne",7.680323478,-4.587423913,1,1,1,1,1,1,1,1,0,1,1,1,4.31,1,16
+236,Efter nogle minutter havde vi vænnet os til situationen,6,"minutter, vænnet, situationen",26.25553747,-5.678521427,1,1,1,1,1,1,1,1,1,1,0,1,6.69,1,16
+237,Forlaget havde lovet hende en solid indtægt,7,"forlaget, lovet, indtægt",19.28491847,-3.44104801,0,1,1,1,1,1,1,1,1,1,0,1,6.19,1,16
+238,Han tilgav at de havde tegnet på hans skærm,8,"tilgav, tegnet, skærm",29.08045846,-5.826988309,1,1,1,0,1,1,1,1,1,1,1,1,5.29,2,17
+239,Det er reklamer som opretholder vores økonomi,9,"reklamer, opretholder, økonomi",13.98384967,-5.600649435,1,1,1,1,1,0,1,1,1,1,1,1,4.88,1,16
+240,Hun efterlyste mere velfærd og mere demokrati,10,"efterlyste, velfærd, demokrati",33.25394439,-5.790312479,1,1,1,1,1,1,1,1,1,1,1,1,6.5,0,16
+241,Der var en gruppe der straks forlod biografen,1,"gruppe, forlod, biografen",23.26252171,-6.698598754,1,1,1,1,1,0,1,1,1,1,0,1,6.4,0,15
+242,Jeg var færdig da jeg nåede til den femte kilometer,2,"færdig, nåede, kilometer",11.00814854,-5.848665077,1,1,1,0,1,1,1,1,1,1,1,1,5.6,0,15
+243,Han havde tegnet ansigter på alle maskinerne,3,"tegnet, ansigter, maskinerne",15.41163378,-6.356032148,1,1,1,1,1,1,1,0,1,1,1,1,6,0,16
+244,Hun fastsætter hvordan vi skal binde buketterne,4,"fastsætter, binde, buketterne",14.17243403,-3.109137455,1,1,1,1,1,1,1,1,1,1,1,1,4.63,0,8
+245,Det er smukt at de gerne vil yde en større hjælp,5,"smukt, yde, hjælp",7.301196291,-2.473490354,1,1,1,1,1,1,1,1,1,1,1,1,5.69,1,16
+246,I aften skal jeg optræde med mit orkester,6,"aften, optræde, orkester",13.15117328,-6.261290073,1,1,1,0,1,1,1,1,1,1,1,1,6.88,0,16
+247,Den her tegnestue har designet vores hotel,7,"tegnestue, designet, hotel",17.0771007,-3.54839464,1,1,1,1,1,1,1,1,1,1,1,1,5.63,0,8
+248,Hun gentog at hun gerne ville forberede vidnet,8,"gentog, forberede, vidnet",6.917021246,-2.521419472,1,1,1,1,1,1,1,1,0,1,1,1,5.75,0,16
+249,Det var en computer som kunne måle deres tempo,9,"computer, måle, tempo",21.95190799,-4.368726948,1,1,1,1,1,1,1,1,1,1,1,1,5,1,16
+250,Han smilede og lo altid ad deres vittigheder,10,"smilede, lo, vittigheder",8.158610983,-1.860490523,1,1,1,1,0,1,1,1,1,1,1,1,6.38,0,8
+251,Der er heldigvis mange chefer der vækker tillid,1,"chefer, vækker, tillid",8.254221889,-1.008224831,1,1,1,0,1,1,1,1,1,1,1,1,5.67,1,15
+252,De er grundige når de behandler et lovforslag,2,"grundige, behandler, lovforslag",20.67212401,-3.500024537,1,1,1,1,1,0,1,1,1,1,1,1,6.73,0,15
+253,En eller anden journalist ventede på mig i køkkenet,3,"journalist, ventede, køkkenet",23.18806417,-5.272171547,1,1,1,1,1,1,1,1,1,1,1,1,5.93,0,15
+254,Han testede hvor meget kæden kunne klare,4,"testede, kæden, klare",11.07517058,-3.57627892,1,1,1,1,1,1,1,1,1,1,1,1,6.13,0,16
+255,Det var vanskeligt for ham at parkere vognen,5,"vanskeligt, parkere, vognen",12.91921241,-4.033984612,1,1,1,1,1,1,1,1,1,1,1,1,6.4,0,15
+256,På tirsdag kan vi svare på din henvendelse,6,"tirsdag, svare, henvendelse",8.639796229,-8.212382304,1,0,1,1,1,1,1,1,1,1,1,1,6.44,0,16
+257,Han havde overladt alle sine forretninger til hustruen,7,"overladt, forretninger, hustruen",13.13093684,-6.232809774,1,1,1,1,1,1,1,1,1,1,1,0,6.31,0,16
+258,De hævder at hun altid overholder loven,8,"hævder, overholder, loven",38.71018961,-5.404691123,1,1,1,1,1,1,1,1,1,1,1,1,6.31,0,16
+259,Det er en økonom som har rådgivet universitetet,9,"økonom, rådgivet, universitetet",44.78736025,-3.838883337,1,1,1,1,1,1,1,1,1,1,1,1,5.93,1,15
+260,Det vil enten begejstre eller irritere køberne,10,"begejstre, irritere, køberne",10.93338731,-1.564497073,1,1,1,1,1,1,1,1,1,1,1,1,6.2,0,15
+261,Der var et barn der gerne ville hive i mit hår,1,"barn, hive, hår",5.98298392,-0.024687785,1,1,1,1,1,1,1,1,1,1,1,1,5.57,0,14
+262,Vi var trygge selvom vi havde sparet på sikkerheden,2,"trygge, sparet, sikkerheden",21.20718365,-5.562866703,1,1,1,1,1,1,1,1,0,1,1,1,4.93,0,14
+263,I kan finde alle glassene bagerst i skabet,3,"finde, glassene, skabet",34.76854605,-7.236079015,1,1,1,1,1,1,1,1,1,1,1,1,6.43,0,14
+264,De vil offentliggøre hvornår de tæller stemmerne,4,"offentliggøre, tæller, stemmerne",19.49432946,-4.172644925,1,1,1,1,1,1,1,1,0,1,1,1,6.5,0,8
+265,Det er muligt at tegningerne virker ret enkle,5,"muligt, tegningerne, enkle",18.1618352,-3.198131509,1,1,1,1,1,1,1,1,1,1,1,1,6.13,0,8
+266,I marts giftede hun sig med en overlæge,6,"marts, giftede, overlæge",23.10999597,-4.365907105,1,1,1,1,1,1,1,1,1,1,1,1,6.5,0,14
+267,Jeg har lige købt en gave til min kammerat,7,"købt, gave, kammerat",10.30920665,-5.711697314,1,1,1,1,1,1,1,1,0,1,1,1,6.6,0,15
+268,Hun håbede at hun kunne udstille sine malerier,8,"håbede, udstille, malerier",10.44459344,-0.77483731,1,1,1,1,1,1,1,1,1,1,1,1,6.75,0,8
+269,Det var oppositionen som dominerede mødet,9,"oppositionen, dominerede, mødet",19.79018648,-4.747979349,1,1,1,1,1,1,1,1,1,1,1,1,5.64,0,14
+270,Deres udspil fristede både mig og min chef,10,"udspil, fristede, chef",15.38017744,-3.365964875,1,1,1,1,1,1,1,1,1,1,0,1,5.63,0,8
+271,Der er bare nogle argumenter der vejer tungere,1,"argumenter, vejer, tungere",21.69396864,-4.766061901,1,1,1,1,0,1,1,1,1,1,1,1,6.07,0,14
+272,Han er professionel fordi han prioriterer sit arbejde,2,"professionel, prioriterer, arbejde",16.32294867,-6.90713847,1,1,1,1,1,1,1,1,0,1,1,1,6,1,8
+273,Deres samtaler drejede sig typisk kun om sport,3,"samtaler, drejede, sport",17.88156128,-6.251508115,1,1,1,1,1,1,1,1,1,1,1,1,6.21,0,14
+274,Vi aftalte hvem der skulle tjekke deres historie,4,"aftalte, tjekke, historie",14.13526997,-6.432707996,1,1,1,1,1,1,1,1,0,1,1,1,4.79,1,14
+275,Det var praktisk at operationen foregik om sommeren,5,"praktisk, operationen, sommeren",13.90886635,-6.661437041,1,1,1,1,1,0,1,1,0,1,1,1,5.71,0,14
+276,I januar drømmer vi ofte om solskin og ferie,6,"januar, drømmer, ferie",13.99963729,-5.489317436,1,1,1,1,1,1,1,1,1,1,1,1,6.57,0,14
+277,Vores kaptajn præsenterede mig for ambassadøren,7,"kaptajn, præsenterede, ambassadøren",6.600296664,-7.600813021,1,1,1,1,1,0,1,1,1,1,1,1,5.64,0,14
+278,Hun har tilladt at vi ryger på vores værksted,8,"tilladt, ryger, værksted",12.32989575,-5.170965699,1,1,1,1,1,1,0,1,1,1,1,1,5.57,0,14
+279,Det er ofte humor som præger vores branche,9,"humor, præger, branche",12.75922819,-4.399790968,1,1,1,1,1,1,0,1,1,1,1,1,5.07,0,15
+280,Han har både drevet et flyselskab og et landbrug,10,"drevet, flyselskab, landbrug",16.3484995,-4.678730644,1,1,1,1,1,1,1,1,0,1,0,1,6.13,0,8
+281,Der var mange passagerer der sov i lufthavnen,1,"passagerer, sov, lufthavnen",22.11615443,-7.933455968,1,1,1,1,1,1,1,1,1,1,1,1,6,0,15
+282,Han var tit glad når han uddelte pakker,2,"glad, uddelte, pakker",11.30878915,-3.971995366,1,1,1,1,1,1,1,1,1,1,1,1,6.2,0,15
+283,De har åbnet et plejehjem på min gade,3,"åbnet, plejehjem, gade",7.545438298,-2.952686751,1,1,1,1,1,1,1,1,1,1,0,1,5.53,0,15
+284,Hun forstår hvorfor man skal inddrage børnene,4,"forstår, inddrage, børnene",18.96708884,-7.312519915,1,1,1,1,1,1,1,1,0,1,1,1,5.8,0,15
+285,Det er helt åbenlyst at vi kun fejrer vinderne,5,"åbenlyst, fejrer, vinderne",13.27896457,-3.789915838,1,1,1,1,1,1,1,1,0,1,1,1,6.07,0,15
+286,I går fungerede radioen kun om formiddagen,6,"fungerede, radioen, formiddagen",47.96368871,-3.75,1,1,1,1,1,1,1,1,1,1,1,1,6.07,0,15
+287,Forhandleren fristede os med italiensk is,7,"forhandleren, fristede, is",15.52590604,-6.051730987,1,1,1,1,1,1,1,1,0,1,1,1,5.33,0,15
+288,Hun synes at jeg skal blande mig i forhandlingerne,8,"synes, blande, forhandlingerne",35.47537477,-5.423681397,1,1,1,1,1,0,1,1,1,1,1,1,6.07,0,15
+289,Det var en politiker som havde formuleret kravet,9,"politiker, formuleret, kravet",7.85793628,-3.239930039,1,1,0,1,0,0,1,1,1,1,1,1,5.87,0,15
+290,Han ville fremstille sine påstande i radioen,10,"fremstille, påstande, radioen",7.154713499,-4.384470712,1,1,1,1,1,1,1,1,0,1,1,1,5.13,0,15
+291,Der er medarbejdere der flygter til vores konkurrent,1,"medarbejdere, flygter, konkurrent",10.55808386,-5.480378911,1,1,0,1,1,0,1,1,1,1,1,1,6.07,1,15
+292,Vi er berømte fordi vi har forandret branchen,2,"berømte, forandret, branchen",15.97180346,-5.324292239,1,1,1,1,1,1,1,1,1,1,1,1,5.93,0,15
+293,Kunderne bør nok tilpasse deres forventninger,3,"kunderne, tilpasse, forventninger",12.61372305,-3.447198651,1,1,1,1,1,1,1,1,1,1,1,1,6,0,15
+294,De vil undersøge hvordan man kan forbedre reglerne,4,"undersøge, forbedre, reglerne",17.77734877,-4.632701465,1,1,1,1,1,1,1,1,1,1,1,1,6.27,0,15
+295,Det var uheldigt at jeg stadig sad på den post,5,"uheldigt, sad, post",13.0336813,-7.367128632,1,0,1,1,1,1,1,1,1,1,1,1,5.87,0,15
+296,I juni oversatte han et eventyr til fransk,6,"juni, eventyr, fransk",12.38264064,-5.639141647,1,1,1,1,1,1,1,1,1,1,1,1,5.93,1,15
+297,Vi bør nok overføre mere kraft til motorerne,7,"overføre, kraft, motorerne",12.98332017,-4.775024927,1,1,1,1,0,1,1,1,0,1,1,1,5.4,1,15
+298,Jeg ville ønske at vi kunne udskyde jubilæet,8,"ønske, udskyde, jubilæet",8.029947846,-2.289517861,1,1,1,1,1,1,1,1,0,1,1,1,6.75,0,8
+299,Det er den her mail som morede næstformanden,9,"mail, morede, næstformanden",16.52942143,-2.914086657,1,1,1,1,1,0,1,1,0,1,1,1,5.75,0,8
+300,Hun vil uddanne sig til betjent eller psykolog,10,"uddanne, betjent, psykolog",11.3870893,-2.752225523,1,1,1,1,1,0,1,1,0,1,1,1,6.75,0,8
+301,Der var nogle lærere der ville indføre flere prøver,1,"lærere, indføre, prøver",25.94311699,-3.490659472,1,1,1,1,1,1,1,1,1,1,1,1,6.53,1,15
+302,Hun var barsk da hun kritiserede borgmesteren,2,"barsk, kritiserede, borgmesteren",26.49774496,-4.597710628,1,1,1,1,1,0,1,1,1,1,1,1,6.43,1,14
+303,Kampen kan sagtens ende helt uden mål,3,"kampen, ende, mål",242.3748695,-2.45818357,0,1,1,1,1,1,1,1,1,1,1,1,5.85,0,13
+304,Han lærte hvordan man kan indrette sin hverdag,4,"lærte, indrette, hverdag",15.30610661,-4.284876561,1,1,1,1,1,1,1,1,0,1,0,1,5.21,0,14
+305,Det er tydeligt at de glæder sig over stigningen,5,"tydeligt, glæder, stigningen",18.68748882,-5.446389352,1,1,1,1,1,1,1,0,1,1,1,1,5.73,1,15
+306,Næste år vil jeg gerne fortsætte som ordfører,6,"år, fortsætte, ordfører",20.39793715,-6.30754404,1,1,1,1,1,1,1,1,1,1,1,1,6.23,0,13
+307,Manuskriptet kostede os kun et mindre beløb,7,"manuskriptet, kostede, beløb",20.61953652,-5.585619648,1,1,1,1,1,1,1,1,1,1,1,1,6.5,0,8
+308,Hun har foreslået at vi også takker borgerne,8,"foreslået, takker, borgerne",19.41077897,-5.719250991,1,0,1,1,1,1,1,1,1,1,1,1,5.69,0,13
+309,Det var et foto som skulle forestille hendes datter,9,"foto, forestille, datter",21.12662048,-5.985470629,1,1,1,1,1,1,1,1,1,1,1,1,4.62,0,13
+310,Han tiltrak bare mere arbejde og flere opgaver,10,"tiltrak, arbejde, opgaver",6.920560541,-7.737668642,1,1,1,1,1,1,1,1,1,1,1,1,4.69,0,13
+311,Der er ret mange amerikanere der ejer en gård,1,"amerikanere, ejer, gård",17.59795946,-5.446487641,1,1,1,1,1,1,1,1,1,1,1,1,6.63,0,8
+312,Han er heldig fordi lægen vil lave en henvisning,2,"heldig, lægen, henvisning",13.63782914,-5.509917385,1,1,1,1,1,1,1,1,1,1,1,1,5.15,1,13
+313,Mit barnebarn gled frem og tilbage på det glatte gulv,3,"barnebarn, gled, gulv",8.363926802,-3.276559479,1,1,1,1,0,1,1,1,1,1,1,1,6,0,8
+314,Vi har opsporet hvem der først oversatte sloganet,4,"opsporet, oversatte, sloganet",9.141651188,-5.116331711,1,1,1,1,1,0,1,1,1,1,1,1,5.88,0,8
+315,Det var klogt at sportsdirektøren indgik et forlig,5,"klogt, indgik, forlig",12.15576596,-5.429005945,1,1,1,1,1,1,1,1,1,1,0,1,6,0,8
+316,I den her park kan man hvile sig i skyggen,6,"park, hvile, skyggen",14.84837034,-2.835107436,1,1,1,1,1,1,1,1,0,1,1,1,5.85,0,13
+317,De indkøber for eksempel fødevarer til forbrugerne,7,"indkøber, fødevarer, forbrugerne",14.23620301,-4.18368196,1,1,1,1,1,0,1,1,1,1,1,1,5.88,0,8
+318,Han hævdede rent faktisk at han ejede tre villaer,8,"hævdede, ejede, villaer",11.42869289,-5.000000035,1,1,1,1,1,1,1,1,1,1,1,1,6,0,8
+319,Det er aktiviteter som kan påvirke klimaet,9,"aktiviteter, påvirke, klimaet",16.25622214,-4.241128173,1,1,1,1,1,0,1,1,0,1,1,1,5.86,1,14
+320,Jeg har allerede vænnet mig til den hårde træning,10,"vænnet, hårde, træning",247.0959995,-7.373259207,1,1,1,1,1,1,1,1,1,1,1,1,6.71,0,14
+321,Der var en ingeniør der overvågede processen,1,"ingeniør, overvågede, processen",20.53343511,-6.519566056,1,1,1,1,0,1,1,1,1,1,1,1,6.75,0,8
+322,De var meget ivrige fordi vi stemte på deres idé,2,"ivrige, stemte, idé",31.03512333,-3.270105471,1,1,1,1,1,1,1,1,0,1,1,1,6.38,0,8
+323,Langt de fleste forandringer sker i storbyerne,3,"forandringer, sker, storbyerne",6.613354774,-5.413395527,1,1,1,1,1,1,1,1,1,1,1,1,6.5,0,8
+324,Han viste os hvordan man skal binde et slips,4,"viste, binde, slips",15.49700631,-5.479254483,1,1,1,1,1,1,1,0,1,1,1,1,6.79,0,14
+325,Det er imponerende at de har vundet guld,5,"imponerende, vundet, guld",6.614176486,-1.045720147,1,1,1,1,0,1,1,1,1,1,1,1,6.71,0,14
+326,I den her sæson må vi nok opgive håndbold,6,"sæson, opgive, håndbold",7.094013444,-4.532127329,1,1,1,1,1,1,1,1,1,1,1,1,5.79,0,14
+327,Jeres afdeling har tilbudt mig en ret lav løn,7,"afdeling, tilbudt, løn",20.37894229,-3.843989454,1,1,1,1,1,0,1,1,1,1,1,1,6,1,15
+328,Hun fortalte at det vil medføre flere skatter,8,"fortalte, medføre, skatter",11.85239079,-5.931461835,1,1,1,1,1,1,1,1,1,1,1,1,6.5,1,14
+329,Det var en periode som prægede vores generation,9,"periode, prægede, generation",13.8261143,-2.232434268,1,1,1,1,1,1,1,1,0,1,1,1,6.21,0,14
+330,Han risikerer ingenting med en sikker investering,10,"risikerer, sikker, investering",17.16117158,-5.010426873,1,1,1,1,1,1,1,1,1,1,1,1,5.88,0,8
+331,Der er en leder der tilbød os nogle forbedringer,1,"leder, tilbød, forbedringer",31.98887211,-2.914546913,1,1,1,0,1,0,1,1,1,1,1,1,5,0,14
+332,Hun er sød selvom jeg parkerede på hendes plads,2,"sød, parkerede, plads",12.60158464,-5.234260829,1,1,1,1,1,1,1,0,1,1,1,1,4,0,8
+333,Vi kan kigge på dokumenterne i weekenden,3,"kigge, dokumenterne, weekenden",46.89109847,-3.758990049,1,1,1,1,1,1,1,1,1,1,1,1,6.57,1,14
+334,De har afsløret hvem der designede møblerne,4,"afsløret, designede, møblerne",11.06164414,-3.943804796,1,1,1,1,1,1,1,1,0,1,1,1,6.38,0,8
+335,Det var klogt at han udnyttede sine muligheder,5,"klogt, udnyttede, muligheder",16.98925326,-4.668939769,1,1,1,1,1,1,1,1,1,1,1,1,6.63,0,8
+336,I begyndelsen skjulte han kaninen på sit værelse,6,"begyndelsen, kaninen, værelse",18.62182986,-4.399174358,1,1,0,1,1,1,1,1,1,1,1,1,6.38,0,8
+337,Jeg har anbragt alle papirerne på vægten,7,"anbragt, papirerne, vægten",5.686845172,-5.039113513,1,1,1,1,1,1,1,1,0,1,1,1,5.57,0,14
+338,De fremhæver at de respekterer vores værdier,8,"fremhæver, respekterer, værdier",13.38658907,-5.92677558,1,1,1,1,1,0,1,1,1,1,1,1,5.5,0,14
+339,Det er vores blad som skal udpege vinderen,9,"blad, udpege, vinderen",14.02795242,-3.456200123,1,1,1,1,1,0,1,1,1,1,1,1,5.64,0,14
+340,Hun genkendte både musikken og teksten,10,"genkendte, musikken, teksten",19.03589498,-4.367097307,1,1,1,1,1,1,1,1,1,1,1,1,6.79,0,14
+341,Der var en læge der reagerede på indlægget,1,"læge, reagerede, indlægget",5.534598834,-4.419528484,1,1,1,1,1,0,1,1,0,1,1,1,5.86,0,14
+342,Han var vågen da hans partner bankede på ruden,2,"vågen, partner, ruden",29.1485155,-3.125019025,1,1,1,1,1,1,1,1,0,1,1,1,6.5,0,8
+343,De havde allerede hængt hjerter i vinduerne,3,"hængt, hjerter, vinduerne",22.64416495,-1.237478624,1,1,1,1,1,1,1,1,0,1,1,1,6.73,0,15
+344,Vi vil nævne hvorfor vi udleverer dokumenterne,4,"nævne, udleverer, dokumenterne",24.5410661,-3.918859876,1,1,1,1,1,0,1,1,1,1,1,1,4.93,0,14
+345,Det er sandt at jeg beundrer mine kollegaer,5,"sandt, beundrer, kollegaer",16.1291059,-5.899469772,1,1,1,1,1,1,1,1,1,1,1,1,6.5,0,8
+346,I april skal jeg igen synge sammen med mit kor,6,"april, synge, kor",17.1506811,-4.331755125,1,1,1,1,1,1,1,1,1,1,1,1,5.8,0,15
+347,Vi overlod selvfølgelig alle detaljerne til fagfolk,7,"overlod, detaljerne, fagfolk",5.512543511,-0.690900806,1,1,1,1,1,1,1,1,1,1,1,1,6.75,0,8
+348,Vi beklager at vi bankede på midt i udsendelsen,8,"beklager, bankede, udsendelsen",11.9056279,-6.169136333,1,1,1,1,1,0,1,1,1,1,1,1,5.71,0,14
+349,Det var en af sangerne som forsvandt i pausen,9,"sangerne, forsvandt, pausen",16.05793152,-6.325745958,1,1,1,1,1,1,1,1,1,1,1,1,4.81,0,16
+350,Man skal helst både rulle og sprede dejen,10,"rulle, sprede, dejen",8.08642153,0.224319236,1,1,1,1,1,0,1,1,1,1,1,1,4.2,0,15
+351,Der er en kat der gemmer sig bag blomsterne,1,"kat, gemmer, blomsterne",10.16507222,-7.588312643,1,1,1,1,1,1,1,0,1,1,1,1,6.35,0,17
+352,Hun er nervøs fordi vi inviterede hende ud på slottet,2,"nervøs, inviterede, slottet",9.890224323,-5.112534226,1,1,1,1,1,1,1,1,1,1,1,0,5.57,0,14
+353,De burde fjerne de der figurer fra vores park,3,"fjerne, figurer, park",7.736353427,-4.533301872,1,1,1,1,1,1,1,1,0,1,1,1,5.81,0,16
+354,Vi har skrevet ned hvordan vi plejer at gøre,4,"skrevet, plejer, gøre",27.6950185,-6.382648143,1,1,1,1,1,1,0,1,1,1,1,1,6.4,0,15
+355,Det var ærgerligt at vi sprang over maden,5,"ærgerligt, sprang, maden",7.927436739,-5.461150765,1,1,1,1,1,1,1,1,1,1,1,1,3.47,2,15
+356,Om natten kravlede musene rundt oppe under taget,6,"natten, kravlede, taget",16.96702905,-4.645299783,1,1,1,1,1,1,1,1,1,1,0,1,6.5,0,8
+357,Jeg havde oplyst kunden om det præcise beløb,7,"oplyst, kunden, beløb",17.11620606,-4.665976907,1,1,1,1,1,1,1,1,0,1,0,1,6.75,0,16
+358,Det betød at de skulle ansætte flere dommere,8,"betød, ansætte, dommere",12.02903549,-4.916771964,1,1,1,1,1,1,1,1,1,1,1,1,6.27,0,15
+359,Det er kun domstolen som kan dømme i sagen,9,"domstolen, dømme, sagen",25.70263273,-4.331507261,1,1,1,1,1,0,1,1,1,1,1,1,6.67,0,15
+360,Vores magasin vil gerne udgive flere digte,10,"magasin, udgive, digte",8.768209049,-3.623817929,1,1,1,1,1,1,1,1,0,1,1,1,5.93,0,15
+361,Der var et skib der landede i en jysk havn,1,"skib, landede, havn",27.75199808,-6.014465404,1,1,1,1,1,0,1,1,1,1,1,1,3.44,0,16
+362,Jeg var venlig selvom de fastholdt deres kritik,2,"venlig, fastholdt, kritik",13.80281188,-5.040991777,1,1,1,1,1,1,1,1,1,1,1,1,6,0,16
+363,Hans forskning indgik naturligt i undervisningen,3,"forskning, indgik, undervisningen",29.40119486,-3.099410485,1,1,1,1,0,1,1,0,1,1,1,1,6.63,1,16
+364,Hun vil vise os hvordan hun angreb problemet,4,"vise, angreb, problemet",9.372007374,-3.008085466,1,1,1,1,1,0,1,1,1,1,1,1,5.25,0,16
+365,Det er meget vigtigt at de udbreder den information,5,"vigtigt, udbreder, information",11.73094318,-5.004784859,1,1,1,1,1,1,1,1,0,1,1,1,5.63,0,8
+366,Efter skolen havnede han vistnok på gymnasiet,6,"skolen, havnede, gymnasiet",12.67231745,-3.852843031,1,1,1,1,1,1,1,1,0,1,1,1,6.25,0,8
+367,Vi kan skræddersy en løsning til jeres virksomhed,7,"skræddersy, løsning, virksomhed",21.59092636,-8.230432322,1,1,1,0,1,1,1,1,1,1,1,1,6.75,0,8
+368,De havde valgt at inddrage alt personalet,8,"valgt, inddrage, personalet",12.22971006,-3.683732334,1,1,1,1,1,1,1,1,1,1,1,1,6.69,0,16
+369,Det var et eventyr som fascinerede min søn,9,"eventyr, fascinerede, søn",12.58410712,-3.868894098,1,1,1,1,1,1,1,1,0,1,1,1,6.31,0,16
+370,Han forsøger at opbygge et netværk og en portefølje,10,"forsøger, opbygge, portefølje",6.437859318,-5.103371483,1,1,1,1,1,1,1,1,1,1,1,1,6.75,0,8
+371,Der er ret mange briter der elsker sport,1,"briter, elsker, sport",30.20276167,-3.655354195,1,1,1,1,1,1,1,0,1,1,1,1,6.25,1,16
+372,Hun er sur fordi vi har rykket rundt på datoerne,2,"sur, rykket, datoerne",9.893732435,-5.689828094,1,1,1,1,1,1,1,1,1,1,1,1,6.81,1,16
+373,Han har fjernet al musikken fra forestillingen,3,"fjernet, musikken, forestillingen",8.807386716,-6.120440255,1,1,1,1,1,1,1,1,0,1,1,1,6.38,1,16
+374,I kan godt regne ud hvorfor vi måler resultaterne,4,"regne, måler, resultaterne",13.8204645,-3.056496157,1,1,1,1,1,1,1,1,1,1,1,1,5.5,1,16
+375,Det var fint at de samarbejdede med oppositionen,5,"fint, samarbejdede, oppositionen",9.049247279,-5.612196789,1,1,1,1,1,1,1,1,1,1,0,1,6.56,1,16
+376,I den her sal plejer vi at danse uden sko,6,"sal, danse, sko",89.63109733,-3.168633792,1,1,1,1,1,1,1,1,1,1,1,1,6.19,0,16
+377,De ville flytte al maden ned til stranden,7,"flytte, maden, stranden",19.96556013,-4.689066938,1,1,1,1,1,1,1,1,1,1,1,1,5.19,0,16
+378,Vi forudså at vi ville opnå en forbedring,8,"forudså, opnå, forbedring",15.45543434,-3.359799896,1,1,1,1,1,1,1,1,1,1,0,1,6.13,0,16
+379,Det er et lys som kan brænde i tre døgn,9,"lys, brænde, døgn",9.851998328,-4.329613169,1,1,1,1,1,1,1,1,1,1,1,1,6.25,0,16
+380,Vi vil gerne tilpasse vores varer til markedet,10,"tilpasse, varer, markedet",13.19329038,-5.738224396,1,1,1,1,1,1,1,1,1,1,1,1,6.25,1,16
+381,Der var en rådgiver der analyserede valget,1,"rådgiver, analyserede, valget",13.26825528,-4.804016473,1,1,0,1,1,1,1,1,1,1,1,1,5.33,0,15
+382,Jeg er grundig når jeg formulerer en annonce,2,"grundig, formulerer, annonce",26.10563913,-3.745726362,1,1,1,1,1,1,1,1,1,1,1,1,5.94,0,16
+383,Hun har mødt vedkommende i hemmelighed,3,"mødt, vedkommende, hemmelighed",12.13461748,-1.605101514,1,1,0,1,1,1,1,1,0,1,1,1,5.43,0,14
+384,Han nævnte hvem der havde løst vores problem,4,"nævnte, løst, problem",16.20799609,-5.068348243,1,1,1,1,1,0,1,1,0,1,1,1,5.87,0,15
+385,Det er forståeligt at hun steg så hurtigt i graderne,5,"forståeligt, steg, graderne",14.98471416,-4.018170079,1,1,1,1,0,0,1,1,1,1,1,1,6.38,0,8
+386,I vores kvarter låser vi nærmest aldrig dørene,6,"kvarter, låser, dørene",44.50605835,-4.621495008,1,1,1,1,1,1,1,1,0,1,1,1,6.53,0,15
+387,Den her vej fører jer direkte ind til centrum,7,"vej, fører, centrum",32.04681001,-6.944204054,1,1,1,1,1,1,1,0,1,1,1,1,6.27,0,15
+388,Vi risikerer at de vil gennemgå vores regnskab,8,"risikerer, gennemgå, regnskab",14.51715044,-5.827883369,1,1,1,1,1,1,1,1,1,1,0,1,6.25,0,16
+389,Det var det lave tryk som skabte stormen,9,"tryk, skabte, stormen",28.71372638,-6.651206924,1,1,1,1,1,1,0,1,0,1,1,1,6.25,0,8
+390,Han har tjent og videregivet en hel masse penge,10,"tjent, videregivet, penge",8.63200197,-4.752118631,1,1,1,1,1,1,1,1,0,1,0,1,6.25,0,8
+391,Der er mange musikere der nyder godt af festivalerne,1,"musikere, nyder, festivalerne",11.87517178,-3.248942966,1,1,1,1,1,1,1,1,0,1,1,1,6.44,0,16
+392,Hun var meget opmærksom når hun kogte pasta,2,"opmærksom, kogte, pasta",5.204578602,0.366290976,1,1,1,1,1,1,1,1,1,1,1,1,6.25,0,8
+393,Museet befinder sig i en skov tæt ved søen,3,"museet, skov, søen",13.79673842,-7.240242877,1,1,1,1,1,1,1,0,0,1,1,1,6,0,15
+394,Han har indset hvor afgørende det er at forhandle,4,"indset, afgørende, forhandle",28.7723319,-5.372074131,1,1,1,1,1,1,1,1,1,1,1,1,6.44,0,16
+395,Det var hemmeligt at vi havde lavet en film,5,"hemmeligt, lavet, film",18.39323838,-1.98118262,1,1,1,1,1,1,1,1,1,1,1,1,6.29,0,14
+396,I næste sæson kan de kvalificere sig til superligaen,6,"sæson, kvalificere, superligaen",10.41537447,-7.508614584,1,1,1,1,1,1,1,1,1,1,1,1,6.8,0,15
+397,Hun takkede igen sin bror for mobiltelefonen,7,"takkede, bror, mobiltelefonen",21.73152685,-3.378289045,1,1,1,1,1,1,1,1,1,1,1,1,6.13,0,16
+398,Han drømte ofte at han flød ned ad en varm flod,8,"drømte, varm, flod",8.823160123,-3.916066148,1,1,1,1,1,1,1,1,0,1,1,1,4.75,0,8
+399,Det er dit orkester som skal underholde pensionisterne,9,"orkester, underholde, pensionisterne",17.23081528,-5.140497511,1,1,1,1,1,1,1,1,1,1,1,1,6.29,0,14
+400,Han reddede både sin kone og ven i sikkerhed,10,"reddede, kone, sikkerhed",47.16189691,-1.975523238,1,1,1,1,1,1,1,1,1,1,1,1,6.14,0,14
+401,Der var en dreng der havde pustet balloner op,1,"dreng, pustet, balloner",9.943697566,-2.776607068,1,1,1,1,1,1,1,1,1,1,1,1,5.63,0,8
+402,Han bliver ivrig når I kommenterer hans værk,2,"ivrig, kommenterer, værk",19.66864056,-2.627364243,1,1,1,1,1,1,1,1,1,1,1,1,6.13,0,8
+403,Vores træner var desværre steget på et andet tog,3,"træner, steget, tog",7.436974466,-3.979644902,1,1,1,1,1,1,1,1,1,1,1,1,5.69,1,13
+404,Han spurgte om hvordan man fremstiller papir,4,"spurgte, fremstiller, papir",4.893955244,-3.949895012,1,1,1,1,1,0,1,1,1,1,1,1,4.85,1,13
+405,Det er skønt at I vil overholde vores aftale,5,"skønt, overholde, aftale",9.659068886,-5.764240511,1,1,1,1,0,0,1,1,1,1,1,1,5.88,0,8
+406,I juli flyver min kæreste og jeg til udlandet,6,"juli, flyver, udlandet",21.62616007,-3.69229485,1,1,1,1,1,0,1,1,0,1,0,1,5.79,1,14
+407,Vi skal bære alle møblerne op på femte sal,7,"bære, møblerne, sal",241.7613481,-5.046735372,1,1,1,1,1,1,1,1,0,1,1,1,6.79,0,14
+408,De tror vist at vi vil hilse på udenrigsministeren,8,"tror, hilse, udenrigsministeren",6.794052334,-6.102838965,1,1,1,1,1,1,1,1,0,1,0,1,5.57,0,14
+409,Det var politikerne som dominerede debatten,9,"politikerne, dominerede, debatten",34.01273144,-2.095465793,1,1,1,1,1,1,1,1,1,1,1,0,6.15,0,13
+410,Hun træner især sin mave og sine arme,10,"træner, mave, arme",22.90837904,-6.702609264,1,1,1,1,1,1,1,1,1,1,1,1,5.69,0,13
+411,Der er få kommuner der vil skærpe kontrollen,1,"kommuner, skærpe, kontrollen",16.71033422,-3.218201543,1,1,1,1,0,1,1,1,1,1,1,1,6.14,0,14
+412,Hun var usædvanlig fordi hun godt kunne lide regnvejr,2,"usædvanlig, lide, regnvejr",7.635200572,-1.008107206,1,1,1,1,0,1,1,0,1,1,1,1,5.36,0,14
+413,Han var tilknyttet vores institut i det her kvartal,3,"tilknyttet, institut, kvartal",9.099317858,-8.411577045,1,1,1,1,1,1,1,1,1,1,1,0,5.21,1,14
+414,De beskrev hvad de havde ordnet ved knallerten,4,"beskrev, ordnet, knallerten",24.05593583,-2.776361135,1,1,1,1,1,1,1,1,0,1,1,1,5.38,0,8
+415,Det var sjovt at hunden vendte sig mod en dame,5,"sjovt, hunden, dame",9.336821478,-5.016034912,1,1,1,1,1,1,1,1,1,1,1,1,4.92,0,13
+416,I februar skal jeg optræde med mit band,6,"februar, optræde, band",14.04770437,-7.052257777,1,1,1,0,1,1,1,1,1,1,1,1,6.29,0,14
+417,Vi skal fordele alt udstyret blandt deltagerne,7,"fordele, udstyret, deltagerne",16.68620711,-5.336273068,1,1,1,1,1,1,1,1,1,1,1,1,6.36,0,14
+418,De gentog at man ikke må røre ved bilerne,8,"gentog, røre, bilerne",9.407781809,-5.069792125,1,1,1,1,1,1,1,1,1,1,1,1,5.71,0,14
+419,Det er en strategi som kan begrænse truslen,9,"strategi, begrænse, truslen",7.320658299,-6.052782514,1,1,1,1,1,1,1,1,1,1,1,1,5.64,0,14
+420,Protesterne bredte sig hurtigt til hele byen,10,"protesterne, bredte, byen",17.07641375,-5.0036934,1,1,1,1,1,0,1,1,1,1,1,1,5.93,0,14
+421,Der var et krydderi der forstærkede smagen,1,"krydderi, forstærkede, smagen",9.139823246,-5.68358274,1,1,1,1,1,1,1,1,1,1,1,1,6.2,0,15
+422,Vi er lidt urolige fordi det blæser meget på havet,2,"urolige, blæser, havet",10.49944676,-3.533853724,1,1,1,1,1,1,1,1,1,1,0,1,6,1,15
+423,Jeg havde faktisk læst hele teksten i pausen,3,"læst, teksten, pausen",13.23848235,-7.045611552,1,1,1,1,1,1,1,1,1,1,1,1,6.53,0,15
+424,Han vidste at de skulle grave længe efter skatten,4,"vidste, grave, skatten",21.84410774,-7.346684045,1,1,1,1,1,0,1,1,0,1,1,1,6.75,0,8
+425,Det er romantisk at han giftede sig med sin sygeplejerske,5,"romantisk, giftede, sygeplejerske",17.50019888,-6.401613987,1,1,1,1,1,1,1,0,1,1,1,1,6.5,0,8
+426,I anden halvleg skal vi satse mere på forsvar,6,"halvleg, satse, forsvar",6.267447135,-4.666003214,1,1,1,1,1,1,1,1,0,1,1,1,6.13,0,15
+427,De burde rette deres opmærksomhed mod fortiden,7,"rette, opmærksomhed, fortiden",10.69540011,-6.237265766,1,1,1,1,1,0,1,0,1,1,1,1,6.13,0,16
+428,Hun ønskede egentlig at de ville lukke teateret,8,"ønskede, lukke, teateret",9.116467707,-2.298902804,1,1,1,1,1,1,1,1,1,1,1,1,6.38,0,16
+429,Det var bestyrelsen som havde vedtaget projektet,9,"bestyrelsen, vedtaget, projektet",10.61005117,-6.074439141,1,1,1,1,1,0,1,1,1,1,1,1,6.67,0,15
+430,Hun kom både til en udstilling og til en premiere,10,"kom, udstilling, premiere",31.46348076,-2.467127966,1,1,1,1,1,0,1,1,1,1,0,1,5.5,0,16
+431,Der er mange økonomer der snakker om pension,1,"økonomer, snakker, pension",13.86510529,-4.555277416,1,1,1,1,1,1,1,0,1,1,1,1,6.38,0,16
+432,Hun var populær fordi hun ville højne niveauet,2,"populær, højne, niveauet",18.92466533,-4.073176539,1,1,1,1,1,1,1,1,1,1,1,1,5.63,0,8
+433,Han understregede netop kvaliteterne i værket,3,"understregede, kvaliteterne, værket",9.445290901,-5.072601955,1,1,1,1,1,1,1,1,1,1,1,1,6.4,0,15
+434,De opklarede hvem der havde fastsat datoen,4,"opklarede, fastsat, datoen",11.70664587,-6.167791435,1,1,1,1,1,1,1,1,1,1,0,1,5.27,0,15
+435,Det var ret morsomt at de ville fange en ko,5,"morsomt, fange, ko",12.65158495,-3.520024302,1,1,1,1,1,1,1,1,1,1,1,1,6.13,1,16
+436,På laboratoriet udviklede de et nyt protein,6,"laboratoriet, udviklede, protein",12.3954071,-5.309166274,1,1,1,1,0,1,1,1,1,1,1,1,6.63,0,8
+437,Vi har netop bestilt en klokke til vores kirke,7,"bestilt, klokke, kirke",21.95949847,-4.841526724,1,1,1,1,1,1,1,1,1,1,1,1,6.44,0,16
+438,Vi skønnede at vi godt kunne benytte deres udstyr,8,"skønnede, benytte, udstyr",17.96435772,-2.123295348,1,1,1,1,1,1,1,1,1,1,1,1,5.87,0,15
+439,Det er et hold som kan kvalificere sig til mesterskabet,9,"hold, kvalificere, mesterskabet",8.811644837,-5.122876654,1,1,1,1,1,1,1,1,0,1,0,1,6.53,0,15
+440,Arrangøren pegede straks på en enkel løsning,10,"arrangøren, pegede, løsning",9.012114385,-5.123460818,1,1,1,1,1,1,1,1,1,1,1,1,6.13,0,15
+441,Der var en professor der grinede af min løsning,1,"professor, grinede, løsning",12.22598505,-4.017438475,1,1,1,1,1,1,1,1,1,1,1,1,5.75,0,12
+442,Han er naiv hvis han vil investere i mit firma,2,"naiv, investere, firma",16.36991684,-6.135539772,1,1,1,1,1,1,1,1,1,1,1,1,5.92,0,12
+443,Hendes forældre røg faktisk kun i sommerferien,3,"forældre, røg, sommerferien",11.78263546,-6.559607581,1,1,1,1,1,0,1,1,1,1,1,1,6.14,0,14
+444,Hun vil gerne se hvordan man reducerer en sovs,4,"se, reducerer, sovs",13.69329912,-6.141045968,1,1,1,1,1,1,1,1,1,1,1,1,5.75,0,12
+445,Det er afgørende at du foretager en forandring,5,"afgørende, foretager, forandring",15.09779798,-6.525973347,1,1,1,1,0,1,1,0,0,1,1,1,5.46,0,13
+446,I april skulle vi have registreret vores overskud,6,"april, registreret, overskud",14.32490035,-6.757335494,1,1,1,1,1,1,1,1,1,1,1,1,6.08,1,13
+447,Hun ville altid dele sit slik med sine søskende,7,"dele, slik, søskende",22.78519667,-4.970572456,1,1,1,1,1,1,1,1,0,1,1,1,6.75,0,8
+448,Jeg vil egentlig helst drikke saft til aftensmaden,8,"drikke, saft, aftensmaden",4.537897576,-10.70276199,1,1,1,1,1,1,1,1,1,1,1,1,6.75,0,8
+449,Det er en øvelse som primært styrker benene,9,"øvelse, styrker, benene",31.79943163,-5.212610742,1,1,1,1,1,1,1,0,1,1,1,1,6.63,0,8
+450,De fokuserer mest på nyheder og tendenser,10,"fokuserer, nyheder, tendenser",9.475974699,-4.567465816,1,1,1,1,1,1,1,1,1,1,0,1,6.57,0,14
+451,Der er også tandlæger der praktiserer i udlandet,1,"tandlæger, praktiserer, udlandet",18.92640366,-6.778857112,1,1,1,1,0,1,1,1,1,1,1,1,6.63,0,8
+452,Hun var grundig når hun kontrollerede sin båd,2,"grundig, kontrollerede, båd",7.846346333,-3.17860897,1,1,1,1,1,1,1,1,1,1,1,1,5.93,1,14
+453,Vores kok har igen opfundet en ny lækker ret,3,"kok, opfundet, ret",25.88066444,-5.991791816,1,1,1,1,1,1,1,1,1,1,1,1,6.75,0,8
+454,Han kan aflæse hvem der har ringet i weekenden,4,"aflæse, ringet, weekenden",16.58765195,-6.294962057,1,1,1,0,0,1,1,1,1,1,1,1,5.31,0,13
+455,Det var besværligt at vi skulle veje hvert element,5,"besværligt, veje, element",8.141428434,-3.735101383,1,1,1,1,1,1,1,1,1,1,0,1,6,0,14
+456,På en måde har vi altid respekteret mindretallet,6,"måde, respekteret, mindretallet",12.14168139,-4.530235482,1,1,1,1,1,1,1,1,1,1,1,1,6.17,0,12
+457,Forskerne havde advaret os om konsekvenserne,7,"forskerne, advaret, konsekvenserne",34.00669451,-8.017339704,1,1,1,1,1,1,1,1,1,1,1,1,6.67,0,12
+458,Han svarede at lovgivningen selvfølgelig gælder,8,"svarede, lovgivningen, gælder",5.501438437,-4.620104758,1,1,1,1,1,1,1,1,1,1,1,1,6.77,0,13
+459,Det var en læge som ejede vores bygning,9,"læge, ejede, bygning",7.007524336,-3.190594517,1,1,1,1,1,0,1,1,1,1,1,1,6,0,15
+460,De ville nedsætte en komite eller et udvalg,10,"nedsætte, komite, udvalg",10.73671246,-4.164719568,1,1,1,1,1,1,1,1,1,1,1,1,6.62,1,13
+461,Der var et orkester der underholdt gymnasieeleverne,1,"orkester, underholdt, gymnasieeleverne",16.54887787,-3.305251179,1,1,1,1,1,1,0,0,0,1,1,1,5.88,0,8
+462,Jeg er altid uheldig når jeg spiller håndbold,2,"uheldig, spiller, håndbold",20.7065538,-4.024673791,1,1,1,1,1,0,1,1,1,1,1,1,6.47,0,17
+463,Formanden ville gerne ud og trække lidt luft,3,"formanden, trække, luft",10.26596704,-5.950140079,1,1,1,1,1,1,1,1,1,0,1,0,5.73,0,15
+464,De undersøger hvordan vi kan stoppe udviklingen,4,"undersøger, stoppe, udviklingen",34.93023012,-6.371942138,1,1,1,1,1,1,1,1,1,1,0,1,6.41,0,17
+465,Det er utroligt at de vil frasælge deres ejendomme,5,"utroligt, frasælge, ejendomme",9.121118604,-5.653046781,1,1,1,1,1,1,1,0,1,1,0,1,5.47,0,17
+466,Om et kvarter skal jeg undervise nogle sygeplejersker,6,"kvarter, undervise, sygeplejersker",13.65872126,-6.348210977,1,1,1,1,1,1,1,1,1,1,1,1,6.63,0,16
+467,Mit barnebarn har allerede skaffet mig en billet,7,"barnebarn, skaffet, billet",16.73735458,-3.691007621,1,1,1,1,1,1,1,1,1,1,1,1,6.71,0,17
+468,Vi tænkte at I gerne ville underskrive overenskomsten,8,"tænkte, underskrive, overenskomsten",9.707595268,-5.102069952,1,1,1,1,1,0,1,1,1,1,1,1,5.76,0,17
+469,Det er min cykel som holder lige foran museet,9,"cykel, holder, museet",14.4421807,-3.815927092,1,1,1,1,1,1,1,1,1,1,1,1,6.06,0,17
+470,De nyder åbenbart at lytte til vores samtale,10,"nyder, lytte, samtale",8.375722455,-2.497971217,1,1,1,1,1,1,1,1,1,1,1,1,5.88,0,16
+471,Der er en arkitekt der har illustreret en roman,1,"arkitekt, illustreret, roman",4.5021464,-4.215901865,1,1,1,1,0,1,1,1,1,1,1,1,4.41,0,17
+472,Hun var slank fordi hun passede sin træning,2,"slank, passede, træning",17.22364287,-6.311825915,1,1,1,1,1,1,1,1,0,1,1,1,5.88,1,17
+473,Originalen var til sidst havnet på et loppemarked,3,"originalen, havnet, loppemarked",11.62386672,-5.359546917,1,1,1,1,1,1,1,1,0,1,1,1,6.63,0,8
+474,De planlægger hvor de skal etablere deres fabrik,4,"planlægger, etablere, fabrik",38.90638538,-6.475986908,1,1,1,1,1,1,1,1,1,1,1,1,5.82,0,17
+475,Det var væsentligt at de bemærkede fejlene,5,"væsentligt, bemærkede, fejlene",4.757465242,-2.083326412,1,1,1,1,1,1,1,1,1,1,1,1,5.13,0,16
+476,I dag skal han handle med amerikanske aktier,6,"dag, handle, aktier",13.93571072,-6.815674965,1,1,1,1,1,1,1,1,0,1,1,1,5.63,0,16
+477,Alle passagererne havde vendt sig mod vinduet,7,"passagererne, vendt, vinduet",24.58919648,-5.18489566,1,1,1,1,1,1,1,1,1,1,1,1,5.94,0,17
+478,Vi må konkludere at favoritterne svigtede efter halvlegen,8,"konkludere, svigtede, halvlegen",7.93643931,-3.78088196,1,1,0,1,1,1,1,1,1,1,1,0,5.69,0,16
+479,Det var læserne som skulle udpege en vinder,9,"læserne, udpege, vinder",8.696278851,-3.895704733,1,1,1,1,1,1,1,1,1,1,1,1,6.13,0,16
+480,De skal forhandle med en repræsentant om budgettet,10,"forhandle, repræsentant, budgettet",7.096164966,-6.943659964,1,1,1,1,1,1,1,1,0,1,1,1,5.56,0,16
+481,Der var en spiller der pludselig smed sine kort,1,"spiller, smed, kort",9.033345216,-5.788395303,0,1,1,1,1,1,1,0,1,1,1,1,6.07,0,14
+482,Han er sund selvom han tit springer over træningen,2,"sund, springer, træningen",20.75619462,-8.585721204,1,1,1,1,1,1,0,1,0,1,1,1,5.71,0,14
+483,Hun vil konkurrere med herrerne om mesterskabet,3,"konkurrere, herrerne, mesterskabet",12.71839269,-3.341732374,1,1,1,1,1,1,1,1,1,1,1,1,6.36,0,14
+484,Jeg overvejede hvem der skulle undervise eleverne,4,"overvejede, undervise, eleverne",7.700599729,-4.743835536,1,1,1,1,1,0,1,1,1,1,1,1,6.8,0,15
+485,Det er helt utroligt at vi skal spille i finalen,5,"utroligt, spille, finalen",15.72867361,-6.175495969,1,1,1,1,1,1,1,1,0,1,1,1,6.73,0,15
+486,På fredag skal vi hen og afgive vores stemmer,6,"fredag, afgive, stemmer",9.723422316,-6.096320017,1,1,1,1,1,1,1,1,1,1,1,1,6.79,0,14
+487,De har afleveret deres anbefalinger til byrådet,7,"afleveret, anbefalinger, byrådet",6.37710955,-4.159560964,1,1,1,1,1,1,1,1,1,1,1,1,7,0,13
+488,Hun undrer sig over at de har nedlagt foreningen,8,"undrer, nedlagt, foreningen",23.05128777,-5.946269799,1,1,1,1,1,1,1,1,1,1,1,1,6.47,0,15
+489,Det er min søster som selv udførte projektet,9,"søster, udførte, projektet",15.26910349,-6.672316808,1,1,1,1,1,1,1,1,1,1,1,1,5.93,0,15
+490,Han forsøger vist at forbedre sine muligheder,10,"forsøger, forbedre, muligheder",11.64005366,-6.644781575,1,1,1,1,1,1,1,1,1,1,1,1,6.64,0,14
+491,Der er et fund der standsede udgravningen,1,"fund, standsede, udgravningen",6.752213033,-3.310759227,1,1,1,1,1,1,1,1,1,1,0,1,6.13,0,8
+492,Hun er afslappet fordi hun har vænnet sig til interviews,2,"afslappet, vænnet, interviews",12.10294116,-6.008346313,1,1,1,1,1,1,1,1,0,1,1,1,6.38,0,8
+493,Deres system virkede faktisk bedst under krisen,3,"system, virkede, krisen",10.70575935,-7.496508435,0,1,1,1,1,1,1,1,1,1,0,1,6.63,0,16
+494,Vi har hørt hvordan de vil beskytte anlægget,4,"hørt, beskytte, anlægget",10.6877817,-3.617968336,1,1,1,1,1,1,1,1,0,1,1,1,6.4,0,15
+495,Det var oplagt at han ville sætte sig på magten,5,"oplagt, sætte, magten",8.848264298,-6.285191819,1,1,1,1,1,1,1,1,1,1,1,1,6.33,0,15
+496,I efteråret vil de producere endnu flere møbler,6,"efteråret, producere, møbler",11.57813862,-5.082447214,1,1,1,1,1,0,1,1,1,1,1,1,6.86,0,14
+497,De skal formidle deres pointer til vælgerne,7,"formidle, pointer, vælgerne",27.70859767,-3.515297739,1,1,1,1,1,1,1,1,1,1,1,1,6,0,14
+498,Han insisterer på at vi snart indleder festen,8,"insisterer, indleder, festen",105.5043835,-4.999999999,1,1,1,1,1,0,1,1,1,1,1,1,5.86,0,14
+499,Det var en redaktør som kæmpede mod afgifterne,9,"redaktør, kæmpede, afgifterne",12.5426557,-5.309022198,1,1,1,1,1,1,1,1,1,1,1,1,5.33,0,15
+500,Han studerede alle malerierne og portrætterne,10,"studerede, malerierne, portrætterne",18.52377965,-3.895832851,1,1,1,1,1,1,1,1,1,1,0,1,6.8,0,15
+501,Der var nogle detaljer der undrede lektoren,1,"detaljer, undrede, lektoren",11.50162917,-5.196619319,1,1,1,1,1,1,1,1,1,1,1,1,6.47,0,17
+502,Man skal være stille når man spiser i børnehaven,2,"stille, spiser, børnehaven",13.31366971,-7.444436763,1,1,1,1,1,1,1,1,1,1,0,1,6.76,1,17
+503,Mange af vores beboere cykler faktisk hver dag,3,"beboere, cykler, dag",14.52421381,-3.821980459,1,1,1,1,1,1,1,1,1,1,1,1,6.81,0,16
+504,De har opdaget hvordan man kan skærpe sit syn,4,"opdaget, skærpe, syn",12.15167319,-7.869540145,1,1,1,1,1,1,1,1,0,1,1,1,5.82,0,17
+505,Det er tvivlsomt at vi kan beholde vores butik,5,"tvivlsomt, beholde, butik",9.707702283,-4.820072111,1,1,1,1,1,1,1,1,1,1,1,1,4.71,0,17
+506,På fredag skal jeg afløse vores næstformand,6,"fredag, afløse, næstformand",19.14364783,-7.139225949,1,1,1,1,1,0,1,1,1,1,1,1,6.75,0,16
+507,Vi solgte alle oplysningerne til en virksomhed,7,"solgte, oplysningerne, virksomhed",8.83175804,-6.500769316,1,1,0,1,1,1,1,0,1,1,1,1,6.71,1,17
+508,Hun understregede at vi skal smage på prøverne,8,"understregede, smage, prøverne",9.020805652,-4.926307807,1,1,1,1,1,1,1,1,1,1,1,1,6.12,0,17
+509,Det er bestyrelsesformanden som indførte det tiltag,9,"bestyrelsesformanden, indførte, tiltag",9.589787107,-4.946754036,1,1,1,1,1,1,1,1,1,1,1,1,5.71,0,17
+510,Vi vil gerne integrere teknologien i vores praksis,10,"integrere, teknologien, praksis",20.21315136,-5.99400754,1,1,1,1,1,1,1,1,0,1,0,1,5.25,0,16
+511,Der er mange dyr der fascinerer min lillesøster,1,"dyr, fascinerer, lillesøster",10.57425248,-4.364612974,1,1,1,1,1,1,1,1,1,1,1,1,6.38,0,8
+512,Jeg var meget tilfreds da sæsonen sluttede,2,"tilfreds, sæsonen, sluttede",13.4322964,-7.934558151,1,1,1,1,1,1,1,1,1,1,1,1,6.63,0,16
+513,Vores chauffør havde ført os hen til kurset,3,"chauffør, ført, kurset",5.930401037,-5.789086974,1,1,1,1,1,0,1,1,0,1,1,0,4.88,0,17
+514,De påviste hvem der havde opfundet batteriet,4,"påviste, opfundet, batteriet",17.10543803,-4.904495783,1,1,1,1,1,1,1,1,1,1,1,1,5,0,8
+515,Det var dejligt at I ville finansiere begivenheden,5,"dejligt, finansiere, begivenheden",5.674281223,-3.011533965,1,1,1,1,1,1,1,0,1,1,1,0,6,0,17
+516,Inden løbet skal man afholde sig fra at drikke,6,"løbet, afholde, drikke",8.309285169,-0.172402356,1,1,1,1,1,1,1,1,0,1,0,1,6.13,0,8
+517,De ville udlevere en hel milliard til pensionisterne,7,"udlevere, milliard, pensionisterne",15.69256989,-4.808886811,1,1,1,1,1,0,1,1,1,1,1,1,6.13,0,16
+518,De har røbet at de snart vil øge deres støtte,8,"røbet, øge, støtte",13.72453802,-2.64082684,1,1,1,1,1,1,1,1,1,1,1,1,6.31,0,16
+519,Det var din præstation som inspirerede mestrene,9,"præstation, inspirerede, mestrene",7.454154839,-4.101501339,1,1,1,1,1,0,1,1,1,1,1,1,5.76,0,17
+520,Han kender allerede mit navn og min alder,10,"kender, navn, alder",10.26204894,-8.496324669,1,1,1,1,1,1,1,1,1,1,1,1,7,0,16
+521,Der var nogle journalister der spredte oplysningerne,1,"journalister, spredte, oplysningerne",10.99328936,-5.255670261,1,1,1,1,1,0,1,0,1,1,1,1,6.38,0,8
+522,Hun er usikker fordi hun har glemt sin tale,2,"usikker, glemt, tale",9.677472195,-6.124423926,1,1,1,1,1,0,1,1,1,1,1,1,5.53,0,15
+523,Min hustru er lige kørt ind til vores forretning,3,"hustru, kørt, forretning",45.12169663,-4.628732982,1,1,1,1,1,1,1,1,1,1,0,1,5.6,0,15
+524,De beslutter hvornår vi skal forstærke murene,4,"beslutter, forstærke, murene",11.4138021,-4.063872823,1,1,1,1,1,1,1,1,1,1,1,1,5.21,1,14
+525,Det er glimrende at I har gemt alle billederne,5,"glimrende, gemt, billederne",14.59997233,-2.268708479,1,1,1,1,1,1,1,1,1,1,1,1,6.07,0,14
+526,I februar kan vi igen opjustere vores forbrug,6,"februar, opjustere, forbrug",5.972690902,-3.930720232,1,1,1,1,1,1,1,1,0,1,1,1,5.75,0,8
+527,Hun havde faktisk fået meget støtte fra folketinget,7,"fået, støtte, folketinget",30.08353765,-6.573776565,1,1,1,1,1,0,1,1,1,1,1,1,5.79,0,14
+528,Han kræver at vi påtager os hele ansvaret,8,"kræver, påtager, ansvaret",20.46143817,-6.42255087,1,1,1,1,1,1,1,1,1,1,1,1,6.21,0,14
+529,Det er jeres kartofler som forbrugerne foretrækker,9,"kartofler, forbrugerne, foretrækker",14.35974078,-3.08298917,1,1,0,1,1,1,1,1,1,1,1,1,5.53,0,15
+530,Vi betragter egentlig deres udspil som en advarsel,10,"betragter, udspil, advarsel",10.93351278,-4.551450853,1,1,1,1,1,0,1,1,1,1,1,1,5.71,1,14
+531,Der er en nyhed der snart rammer overskrifterne,1,"nyhed, rammer, overskrifterne",18.2612761,-3.267754512,1,1,1,1,1,0,0,1,1,1,1,0,5.07,0,14
+532,Han var ret vred da han smed os ud af sin stue,2,"vred, smed, stue",19.11944246,-5.110285938,1,1,1,1,1,1,1,1,1,1,0,1,6.64,1,14
+533,De anerkendte altid jeres evner i parlamentet,3,"anerkendte, evner, parlamentet",10.63438726,-5.875311554,1,1,1,1,1,1,1,1,1,1,1,0,5.29,0,14
+534,Det afhænger af hvordan man tyder drømmen,4,"afhænger, tyder, drømmen",9.402822628,-2.576233382,1,1,1,1,1,1,1,1,1,1,1,1,6.14,0,14
+535,Det var vidunderligt at hun havde født en pige,5,"vidunderligt, født, pige",16.60451564,-3.085104815,1,1,1,1,1,1,1,1,0,1,1,1,6.75,0,8
+536,I vores kommune skal vi afvikle en konference,6,"kommune, afvikle, konference",13.05835032,-2.256173034,1,1,1,1,0,1,1,1,1,1,1,1,5.57,0,14
+537,Ambassadøren kan sagtens skaffe dig en tilladelse,7,"ambassadøren, skaffe, tilladelse",33.46105744,-8.242106468,1,1,1,1,1,1,1,1,1,1,1,1,6.29,1,14
+538,Hun erklærede at hun ville leve med konsekvenserne,8,"erklærede, leve, konsekvenserne",12.0241167,-3.179116984,1,1,0,1,1,1,1,0,1,1,1,1,5.43,0,14
+539,Det var en assistent som havde smurt fadene,9,"assistent, smurt, fadene",12.84397731,-4.115843226,1,1,1,1,1,1,1,1,0,1,1,1,5.25,0,8
+540,Hovedpersonen drejede sig hurtigt og flygtede,10,"hovedpersonen, drejede, flygtede",13.48635861,-6.085115429,1,1,1,1,1,1,1,1,1,1,1,1,5.36,0,14
+541,Der var få elever der forbedrede deres gennemsnit,1,"elever, forbedrede, gennemsnit",22.79066295,-4.971382385,1,1,1,1,1,1,1,1,0,1,1,1,5.94,0,16
+542,Hun er omhyggelig når hun skal veje pakkerne,2,"omhyggelig, veje, pakkerne",8.175646764,-1.05888678,1,1,0,1,1,1,1,1,0,1,1,1,6.33,0,15
+543,Journalisterne havde udtænkt mange spørgsmål,3,"journalisterne, udtænkt, spørgsmål",13.78410085,-4.628500611,1,1,1,1,1,1,1,1,1,1,1,1,6.38,0,8
+544,Vi har oplevet hvordan de præsterer på banen,4,"oplevet, præsterer, banen",10.01568479,-3.101065597,0,1,1,1,1,1,1,1,1,1,1,1,6.25,0,8
+545,Det er problematisk at I benytter vores udgang,5,"problematisk, benytter, udgang",22.53384209,-4.943276332,1,1,1,1,0,1,1,1,0,1,1,1,6.13,0,16
+546,I efteråret kan vi igen koncentrere os om driften,6,"efteråret, koncentrere, driften",11.41393314,-5.447151291,1,1,1,1,1,1,1,1,1,1,1,1,5.29,0,14
+547,Hun ville gerne give digterne en masse penge,7,"give, digterne, penge",11.36654086,-3.908021583,1,1,1,1,1,1,1,0,1,1,1,1,5.57,0,14
+548,De regnede med at vi ville ankomme før premieren,8,"regnede, ankomme, premieren",12.71187407,-3.872137361,1,1,1,0,1,1,1,0,1,1,1,1,5.86,0,14
+549,Det er hendes mand som ringede til en rådgiver,9,"mand, ringede, rådgiver",9.453925936,-5.373350069,1,1,1,1,1,1,1,1,1,1,1,1,3.13,0,15
+550,Vi vil alle gerne fremme dialog og forståelse,10,"fremme, dialog, forståelse",14.54809601,-5.24683026,1,1,1,1,1,0,1,1,1,1,0,1,5.93,0,15
+551,Der er mange danskere der glæder sig over fremgangen,1,"danskere, glæder, fremgangen",11.5500761,-7.258421417,1,1,1,1,1,1,1,1,1,1,1,1,6.27,0,15
+552,Han var nervøs fordi han havde skuffet sine fans,2,"nervøs, skuffet, fans",15.1564608,-6.422974533,1,1,1,1,1,1,1,1,0,1,1,1,6,0,16
+553,Vi søgte længe efter oplysningerne på biblioteket,3,"søgte, oplysningerne, biblioteket",12.22701735,-5.528120361,1,1,1,1,1,1,1,1,1,1,0,1,6.53,0,15
+554,Ledelsen bestemmer hvor meget vi må løfte,4,"ledelsen, bestemmer, løfte",24.06412918,-5.75987716,1,1,1,1,1,1,1,1,1,1,1,1,5,0,15
+555,Det var positivt at de havde overstået prøverne,5,"positivt, overstået, prøverne",9.009387701,-4.90031199,1,1,0,1,1,1,1,1,0,1,1,1,5.93,0,14
+556,I folkeskolen er der sket meget siden reformen,6,"folkeskolen, sket, reformen",11.50506971,-6.379526394,1,1,1,1,1,1,1,1,0,1,1,1,6.14,0,14
+557,Bestyrelsen har faktisk indstillet hende til en pris,7,"bestyrelsen, indstillet, pris",14.6959818,-6.072854289,0,1,1,1,1,1,1,1,1,1,1,1,5.73,1,15
+558,Jeg mærkede straks at hesten ville overleve,8,"mærkede, hesten, overleve",6.885938404,-2.190556716,1,1,0,1,1,1,1,1,1,1,0,1,4.93,0,15
+559,Det var en analytiker som havde anmeldt koncernen,9,"analytiker, anmeldt, koncernen",33.20945751,-3.652905629,1,1,1,1,1,1,1,1,1,1,1,1,5.57,1,14
+560,Man kan altid låne en telefon på vores skole,10,"låne, telefon, skole",21.35374317,-5.408482964,1,0,1,1,1,1,1,0,1,1,1,1,6.27,0,15
+561,Der var flere ændringer der skulle forebygge uheld,1,"ændringer, forebygge, uheld",8.827410895,-3.547003574,1,1,1,1,1,1,1,1,1,1,1,1,5.44,0,16
+562,De er søde selvom vi igen har skubbet betalingen,2,"søde, skubbet, betalingen",13.05199054,-3.28969074,1,1,1,0,1,1,1,1,1,1,0,1,4.75,1,16
+563,Hun traf selve generalsekretæren i en biograf,3,"traf, generalsekretæren, biograf",3.325205479,-3.818621356,1,1,1,1,1,1,1,1,1,1,0,1,4.81,1,16
+564,De har skrevet hvor længe nummeret vil vare,4,"skrevet, nummeret, vare",15.98699585,-4.573694374,1,1,1,1,1,1,1,1,0,1,1,1,5.44,0,16
+565,Det er ret skønt at sådan en farve kan opstå,5,"skønt, farve, opstå",17.33367183,-5.042661384,1,1,1,1,0,1,1,1,1,1,1,1,4.75,0,8
+566,Ifølge planen burde vi have tjent fire milliarder,6,"planen, tjent, milliarder",16.31171842,-4.172687479,1,1,1,1,1,1,1,1,1,1,0,1,6.69,0,16
+567,En eller anden stjerne bad mig om noget kaffe,7,"stjerne, bad, kaffe",14.64786452,-4.801684796,1,1,1,1,1,1,1,1,1,1,1,1,4.5,0,16
+568,Vi har før oplevet at de gemmer deres fjernsyn,8,"oplevet, gemmer, fjernsyn",14.21627502,-6.089816104,1,1,1,1,1,1,1,1,1,1,1,0,4.75,1,16
+569,Det er et resultat som kan ændre hele verden,9,"resultat, ændre, verden",32.10930731,-5.861632978,1,1,1,1,1,1,1,1,1,1,1,1,6.69,1,16
+570,Hun har vistnok hevet i hans fod eller hans ben,10,"hevet, fod, ben",25.83926713,-4.058583381,1,1,1,1,1,1,1,1,1,1,1,1,5.38,1,16
+571,Der er en prins der har lejet min helikopter,1,"prins, lejet, helikopter",5.444397094,-3.395391096,1,1,1,1,1,1,1,1,1,1,1,0,4.13,0,8
+572,Hun var træt fordi hun havde ventet længe på sin mor,2,"træt, ventet, mor",12.00412634,-6.651847163,1,1,1,1,1,0,1,1,1,1,1,1,6.38,0,16
+573,Min storebror har virkelig engageret sig i folkeskolen,3,"storebror, engageret, folkeskolen",15.08315104,-8.550362125,1,1,1,1,1,1,1,1,1,1,1,1,6.63,0,8
+574,De antydede hvordan vi kan slippe for reklamer,4,"antydede, slippe, reklamer",12.60804771,-5.13832563,1,1,1,1,0,1,1,1,1,1,1,1,5.75,0,8
+575,Det var udmærket at de kunne skaffe mere frugt,5,"udmærket, skaffe, frugt",9.534811644,-2.895606437,1,1,1,1,1,1,1,1,0,1,1,1,5.69,1,16
+576,Ude på havet blæser det mere end på kanalen,6,"havet, blæser, kanalen",11.39644444,-4.468818325,1,1,1,1,1,1,1,1,0,1,1,1,5.56,0,16
+577,Bestyrelsen havde involveret mig i deres hemmelighed,7,"bestyrelsen, involveret, hemmelighed",7.849116697,-3.800207101,1,1,1,1,1,1,1,1,1,1,1,1,6,0,16
+578,Hun udtrykte tydeligt at hun ikke behøver betaling,8,"udtrykte, behøver, betaling",7.477398692,-1.802190912,1,1,1,1,1,1,1,1,1,1,1,1,4.94,1,16
+579,Det var vores hund som havde lagt sig på sengen,9,"hund, lagt, sengen",12.10918588,-5.659655263,1,1,1,1,1,1,1,1,0,1,1,1,6.06,0,16
+580,De indtog store mængder kød under middagen,10,"indtog, kød, middagen",27.44873002,-4.351051252,1,1,1,1,1,1,1,1,0,1,1,1,6.31,0,16
+581,Der var en skoleelev der savnede udfordringer,1,"skoleelev, savnede, udfordringer",12.50085985,-2.336039268,1,1,1,1,1,0,1,1,1,1,1,1,6.5,0,8
+582,Vi er meget tilfredse selvom der mangler asier,2,"tilfredse, mangler, asier",7.702251055,-6.396393961,1,1,1,1,1,0,1,1,1,1,1,1,5.59,1,17
+583,Prinsen ville faktisk helst hvile sig på sit slot,3,"prinsen, hvile, slot",11.97153204,-6.520041621,1,1,1,1,1,1,1,1,0,1,1,1,6,0,16
+584,Vi diskuterer hvornår vi kan overtage jeres opgaver,4,"diskuterer, overtage, opgaver",10.68549725,-6.559911789,1,1,1,1,1,1,1,1,1,1,1,1,6.13,2,16
+585,Det er så heldigt at din mormor kan strikke,5,"heldigt, mormor, strikke",16.86590231,-4.285347584,1,1,1,1,1,1,1,1,1,1,1,1,6.88,0,8
+586,I november skal jeg dokumentere mine udgifter,6,"november, dokumentere, udgifter",24.21898451,-5.125678942,1,1,1,1,1,1,1,1,1,1,1,1,5.81,2,16
+587,Min nabo overraskede mig ofte med sine ideer,7,"nabo, overraskede, ideer",21.57430692,-5.173041607,1,1,1,1,1,1,1,1,1,1,1,1,6.25,0,16
+588,Hun beklager sig over at vi skal sove på en båd,8,"beklager, sove, båd",10.52244288,-4.235280786,1,1,1,1,1,1,1,1,1,1,1,1,6.71,0,17
+589,Det er en kvinde som skal afløse premierministeren,9,"kvinde, afløse, premierministeren",16.61890421,-5.964171664,1,1,1,1,1,1,1,1,1,1,1,1,6.24,0,17
+590,Han var stukket af med sin brud og sin formue,10,"stukket, brud, formue",14.12191039,-3.421465694,1,1,1,1,1,1,1,1,1,1,1,1,5.76,0,17
+591,Der er nogle spillere der kan svække landsholdet,1,"spillere, svække, landsholdet",10.43435711,-2.965838676,1,1,1,1,1,1,1,1,1,1,1,1,6,0,16
+592,Han var rolig fordi han havde fået en garanti,2,"rolig, fået, garanti",18.51750064,-5.113287197,1,1,1,1,1,1,1,1,1,1,1,1,6.31,0,16
+593,De har heldigvis udsat folkeafstemningen til juli,3,"udsat, folkeafstemningen, juli",7.575174608,-3.423072204,1,1,1,1,1,1,1,1,1,1,1,1,6.47,0,17
+594,Hun vil regulere hvordan vi driver vores organisation,4,"regulere, driver, organisation",9.603294298,-3.333724703,1,1,1,1,1,1,1,1,0,1,1,1,6.12,1,17
+595,Det var fantastisk at hun havde udarbejdet en teori,5,"fantastisk, udarbejdet, teori",6.074799445,-5.461440191,1,1,1,1,1,1,1,1,1,1,1,1,6.18,1,17
+596,I aften skal vi igen underholde alle tilskuerne,6,"aften, underholde, tilskuerne",17.664788,-7.109829252,1,1,1,1,1,1,1,1,1,1,1,1,6.19,0,16
+597,Jeg har netop købt en plante til mit ældste barn,7,"købt, plante, barn",19.09226754,-5.825752126,1,1,1,1,1,0,1,1,1,1,1,1,6.75,0,16
+598,Han formoder nok at vi modtager hans tilbud,8,"formoder, modtager, tilbud",29.93312531,-2.455171868,1,1,1,1,1,1,1,1,1,1,1,1,6,0,8
+599,Det var en forfatter som talte om vores landsby,9,"forfatter, talte, landsby",17.09634588,-5.346554579,1,1,1,1,1,0,1,1,1,1,1,0,6.38,0,16
+600,Eksperterne har netop informeret os om udviklingen,10,"eksperterne, informeret, udviklingen",11.73268928,-6.077853119,1,1,1,1,0,1,1,1,1,1,1,1,6.75,0,8
+601,Der er mange kritikere der roser mine digte,1,"kritikere, roser, digte",22.06823897,-4.114234368,1,1,1,1,1,1,1,1,1,1,1,1,6,0,8
+602,Hun var vred fordi hendes data var forsvundet,2,"vred, data, forsvundet",15.36230693,-7.791034831,1,1,1,1,1,1,1,1,1,1,1,1,6.38,1,8
+603,Formanden havde grinet meget af min forklaring,3,"formanden, grinet, forklaring",14.11713745,-3.699994735,1,1,1,1,1,1,1,1,1,1,1,1,5.88,0,8
+604,Han har desværre glemt hvor han placerede sine nøgler,4,"glemt, placerede, nøgler",6.61360661,-2.880000049,1,1,1,1,1,1,1,1,1,1,1,1,3.88,0,8
+605,Det var positivt at vælgerne straks reagerede,5,"positivt, vælgerne, reagerede",30.3713714,-4.479849348,1,1,1,1,1,1,1,1,1,1,1,1,6.22,0,9
+606,Inden morgenmaden opholder han sig i sin have,6,"morgenmaden, opholder, have",27.05451619,-3.186742151,1,1,1,1,1,1,1,1,1,1,1,1,6.13,0,8
+607,Fabrikken giver os stadigvæk et overskud,7,"fabrikken, giver, overskud",8.399219395,-1.395629176,1,1,1,1,1,1,1,0,1,1,0,0,6,0,9
+608,Hun anslog at man kunne forlænge uddannelsen,8,"anslog, forlænge, uddannelsen",32.3447783,-3.751207916,1,1,1,1,1,0,1,0,1,1,1,1,4.33,0,9
+609,Det var vores koncern som betalte for arrangementet,9,"koncern, betalte, arrangementet",18.88100435,-5.111387282,1,1,1,1,1,1,1,1,1,1,1,1,6.13,0,8
+610,Han måtte beholde både gaven og erstatningen,10,"beholde, gaven, erstatningen",20.43171882,-4.682853725,1,1,1,1,1,1,1,1,1,1,1,1,6,0,9
+611,Der var to sangere der begge havde studeret litteratur,1,"sangere, studeret, litteratur",17.53263018,-5.835801891,1,1,1,1,1,1,1,1,0,1,1,1,6,0,8
+612,Han er professionel når han optager et interview,2,"professionel, optager, interview",8.361008897,-8.523866929,1,1,1,1,0,1,1,1,1,1,0,1,5.88,0,8
+613,Hendes kæreste vil modtage hende i lufthavnen,3,"kæreste, modtage, lufthavnen",14.97134334,-5.7713201,1,1,1,1,1,0,1,1,1,1,1,1,4.89,0,9
+614,Jeg noterede hvornår de havde truffet forfatteren,4,"noterede, truffet, forfatteren",23.72793123,-4.690517477,1,1,1,1,1,1,1,1,1,1,1,1,5,0,8
+615,Det er naturligt at man varetager sine egne interesser,5,"naturligt, varetager, interesser",17.62656417,-7.852512427,1,1,1,1,1,1,1,1,1,1,1,1,6.13,0,8
+616,I vores have vil vi gerne dyrke flere gulerødder,6,"have, dyrke, gulerødder",13.11413335,-3.750091834,1,1,1,1,1,1,1,1,1,1,1,1,6.38,0,8
+617,Vores analytikere kan rådgive jer om aktier,7,"analytikere, rådgive, aktier",14.0230838,-3.951345616,1,1,1,1,1,1,1,1,0,1,1,1,6.25,0,8
+618,Hun taler altid om at man burde forbyde jagt,8,"taler, forbyde, jagt",9.950673714,-6.714551378,1,1,1,1,1,0,1,1,0,1,0,1,6.63,0,8
+619,Det er en kasse som kan rumme mange bøger,9,"kasse, rumme, bøger",18.07021942,-4.393426435,1,1,1,1,1,1,1,1,0,1,0,1,6,0,8
+620,En eller anden har indleveret både et tv og et bord,10,"indleveret, tv, bord",18.00033722,-3.728930086,1,1,1,1,1,1,1,1,0,1,1,1,6.5,0,8
+621,Der er få danskere der beklager sig over lovgivningen,1,"danskere, beklager, lovgivningen",13.87965552,-5.848851893,1,1,1,1,1,0,1,1,0,1,1,1,5.67,0,9
+622,De var nøjagtige når de dokumenterede resultaterne,2,"nøjagtige, dokumenterede, resultaterne",11.99388623,-5.026746262,1,1,0,1,1,1,1,1,1,1,1,1,4.63,0,8
+623,Vi skal overbevise ministeren med vores argumenter,3,"overbevise, ministeren, argumenter",10.87147544,-5.327770994,1,1,1,1,1,1,1,1,1,1,1,1,5.88,0,8
+624,Hun burde have lært hvordan man pakker en kuffert,4,"lært, pakker, kuffert",24.65827767,-5.481887523,1,1,1,1,0,1,1,1,1,1,1,1,6.38,0,8
+625,Det var sikkert tilfældigt at alle dyrene vågnede,5,"tilfældigt, dyrene, vågnede",16.81836446,-5.840501987,1,1,1,1,1,1,1,1,1,1,1,1,5.75,0,8
+626,På mandag kan vi allerede hente vores billetter,6,"mandag, hente, billetter",11.77283199,-4.919521595,1,1,1,1,1,1,1,1,1,1,1,1,4.63,0,8
+627,Mine forældre har igen sendt mig en artikel,7,"forældre, sendt, artikel",14.49216634,-5.240460048,1,1,1,1,1,1,1,1,1,1,1,1,6.13,0,8
+628,Han skønner at han kan fortsætte i tyve minutter,8,"skønner, fortsætte, minutter",9.387976743,-4.480186522,1,1,1,1,1,1,1,1,0,1,1,1,5.7,0,10
+629,Det var bare varmen som havde udvidet træet,9,"varmen, udvidet, træet",17.10812862,-2.393991188,1,1,1,1,1,1,1,1,0,1,1,1,5.38,0,8
+630,Han har fortjent sine rekorder og sine gevinster,10,"fortjent, rekorder, gevinster",17.67906665,-5.805111924,1,1,1,1,1,1,1,1,0,1,1,1,5.25,0,8
+631,Der var en hel del der efterlyste flere forbedringer,1,"del, efterlyste, forbedringer",15.05737343,-4.358609724,1,1,1,1,1,1,1,1,0,1,1,1,5.5,0,8
+632,Hun er lidt flov fordi hun bankede i bordet,2,"flov, bankede, bordet",11.90563772,-4.081887227,1,1,1,1,1,1,1,1,1,1,1,1,5.11,0,9
+633,Nogen har stillet en enorm sten nede ved kanalen,3,"stillet, sten, kanalen",7.510591936,-3.307924297,1,1,1,1,1,1,1,1,0,1,1,1,5.44,0,9
+634,De overvejede hvornår de skulle besøge rådhuset,4,"overvejede, besøge, rådhuset",9.48472079,-5.941825566,1,1,1,1,1,1,1,1,1,1,1,0,6.22,0,9
+635,Det er muligt at man kan kontrollere sin fremtid,5,"muligt, kontrollere, fremtid",15.41638829,-6.402208974,1,1,1,1,1,1,1,1,1,1,1,1,4.75,0,8
+636,På onsdag skal jeg koncentrere mig om klubben,6,"onsdag, koncentrere, klubben",11.30311955,-5.97726599,1,1,1,1,1,1,1,1,0,1,1,1,5.56,0,9
+637,Han har baseret sin vurdering på de her informationer,7,"baseret, vurdering, informationer",19.04550564,-4.53087778,1,1,1,1,1,0,1,1,1,1,1,1,5.88,0,8
+638,Det kan medføre at vi forlænger vores samarbejde,8,"medføre, forlænger, samarbejde",17.24829814,-4.811568315,1,1,1,1,1,1,1,1,1,1,1,1,5.13,0,8
+639,Det er statsministeren som indkaldte til en konference,9,"statsministeren, indkaldte, konference",10.60612471,-5.726004356,1,1,1,1,1,1,1,1,1,1,0,1,4.38,0,8
+640,Katten havde selvfølgelig anbragt sig på min ryg,10,"katten, anbragt, ryg",12.89423002,-3.471805847,1,1,1,1,1,1,1,1,1,1,0,1,4.88,1,8
+641,Der er ingen meningsmålinger der ryster finansministeren,1,"meningsmålinger, ryster, finansministeren",8.938243774,-0.683068406,1,1,1,1,1,0,1,1,1,1,0,1,6.25,0,8
+642,Hun var rolig mens hun dansede med kongen,2,"rolig, dansede, kongen",9.376263857,-4.166493786,1,1,1,1,1,1,1,1,1,1,1,1,6.38,0,8
+643,De vil bygge et stadion i nærheden af operaen,3,"bygge, stadion, operaen",9.495379837,-5.337658036,1,1,1,1,1,1,1,1,1,1,1,1,6.88,0,8
+644,Vi skal kigge på hvordan vi kan fastholde publikum,4,"kigge, fastholde, publikum",7.439650333,-6.467248472,1,1,1,1,1,1,1,1,0,1,1,1,6.5,0,8
+645,Det var utroligt at han kunne gribe alle æggene,5,"utroligt, gribe, æggene",12.39184905,-4.518401759,1,1,1,1,1,1,1,1,1,1,1,1,6,0,8
+646,I næste uge skal de faktisk bo i vores landsby,6,"uge, bo, landsby",18.86955825,-5.090723188,1,1,1,0,1,1,1,1,0,1,1,1,6.13,0,8
+647,Jeg har allerede givet min mor en overraskelse,7,"givet, mor, overraskelse",19.01752761,-5.258951136,1,1,1,1,1,1,1,1,0,1,1,1,6.63,0,8
+648,Han accepterede at vi kogte lidt mere te til ham,8,"accepterede, kogte, te",9.940781224,-4.07867625,1,0,1,1,1,1,1,1,1,1,1,1,4.5,0,8
+649,Det var en dansker som vandt sidste tirsdag,9,"dansker, vandt, tirsdag",15.74560764,-6.529073399,1,1,1,1,0,0,1,1,1,1,0,1,6.13,0,8
+650,Han havde kastet sin stol helt ud af rummet,10,"kastet, stol, rummet",10.36898639,-6.191703318,1,1,1,1,1,1,1,1,1,1,1,0,5.25,1,8
+651,Der var en leverandør der selv varetog al transport,1,"leverandør, varetog, transport",4.814536069,-4.745343077,1,1,1,1,1,1,1,1,1,1,1,1,5.13,0,8
+652,Jeg bliver varm hvis jeg ligger længe på stranden,2,"varm, ligger, stranden",153.6563952,-4.887226796,1,1,1,1,1,0,1,1,0,1,1,1,6.63,0,8
+653,En af fotograferne løb simpelthen efter dronningen,3,"fotograferne, løb, dronningen",13.01663756,-3.729369676,1,1,1,1,1,1,1,1,0,1,0,1,6,1,8
+654,Hun antydede kun hvilke aktier vi skulle frasælge,4,"antydede, aktier, frasælge",12.47652233,-6.059824696,1,0,1,1,0,1,1,1,0,1,1,1,5,0,8
+655,Det er helt centralt at vi forhindrer flere konflikter,5,"centralt, forhindrer, konflikter",9.236620321,-6.133654557,1,1,1,1,1,1,1,1,1,1,1,1,6,0,8
+656,I marts skal vi have formuleret vores strategi,6,"marts, formuleret, strategi",15.25342916,-3.946200426,1,1,1,1,1,1,1,1,1,1,0,1,5.5,0,8
+657,Dit brev mindede mig om vores sommerferie,7,"brev, mindede, sommerferie",37.89335886,-3.974974857,1,1,1,1,1,1,1,1,1,1,1,1,6.88,0,8
+658,De har glemt at de også skal overholde reglerne,8,"glemt, overholde, reglerne",34.92334156,-6.156277919,1,1,1,1,1,1,1,1,0,1,1,1,6.13,1,8
+659,Det er en retssag som kan knuse fagforeningen,9,"retssag, knuse, fagforeningen",27.75046314,-3.514438738,1,1,1,1,1,1,1,1,0,1,1,1,6.25,0,8
+660,Han havde indrettet sig i et hus nede ved havnen,10,"indrettet, hus, havnen",21.97412452,-5.087716613,1,1,1,1,1,1,1,1,1,1,1,1,6,0,8
+661,Der er flere blade der har citeret min rapport,1,"blade, citeret, rapport",11.38801435,-5.763935025,1,1,1,1,1,1,1,1,1,1,1,1,5.56,0,9
+662,Hun er urimelig hvis hun afviser vores tilgang,2,"urimelig, afviser, tilgang",44.58052061,-5.374587611,1,1,1,1,1,1,1,1,1,1,1,1,5.67,0,9
+663,Min kone administrerer alle vores forsikringer,3,"kone, administrerer, forsikringer",13.60269077,-4.240382864,1,1,1,1,1,1,0,1,1,1,1,1,6.5,2,10
+664,De har vist forstået hvorfor vi vil skubbe datoen,4,"forstået, skubbe, datoen",16.11222203,-4.248917815,1,1,1,1,1,1,1,1,1,1,1,1,6.11,0,9
+665,Det var interessant at vi godt måtte afbryde ordføreren,5,"interessant, afbryde, ordføreren",6.316129055,-2.412532771,1,1,1,1,1,1,1,1,1,1,0,1,5.56,0,9
+666,Næste sommer vil jeg udgive mine erindringer,6,"sommer, udgive, erindringer",13.36250919,-4.503082216,1,1,1,1,1,1,1,1,1,1,0,0,6.2,0,10
+667,Jeres repræsentant har oplyst os om vilkårene,7,"repræsentant, oplyst, vilkårene",11.86650716,-4.46368198,1,1,1,1,1,1,1,1,0,1,1,1,6.9,0,10
+668,Man kan bevise at vores produkt ikke skader miljøet,8,"bevise, produkt, miljøet",29.14851835,-6.874981275,1,1,1,1,1,1,1,1,0,1,1,1,5.9,0,10
+669,Det var det her kapitel som irriterede forlaget,9,"kapitel, irriterede, forlaget",12.14316628,-2.712020753,1,1,1,1,1,1,1,1,0,1,1,1,6.3,0,10
+670,Krukkerne har overlevet både transporten og kulden,10,"krukkerne, overlevet, kulden",20.68401086,-5.529123469,1,1,1,1,1,1,0,1,0,1,1,1,5.88,0,8
+671,Der var flere brugere der udtrykte deres tilfredshed,1,"brugere, udtrykte, tilfredshed",10.63529424,-5.450392625,1,1,1,1,1,1,1,0,1,1,0,1,6.63,0,8
+672,Han var meget flittig fordi han skulle deltage i et show,2,"flittig, deltage, show",26.70488713,-4.309521539,1,1,1,1,1,1,1,1,1,1,1,1,5.78,0,9
+673,Vores medlemmer vil gerne praktisere deres kunst,3,"medlemmer, praktisere, kunst",19.95334552,-7.229522685,1,1,1,1,1,1,1,1,0,1,0,1,6.5,0,8
+674,Jeg nævnte hvornår de kunne træffe ejeren,4,"nævnte, træffe, ejeren",8.727749418,-3.149916757,1,1,1,1,1,1,1,1,0,1,1,1,6.11,1,9
+675,Det var underligt at de måtte beholde fabrikken,5,"underligt, beholde, fabrikken",12.59280478,-3.958939806,1,1,1,1,1,1,1,1,0,1,1,1,5.9,0,10
+676,I virkeligheden savnede hun faktisk lidt modstand,6,"virkeligheden, savnede, modstand",14.83082663,-4.824855873,1,1,1,1,1,1,1,1,1,1,1,1,6.89,0,9
+677,Hun kan lige dække omkostningerne med sin løn,7,"dække, omkostningerne, løn",14.77423076,-5.463133127,1,1,1,1,1,1,1,1,0,1,1,0,6.78,0,9
+678,Vi troede at du ville rydde op i hele bygningen,8,"troede, rydde, bygningen",4.634840786,-0.134782427,1,1,1,1,1,1,1,1,1,1,1,1,6.3,0,10
+679,Det er en aftale som kan tilfredsstille mindretallet,9,"aftale, tilfredsstille, mindretallet",8.311356757,-4.759512179,1,1,1,1,1,1,1,1,1,1,1,1,6.3,0,10
+680,Hun har ofte beskrevet bjerget og dets indbyggere,10,"beskrevet, bjerget, indbyggere",12.83615188,-3.93120187,1,1,1,1,1,1,1,1,1,1,1,1,5.11,0,9
+681,Der er mange svenskere der følger mine råd,1,"svenskere, følger, råd",9.453568665,-3.461583194,1,1,1,1,1,1,1,1,1,1,1,1,6.5,0,10
+682,Vi er ret lykkelige når vi spiser middag sammen,2,"lykkelige, spiser, middag",224.7758705,-5.037421022,1,1,1,1,1,0,1,1,1,1,1,1,6.1,0,10
+683,Borgmesteren ville involvere mig i sin dagsorden,3,"borgmesteren, involvere, dagsorden",22.64813836,-6.633765268,1,1,1,1,1,1,1,1,1,1,0,1,4.8,1,10
+684,Hun ville gerne se hvem der udførte aktionen,4,"se, udførte, aktionen",15.30127334,-5.918276922,1,1,0,1,1,1,1,1,1,1,1,1,5.9,0,10
+685,Det er interessant at de gennemførte finansloven,5,"interessant, gennemførte, finansloven",8.287369611,-5.305451347,1,1,1,1,1,0,1,1,0,1,1,0,5.3,0,10
+686,I juni vil de desværre rulle alle reformerne tilbage,6,"juni, rulle, reformerne",18.57776346,-1.74881495,1,1,1,1,1,1,1,1,1,1,0,0,5.9,0,10
+687,Min kammerat har anbefalet mig den her øl,7,"kammerat, anbefalet, øl",20.66332178,-4.369015561,1,1,1,1,1,1,1,1,1,1,1,1,6.6,0,10
+688,Vi syntes alle at han skulle afslutte sin historie,8,"syntes, afslutte, historie",20.4760176,-6.743364416,1,1,1,1,1,1,1,1,1,1,1,1,6.2,0,10
+689,Det var kun kirken som kunne samle indbyggerne,9,"kirken, samle, indbyggerne",11.48435805,-4.544683446,1,1,1,1,1,1,1,1,1,1,1,1,6,0,9
+690,Jeg vil snart anskaffe mig en elbil eller en cykel,10,"anskaffe, elbil, cykel",23.66836144,-5.183949206,1,1,1,1,1,1,1,1,0,1,1,1,6.88,0,8
+691,Der var mange eksempler der illustrerede den her pointe,1,"eksempler, illustrerede, pointe",8.126384372,-4.999999909,1,1,1,1,1,1,1,1,1,1,1,1,5.6,0,10
+692,Hun var opmærksom fordi hun klippede sit hår,2,"opmærksom, klippede, hår",10.3232988,-4.226393728,1,1,1,1,1,1,1,1,1,1,1,1,4.88,0,8
+693,Nogen havde tegnet et ansigt på min skærm,3,"tegnet, ansigt, skærm",39.23367596,-6.495180243,1,1,1,1,1,1,1,1,1,1,1,0,6.4,0,10
+694,Vi regnede ud hvor man kunne skrue op for vandet,4,"regnede, skrue, vandet",22.49406806,-4.264075462,1,1,1,1,1,1,1,1,1,1,1,1,5.8,0,10
+695,Det var hurtigt at professoren tilegnede sig stoffet,5,"hurtigt, professoren, stoffet",9.557706542,-5.122644612,1,1,1,1,1,1,1,1,1,1,1,1,5.13,0,8
+696,For tiden føler hun sig heldigvis rimeligt frisk,6,"tiden, føler, frisk",23.18302353,-4.195853612,1,1,1,1,1,1,1,1,1,1,1,1,6.22,0,9
+697,Mægleren har allerede oplyst os om ejendommen,7,"mægleren, oplyst, ejendommen",33.19955067,-3.65246188,1,1,1,1,0,1,1,1,0,1,1,1,6.63,0,8
+698,Han accepterer nok at vi fremskynder festen,8,"accepterer, fremskynder, festen",9.407370859,-4.219105851,1,1,1,1,1,1,1,1,0,1,1,1,5.63,0,8
+699,Det er selve kongen som roser jeres generation,9,"kongen, roser, generation",12.21196945,-2.214746306,1,1,1,1,1,1,1,1,0,1,1,1,4.8,0,10
+700,Han havde imponeret os med sit talent og sin fantasi,10,"imponeret, talent, fantasi",162.9989502,-7.448399665,1,1,1,1,1,1,1,1,0,1,0,1,6.8,0,10
+701,Der er et kapitel der virkelig skræmmer læserne,1,"kapitel, skræmmer, læserne",9.638214067,-4.626124714,1,1,1,1,1,1,1,1,1,1,1,1,5.67,0,9
+702,Jeg er tit for optimistisk når jeg planlægger min ferie,2,"optimistisk, planlægger, ferie",242.327725,-7.428495713,1,0,1,1,1,1,1,1,1,1,1,1,6.33,0,9
+703,Spillerne burde koncentrere sig mere om forsvaret,3,"spillerne, koncentrere, forsvaret",16.09495978,-5.702409747,1,1,1,1,1,1,1,1,0,1,1,1,6.56,0,9
+704,Han tænkte over hvordan træer egentlig kan vokse,4,"tænkte, træer, vokse",16.17951841,-4.876945243,1,1,1,1,1,1,1,1,0,1,1,1,6.25,0,8
+705,Det er nødvendigt at vi sparer på vores energi,5,"nødvendigt, sparer, energi",8.894691488,-3.743969451,1,1,1,1,1,1,1,1,1,1,1,1,6.56,0,9
+706,Til februar vil alle måske stemme på vores kandidat,6,"februar, stemme, kandidat",10.82053828,-6.708260726,1,1,1,1,1,1,1,1,1,1,0,0,5.44,0,9
+707,Hun har anbefalet den her bank til sin egen far,7,"anbefalet, bank, far",12.52563577,-5.281254856,1,1,1,1,1,1,1,1,1,1,1,1,6,0,9
+708,De havde ofte sagt at man burde styrke politiet,8,"sagt, styrke, politiet",7.182789296,-4.433460036,1,1,1,1,1,1,1,1,1,1,1,1,6.11,0,9
+709,Det var bare en hest som tyggede på noget græs,9,"hest, tyggede, græs",47.2088819,-3.024021872,1,1,1,1,1,1,1,1,1,1,1,1,6.63,0,8
+710,Den her kasse ligner et fjernsyn eller en computer,10,"kasse, fjernsyn, computer",15.2013576,-5.423435675,1,1,1,1,0,1,1,1,0,1,0,1,6,0,9
+711,Der var en pressechef der forenklede beskeden,1,"pressechef, forenklede, beskeden",30.67542804,-3.326165154,1,1,1,1,1,1,1,1,1,1,1,0,6.13,0,8
+712,Hun var virkelig sød selvom hun fremstod lidt barsk,2,"sød, fremstod, barsk",8.11754997,-5.634638376,1,1,1,1,1,1,1,1,1,1,1,1,6.44,0,9
+713,Man kan lige netop ane flyet omme bag ved hallen,3,"ane, flyet, hallen",14.24637469,-0.770970392,1,1,1,1,1,0,1,1,0,1,1,1,5.44,1,9
+714,Hun forklarede os hvordan man kan finansiere et lån,4,"forklarede, finansiere, lån",5.597609907,-3.558901642,1,1,1,1,1,1,1,1,1,1,1,1,6.78,0,9
+715,Det var smart at de strammede op på deres adfærd,5,"smart, strammede, adfærd",18.21905396,-6.684083708,1,1,1,1,1,1,1,1,1,1,0,1,5.44,1,9
+716,På mandag udkommer min allerførste artikel,6,"mandag, udkommer, artikel",89.79366833,-4.332569824,1,1,1,1,1,1,1,0,1,1,1,1,6.89,0,9
+717,Han har doneret sit tøj til en eller anden organisation,7,"doneret, tøj, organisation",13.39206126,-7.56176407,1,1,1,1,1,1,1,1,1,1,0,1,6.56,1,9
+718,Jeg mener faktisk at vi kan forebygge flere skader,8,"mener, forebygge, skader",12.75587173,-5.505805922,1,1,1,1,1,1,1,1,1,1,1,1,6.78,0,9
+719,Det er direktørens strategi som ikke fungerer,9,"direktørens, strategi, fungerer",12.15651364,-5.080587128,1,1,1,1,1,1,1,0,1,1,1,1,5.6,0,10
+720,De har fanget hovedpersonen og hans partner,10,"fanget, hovedpersonen, partner",14.76688856,-5.510519106,1,1,1,1,1,1,1,1,1,1,1,1,5.33,0,9
+721,Der er en mand der vil offentliggøre hele historien,1,"mand, offentliggøre, historien",23.15071057,-5.193346075,1,1,1,1,1,1,1,1,0,1,1,0,5.4,0,10
+722,Hun er usikker når hun skal synge foran mange folk,2,"usikker, synge, folk",31.86784887,-5.556494191,1,1,1,1,1,1,1,1,1,1,1,1,6.3,1,10
+723,Han hævede stemningen med sine kommentarer,3,"hævede, stemningen, kommentarer",9.020324212,-4.774722248,1,1,1,1,1,1,1,1,1,1,1,1,5.13,0,8
+724,De har forklaret hvorfor vi skal løfte forbuddet,4,"forklaret, løfte, forbuddet",5.329339098,-4.289276081,1,1,1,1,1,1,1,1,1,1,1,1,5.9,0,10
+725,Det er usædvanligt at han skruer så højt op for lyden,5,"usædvanligt, skruer, lyden",9.620997362,-5.329182144,1,1,1,0,1,1,1,1,0,1,0,1,6.6,1,10
+726,Inden på torsdag skal vi helst have spist alt kødet,6,"torsdag, spist, kødet",11.19698769,-5.423731177,1,1,1,1,1,1,1,1,1,1,1,1,6.1,0,10
+727,Jeg afleverede simpelthen varerne til en cafe,7,"afleverede, varerne, cafe",7.545438298,-2.952686751,1,1,1,1,1,1,1,1,1,1,1,1,5.5,0,10
+728,Han påstod at vi ville overtage hans supermarked,8,"påstod, overtage, supermarked",10.96021087,-6.275826522,1,1,0,1,1,1,1,1,0,1,0,1,5.3,0,10
+729,Det var præsidenten selv som havde udsat mødet,9,"præsidenten, udsat, mødet",14.24012864,-5.768015596,1,1,1,1,1,1,1,1,0,1,1,1,5.6,0,10
+730,Kineserne vil sikkert snart lette lidt på presset,10,"kineserne, lette, presset",20.70787937,-3.207589989,1,1,1,1,1,1,1,1,1,1,1,1,5.9,1,10
+731,Der var en turist der hoppede op på en lastbil,1,"turist, hoppede, lastbil",11.52315383,-3.613979358,1,1,1,1,1,1,1,1,1,1,1,1,5.9,1,10
+732,Han var munter fordi vi fornyede hans abonnement,2,"munter, fornyede, abonnement",9.465667418,-3.617854531,1,1,1,1,1,1,1,1,0,1,1,1,6.13,0,8
+733,De ville gerne smage på kagen inden bryllupet,3,"smage, kagen, bryllupet",13.03569169,-5.031041468,1,1,1,1,1,1,1,1,1,1,1,1,6.6,0,10
+734,Jeg mærkede hvordan hele båden vippede,4,"mærkede, båden, vippede",16.60423153,-2.485910609,1,1,1,1,1,1,1,1,1,1,0,1,6.6,0,10
+735,Det var fornuftigt at han forholdt sig til eksemplet,5,"fornuftigt, forholdt, eksemplet",10.33436742,-4.422526988,1,1,1,1,1,1,1,1,0,1,1,1,6.13,0,8
+736,Efter scoringen udskiftede de faktisk målmanden,6,"scoringen, udskiftede, målmanden",10.53875961,-6.058205983,1,1,1,1,1,1,1,1,1,1,1,1,6.38,0,8
+737,Vores advokat har tilføjet et afsnit til anbefalingen,7,"advokat, tilføjet, anbefalingen",7.899472304,-7.526050989,1,1,1,1,1,0,1,1,1,1,0,1,5.88,0,8
+738,Vi tænkte at du ville kunne vurdere det her tilbud,8,"tænkte, vurdere, tilbud",7.930697236,-4.234364184,1,0,1,1,1,1,1,1,0,1,1,1,6.1,0,10
+739,Det er en kritiker som har oversat anmeldelsen,9,"kritiker, oversat, anmeldelsen",15.30422672,-4.92240848,1,1,1,1,1,1,1,1,1,1,0,1,5.2,0,10
+740,Bygningen havde hverken varmt vand eller strøm,10,"bygningen, vand, strøm",24.74032125,-5.76490855,1,1,1,1,1,1,1,1,1,1,0,1,6.7,1,10
+741,Der er mange begivenheder der kan ændre markedet,1,"begivenheder, ændre, markedet",20.40171149,-2.887764635,1,1,1,1,1,0,1,1,0,1,1,1,5.78,0,9
+742,De er rige fordi de prioriterer deres økonomi,2,"rige, prioriterer, økonomi",18.9314995,-3.12936265,1,1,1,1,1,1,1,1,1,1,1,1,5.5,1,10
+743,De har ansat mange pædagoger her i kommunen,3,"ansat, pædagoger, kommunen",20.42219808,-5.962870584,1,1,1,1,1,1,1,1,0,1,1,1,6.56,1,9
+744,Han iagttog hvordan vi anvendte vores metode,4,"iagttog, anvendte, metode",11.58256265,-5.621662384,1,1,0,1,1,1,1,1,1,1,1,1,6,0,9
+745,Det er klart at vi sagtens kan måle hastigheden,5,"klart, måle, hastigheden",8.618371227,-2.882879372,1,1,1,1,0,1,1,1,1,1,1,1,6.25,0,8
+746,I november fastansatte de faktisk en historiker,6,"november, fastansatte, historiker",4.519301439,-5.843149241,1,1,1,1,1,1,1,0,1,1,1,1,5.88,0,8
+747,Min arbejdsgiver har sendt mig nogle blomster,7,"arbejdsgiver, sendt, blomster",14.42633756,-2.773103818,1,1,1,1,1,1,1,1,1,1,1,1,6.44,1,9
+748,Hun mener at vi forholder os realistisk til statistikken,8,"mener, forholder, statistikken",22.42916073,-7.987435528,1,1,1,1,1,1,0,1,1,1,1,1,6.63,0,8
+749,Det var en biolog som betragtede insekterne,9,"biolog, betragtede, insekterne",13.9378366,-2.968632582,1,1,1,1,1,1,1,1,1,1,1,0,6.38,0,8
+750,Hun red vist hen over broen og ind i skoven,10,"red, broen, skoven",239.2711348,-2.750480515,1,1,1,1,1,1,1,1,1,1,1,1,5.9,0,10
+751,Der var en reol der bare trængte til lidt maling,1,"reol, trængte, maling",15.47094697,-4.112657039,1,1,1,1,1,0,1,1,1,1,1,1,5.63,0,8
+752,Han var helt frisk selvom han havde fløjet i et døgn,2,"frisk, fløjet, døgn",25.67066262,-5.993782572,1,1,1,1,1,1,1,1,0,1,1,1,5.4,0,10
+753,Deres angribere har bragt dem helt til finalen,3,"angribere, bragt, finalen",9.711029875,-4.715232563,1,1,1,1,1,1,1,1,1,1,0,1,6.33,0,9
+754,Han havde opfanget hvad der var foregået på værelset,4,"opfanget, foregået, værelset",13.54081998,-4.582198999,1,1,0,1,1,1,1,1,1,1,1,1,5.9,0,10
+755,Det var dejligt at I lokkede os med på rejsen,5,"dejligt, lokkede, rejsen",30.89703526,-4.229371463,1,1,1,1,1,1,1,1,1,1,0,1,6.11,0,9
+756,Ifølge analysen kan vi godt afskaffe nogle af reglerne,6,"analysen, afskaffe, reglerne",11.41292236,-4.796591355,1,1,1,1,1,1,1,1,1,1,1,1,6,1,9
+757,Cheftræneren har inviteret os til forhandlinger,7,"cheftræneren, inviteret, forhandlinger",10.72980299,-6.820489651,1,1,1,1,1,1,1,1,1,1,0,1,6.5,0,8
+758,Hun har bevist at organisationen faktisk eksisterer,8,"bevist, organisationen, eksisterer",20.90026666,-7.587518649,1,1,1,1,1,1,1,1,1,1,0,1,5.8,0,10
+759,Det er politikerne som repræsenterer befolkningen,9,"politikerne, repræsenterer, befolkningen",28.25660815,-7.448251857,1,1,1,1,1,1,1,1,1,1,1,1,6.56,2,9
+760,Producenten har allerede lovet os en forklaring,10,"producenten, lovet, forklaring",21.50748698,-4.840838579,0,1,1,1,1,1,1,1,0,1,1,1,6.67,0,9
+761,Der er en hel del der cykler til deres arbejdsplads,1,"del, cykler, arbejdsplads",24.1900182,-8.267803583,1,0,1,1,1,1,1,1,0,1,1,1,6.11,1,9
+762,Jeg er glad for at jeg er startet på en uddannelse,2,"glad, startet, uddannelse",7.419370439,-11.1972049,1,1,1,1,1,1,1,1,1,1,0,1,6.78,0,9
+763,Man kan heldigvis søge et tilskud til transporten,3,"søge, tilskud, transporten",10.57753519,-6.322998884,1,1,1,1,1,1,1,1,1,1,1,1,6.44,0,9
+764,De har fortalt os hvad der skabte al balladen,4,"fortalt, skabte, balladen",13.73649053,-7.107893218,1,1,1,1,1,1,1,1,1,1,1,1,5.89,0,9
+765,Det er kedeligt at vi stadig kæmper med et underskud,5,"kedeligt, kæmper, underskud",13.8979116,-3.937668658,1,1,1,1,1,0,1,1,1,1,1,1,6.33,1,9
+766,I januar skal vi måske organisere to afstemninger,6,"januar, organisere, afstemninger",7.840398818,-5.054289937,1,1,1,1,1,1,1,1,1,1,1,1,6.33,0,9
+767,Vi kan sagtens holde fiskeri uden for diskussionen,7,"holde, fiskeri, diskussionen",14.57974235,-5.490809727,1,1,1,1,1,1,1,1,1,1,1,1,5.25,0,8
+768,Det betyder at I snart skal stoppe med undervisningen,8,"betyder, stoppe, undervisningen",22.58490307,-8.961075972,1,1,1,1,1,1,1,1,1,1,1,1,6.78,0,9
+769,Det var min bror som havde glemt min fødselsdag,9,"bror, glemt, fødselsdag",35.16503098,-6.715294797,1,1,1,1,1,1,1,1,1,1,1,1,6.22,1,9
+770,Hun kan både håndtere ansvaret og udfordringerne,10,"håndtere, ansvaret, udfordringerne",16.91293481,-4.625614841,1,1,1,1,1,1,1,1,1,1,1,1,6.56,0,9
+771,Der var en elefant der kiggede venligt på min hustru,1,"elefant, kiggede, hustru",17.00878487,-4.11049754,1,1,1,1,1,1,1,1,0,1,0,1,3.25,0,8
+772,Hun var meget rig fordi hun havde investeret i olie,2,"rig, investeret, olie",14.32980186,-3.781056097,1,1,1,1,1,1,1,1,1,1,1,1,5.56,0,9
+773,En eller anden har placeret et kamera på mit kontor,3,"placeret, kamera, kontor",32.39671195,-3.749700247,1,1,1,1,1,1,1,1,1,1,0,1,6.22,1,9
+774,Han respekterede hvordan vi plejede at gøre,4,"respekterede, plejede, gøre",10.2790169,-4.253023804,1,1,1,1,1,1,1,1,1,1,1,1,5.5,0,10
+775,Det var fantastisk at de bare godkendte vores udspil,5,"fantastisk, godkendte, udspil",8.002632952,-6.795478914,1,1,1,1,1,1,1,1,1,1,0,1,5.67,0,9
+776,Efter kaffen kan vi lige sammenligne vores lister,6,"kaffen, sammenligne, lister",16.33895931,-2.955075515,1,1,1,1,1,1,1,1,1,1,1,1,5.89,1,9
+777,Jeg efterlod desværre noget vin hos ministeren,7,"efterlod, vin, ministeren",8.382838163,-3.697227959,1,1,1,1,1,1,1,1,1,1,1,1,4.78,1,9
+778,Det gælder jo om at vi bevarer alle vores fordele,8,"gælder, bevarer, fordele",16.41725026,-3.493934077,1,1,1,1,1,1,1,1,1,1,1,1,5.89,1,9
+779,Det er nemlig en myte som stammer fra medierne,9,"myte, stammer, medierne",25.03409048,-2.209728389,1,1,1,1,1,1,1,0,1,1,1,1,5.67,1,9
+780,Han værdsatte virkelig både kemi og matematik,10,"værdsatte, kemi, matematik",20.07500766,-4.213157143,1,1,1,1,1,1,1,1,1,1,0,0,5.38,0,8
+781,Der er to af episoderne der foregår på et sygehus,1,"episoderne, foregår, sygehus",19.04349201,-4.58806639,1,1,1,1,1,0,1,1,0,1,1,1,5.89,0,9
+782,Han er fair når han konkurrerer med sine kammerater,2,"fair, konkurrerer, kammerater",19.00377973,-4.651535024,1,1,1,1,0,1,1,1,1,1,0,1,5.89,1,9
+783,Vi vil rigtigt gerne bruge jeres video i en udsendelse,3,"bruge, video, udsendelse",12.74491368,-4.493095126,1,0,1,1,1,1,1,1,1,1,1,1,6.22,0,9
+784,Jeg kan forestille mig hvordan de reagerede på brevet,4,"forestille, reagerede, brevet",9.524187159,-2.924598445,1,1,1,1,1,1,1,1,1,1,1,0,6,0,9
+785,Det er fornuftigt at de endelig dropper det lovforslag,5,"fornuftigt, dropper, lovforslag",17.98510045,-3.703234568,1,1,1,1,1,0,1,0,1,1,0,1,6.2,0,10
+786,Tilbage i marts strammede vi op på vores økonomi,6,"marts, strammede, økonomi",11.37658841,-3.738005263,1,1,1,1,1,1,1,1,1,1,1,1,5.67,0,9
+787,Hun har igen købt en masse ting til vores afdeling,7,"købt, ting, afdeling",46.6179934,-6.9265021,1,1,1,1,1,1,1,1,1,1,1,1,6,1,9
+788,De legede at de kunne flyve rundt ligesom ænder,8,"legede, flyve, ænder",9.29997691,-3.908187713,1,1,1,1,1,1,1,1,1,1,0,1,5,0,9
+789,Det var en prins som ville investere i vores restaurant,9,"prins, investere, restaurant",35.80865523,-5.205556838,1,1,1,1,1,1,1,1,1,1,1,1,5.11,0,9
+790,Hun forsker stadig i kultur og bæredygtig mode,10,"forsker, kultur, mode",9.122272182,-3.206037613,1,1,1,1,1,1,1,1,1,1,1,1,6,0,10
+791,Der var nogle kvinder der dannede en forening,1,"kvinder, dannede, forening",19.00176017,-3.068991168,1,1,1,1,1,1,1,1,1,1,1,0,6.33,1,9
+792,Det var smukt fordi vi havde pyntet op i lokalet,2,"smukt, pyntet, lokalet",17.13835552,-6.863955452,1,1,1,1,1,1,1,1,1,1,1,1,6.75,0,8
+793,Min far prøvede selvfølgelig på at tænde for skærmen,3,"far, tænde, skærmen",38.85777196,-8.975894045,1,1,1,1,1,1,1,1,1,1,0,1,5.78,0,9
+794,De har annonceret hvem der går videre til finalen,4,"annonceret, går, finalen",24.58919648,-5.18489566,1,1,1,1,1,1,1,1,0,1,1,1,5.89,0,9
+795,Det var ret klogt at vi bad dem om en kontrakt,5,"klogt, bad, kontrakt",11.11088099,-5.994210874,1,1,1,1,0,0,1,1,0,1,0,1,6.11,0,9
+796,Til foråret vil de faktisk anlægge endnu en motorvej,6,"foråret, anlægge, motorvej",11.87641628,-2.309829613,1,1,1,1,1,1,1,1,1,1,1,1,5.67,1,9
+797,Min arbejdsgiver har lige tilbudt mig en formue,7,"arbejdsgiver, tilbudt, formue",14.69814201,-4.292437327,1,1,1,1,1,1,1,1,1,1,1,1,4.8,0,10
+798,Det forekommer mig at vi burde styrke budgettet,8,"forekommer, styrke, budgettet",14.59061857,-5.363721871,1,1,1,1,1,0,1,1,0,1,0,1,5.33,0,9
+799,Det er et princip som gælder i alle samfund,9,"princip, gælder, samfund",26.30359297,-6.459908606,1,1,1,1,1,1,1,1,0,1,1,1,5.67,0,9
+800,Hun skulle servere for både komponisten og musikerne,10,"servere, komponisten, musikerne",9.607993445,-2.669921839,1,1,1,1,1,1,1,1,1,1,0,1,5.78,1,9
+801,Der er mange unge der uddanner sig inden for IT,1,"unge, uddanner, IT",25.57989143,-4.62500465,1,1,1,1,1,1,1,1,1,1,1,1,6.88,0,8
+802,Hun er intens når hun diskuterer med de studerende,2,"intens, diskuterer, studerende",11.44629203,-6.936185877,1,1,1,1,1,1,1,1,1,1,1,1,6,0,8
+803,Ambassadøren fremviste gerne hele paladset selv,3,"ambassadøren, fremviste, paladset",31.84349857,-6.943148286,1,1,1,1,0,1,1,1,1,1,1,1,5.75,0,8
+804,Vi administrerer selv hvem der må låne bøgerne,4,"administrerer, låne, bøgerne",10.02816002,-0.608112227,1,1,1,1,1,1,1,1,1,1,1,1,6.22,0,9
+805,Det var lidt uventet at hun opnåede sådan en succes,5,"uventet, opnåede, succes",14.34359433,-3.034395763,1,1,1,1,1,1,1,1,0,1,0,1,6.13,0,8
+806,Efter nytår afholder vi igen koncerter og skuespil,6,"nytår, afholder, skuespil",8.079009519,-7.130765419,1,1,1,1,1,1,1,1,1,1,0,0,6.88,0,8
+807,Sælgeren havde fristet os med en attraktiv pris,7,"sælgeren, fristet, pris",20.94568151,-4.559091371,1,1,1,1,1,1,1,1,1,1,1,1,6,0,8
+808,Han konstaterede at vi allerede havde pakket tv'et ud,8,"konstaterede, pakket, tv'et",11.12355291,-4.735443406,1,1,1,0,1,1,1,1,0,1,1,1,6.13,0,8
+809,Det var en melding som bekræftede mit synspunkt,9,"melding, bekræftede, synspunkt",21.99280398,-5.481042427,1,1,1,1,1,1,1,1,1,1,1,1,6.38,0,8
+810,Hun havde vækket sin chauffør og alle gæsterne,10,"vækket, chauffør, gæsterne",23.06276297,-5.432560957,1,1,1,1,1,1,1,1,1,1,1,1,5.25,0,8
+811,Der var bare en gren der var faldet ned fra et træ,1,"gren, faldet, træ",26.49594214,-6.456017985,1,1,1,0,1,1,1,1,0,1,1,0,5.75,0,8
+812,De var optimistiske fordi de kunne tyde symbolerne,2,"optimistiske, tyde, symbolerne",22.58055632,-3.030825751,1,1,1,1,1,1,1,1,1,1,1,1,5.88,0,8
+813,Alle på mit kontor interesserer sig meget for landsholdet,3,"kontor, interesserer, landsholdet",15.07721076,-4.905607122,1,1,1,0,1,1,1,1,0,1,1,1,6.22,0,9
+814,Hun har beregnet hvor meget vi kan spare på hotellet,4,"beregnet, spare, hotellet",14.24466846,-5.602074241,1,1,1,1,1,1,1,1,0,1,1,1,6.38,0,8
+815,Det er perfekt at vi kan trække hele beløbet fra,5,"perfekt, trække, beløbet",12.83625283,-7.964231383,1,1,1,1,1,1,1,1,0,1,1,1,6.25,0,8
+816,På bare én formiddag svækkede de hele sektoren,6,"formiddag, svækkede, sektoren",9.996215933,-3.786088247,1,1,1,1,1,1,1,1,1,1,1,1,5.63,1,8
+817,Konsulenten opdaterede mig om situationen,7,"konsulenten, opdaterede, situationen",19.87919789,-7.805523289,1,1,1,1,1,1,1,1,1,1,1,1,6.25,0,8
+818,Jeg har antydet at han egentlig burde udstille sine figurer,8,"antydet, udstille, figurer",10.9480826,-4.233518133,1,1,1,1,1,1,1,1,1,1,1,1,5,0,8
+819,Det er musikerne som selv startede diskussionen,9,"musikerne, startede, diskussionen",17.74876718,-6.037233866,1,1,1,1,1,1,1,1,0,1,1,1,4.75,0,8
+820,Hun ville helst læse noget med design eller kultur,10,"læse, design, kultur",11.29080471,-4.853522418,1,1,1,1,1,1,1,1,0,1,0,1,6.38,0,8
+821,Der er meget lidt værktøj der forsvinder fra vores lager,1,"værktøj, forsvinder, lager",29.74545093,-4.958242446,1,1,0,1,1,1,1,1,0,1,1,1,5.13,0,8
+822,Han er usædvanlig hvis han lader dig prøve igen,2,"usædvanlig, lader, prøve",8.362758558,-0.708605161,1,1,1,1,1,1,1,1,1,1,1,0,3.5,0,8
+823,De fleste personer satte sig ned under reklamerne,3,"personer, satte, reklamerne",26.28751252,-5.37382905,1,1,1,1,1,1,1,1,0,1,1,0,5.67,0,9
+824,Jeg vidste godt hvorfor de tilkaldte en fotograf,4,"vidste, tilkaldte, fotograf",16.73790373,-5.68495685,1,1,1,1,1,0,1,1,1,1,1,0,5.75,0,8
+825,Det var udmærket at han tilføjede et kapitel mere,5,"udmærket, tilføjede, kapitel",21.00067359,-4.00969165,1,1,1,0,0,1,1,1,0,1,0,1,5.75,0,8
+826,Inden jul skal vi nok have installeret de her lys,6,"jul, installeret, lys",15.53589725,-2.741026076,1,1,1,1,1,1,1,1,1,1,1,1,6.5,0,8
+827,De har allerede udbetalt fem millioner til investorerne,7,"udbetalt, millioner, investorerne",229.6958397,-5.119572023,1,1,1,1,1,1,1,1,1,1,0,1,6.75,0,8
+828,Hun forventer faktisk at nogen citerer hendes digte,8,"forventer, citerer, digte",11.01631808,-3.694097513,1,1,1,1,1,1,1,1,1,1,1,1,5.75,0,8
+829,Det var mest de unge som benyttede hjemmesiden,9,"unge, benyttede, hjemmesiden",23.53668349,-0.744848,1,0,1,1,1,1,1,1,0,1,1,1,7,0,8
+830,Han hilste både på værten og på premierministeren,10,"hilste, værten, premierministeren",16.96946972,-4.570082951,1,1,1,1,1,1,1,1,1,1,0,1,6.63,0,8
+831,Der var nogle værksteder der lokkede med tilbud,1,"værksteder, lokkede, tilbud",16.10880413,-3.673616119,1,1,1,1,1,1,1,1,1,1,1,1,5.5,0,8
+832,Hun var stolt fordi hun også havde ydet et bidrag,2,"stolt, ydet, bidrag",7.803378299,-2.872941673,1,0,1,1,1,1,1,1,1,1,1,1,6.5,0,8
+833,En af ingeniørerne har lige justeret maskinerne,3,"ingeniørerne, justeret, maskinerne",14.21928011,-4.857997192,1,1,1,1,1,1,1,1,1,1,1,1,6.63,0,8
+834,Vi drøftede hvordan vi bedst kunne opfylde vores mål,4,"drøftede, opfylde, mål",11.06025659,-5.183183611,1,1,1,1,1,1,1,1,1,1,1,1,6.88,0,8
+835,Det er ret vigtigt at vi bevarer alle de lokale museer,5,"vigtigt, bevarer, museer",19.10942074,-3.711541317,1,1,1,1,1,1,1,1,1,1,1,0,6.13,0,8
+836,Næste år vil han lede efter en anden arbejdsplads,6,"år, lede, arbejdsplads",29.23469336,-6.576291493,1,1,1,1,1,1,1,1,1,1,0,1,6.5,0,8
+837,Vi kan selvfølgelig bare tage toget ind til centrum,7,"tage, toget, centrum",51.43047245,-5.597000092,1,1,1,1,1,1,1,1,1,1,1,1,7,0,8
+838,Jeg vurderede at jeg godt kunne klare oplægget selv,8,"vurderede, klare, oplægget",23.44578819,-3.749837158,1,1,1,1,1,1,1,1,1,1,1,1,6.88,0,8
+839,Det er en ung dreng som vil udfordre favoritten,9,"dreng, udfordre, favoritten",8.561983467,-1.533259648,1,1,1,1,1,1,1,1,1,1,1,1,5,0,8
+840,Han har oplevet stor opbakning gennem sin karriere,10,"oplevet, opbakning, karriere",13.97550458,-5.288090898,1,1,1,1,1,1,1,1,1,1,0,1,6.63,0,8
+841,Der er mange telefoner der indeholder et kamera,1,"telefoner, indeholder, kamera",22.37118367,-5.656524988,1,1,1,1,1,1,1,1,1,1,1,1,6.5,0,10
+842,Han er først parat når han har klædt om efter showet,2,"parat, klædt, showet",11.38397676,-6.618803295,1,1,1,1,1,1,1,1,1,1,1,1,6,0,10
+843,Justitsministeren skar igennem under valgkampen,3,"justitsministeren, skar, valgkampen",14.06770419,-5.763189608,1,1,1,1,1,1,1,0,1,1,1,1,6.4,0,10
+844,Hun overvejede hvem der kunne arrangere en udstilling,4,"overvejede, arrangere, udstilling",6.72217467,-5.123179123,1,1,1,1,1,1,1,1,1,1,1,0,6.2,0,10
+845,Det var nødvendigt at de byggede et sygehus,5,"nødvendigt, byggede, sygehus",14.41696574,-3.246945173,1,1,1,1,1,0,1,1,0,1,1,1,6.3,0,10
+846,I august skal hun allerede til at begynde i børnehave,6,"august, begynde, børnehave",12.62335905,-4.59454455,1,1,1,1,1,1,1,1,1,1,1,1,5.1,1,10
+847,Vi skulle engang levere nogle planter til en højskole,7,"levere, planter, højskole",47.4327931,-5.357896013,1,1,0,1,1,1,1,1,1,1,1,1,6.6,0,10
+848,Jeg kan huske at jeg udleverede tre computere,8,"huske, udleverede, computere",10.53152543,-6.123929024,1,1,1,1,1,1,1,1,1,1,1,1,6.5,0,10
+849,Det var folketinget som modsatte sig flere besparelser,9,"folketinget, modsatte, besparelser",6.146396573,-8.328514539,1,1,1,1,1,1,1,1,1,1,1,1,5.8,0,10
+850,Generalsekretæren ville hilse på mig og min partner,10,"generalsekretæren, hilse, partner",8.109140008,-2.380188382,1,1,0,1,1,1,1,1,1,1,1,1,5.7,0,10
+851,Der var desværre en rytter der væltede i tredje runde,1,"rytter, væltede, runde",12.35810261,-0.643924209,1,1,1,1,1,1,1,1,1,1,1,1,6.5,0,10
+852,De var ærlige da de omtalte vores samarbejde,2,"ærlige, omtalte, samarbejde",13.41932428,-4.988578029,0,1,1,1,1,1,1,1,1,1,1,1,6.5,0,10
+853,Udtalelserne står stadigvæk på jeres hjemmeside,3,"udtalelserne, står, hjemmeside",18.70719592,-6.004476128,1,1,1,1,1,1,1,1,0,1,1,1,5.7,0,10
+854,Vi vil fokusere på hvordan vi kan bidrage til byggeriet,4,"fokusere, bidrage, byggeriet",9.714216759,-5.041217573,1,1,1,1,1,1,1,1,0,1,1,1,6.2,0,10
+855,Det er meget underligt at brevet aldrig dukkede op,5,"underligt, brevet, dukkede",9.891239887,-4.365075498,1,1,1,1,1,1,1,1,1,1,1,1,6.7,0,10
+856,Inden oktober skal vi have gennemgået beviserne,6,"oktober, gennemgået, beviserne",30.08350052,-2.809132507,1,1,1,1,1,1,1,1,1,1,1,1,6.3,0,10
+857,Man kan nok kalde deres beslutning for urimelig,7,"kalde, beslutning, urimelig",23.4192395,-4.908735735,1,1,1,1,0,1,1,1,1,1,0,1,5.7,0,10
+858,Hun vurderer at hun kan flette endnu flere hjerter,8,"vurderer, flette, hjerter",6.775548716,-2.356206568,1,1,1,1,1,1,1,1,0,1,1,1,6,0,8
+859,Det er en af forhandlerne som afsendte ordren,9,"forhandlerne, afsendte, ordren",4.300404773,5.278855058,1,1,1,1,1,1,1,1,1,1,1,1,6.13,0,8
+860,Han ville gerne inddrage staten i overenskomsten,10,"inddrage, staten, overenskomsten",20.23877174,-7.868813901,1,1,1,1,1,1,1,1,1,1,0,1,5.4,0,10
+861,Der er flere overskrifter der lyder ret morsomme,1,"overskrifter, lyder, morsomme",14.37865272,-5.051799472,1,1,1,1,1,1,1,1,1,1,1,1,6.22,0,9
+862,Vi er effektive selvom vores udstyr ikke fungerer,2,"effektive, udstyr, fungerer",29.52085408,-5.576731945,1,1,1,1,1,1,1,1,1,1,0,1,6,0,9
+863,Regnen vil senere brede sig ud over hele landet,3,"regnen, brede, landet",9.778358299,-2.835596229,1,1,1,1,1,1,1,1,1,1,1,1,6.44,0,9
+864,Han betragtede hvordan vi pakkede figurerne ind,4,"betragtede, pakkede, figurerne",13.45145633,-5.025934301,1,1,1,1,0,1,1,1,1,1,1,1,6.13,0,8
+865,Det var spændende at vi skulle besøge ministeriet,5,"spændende, besøge, ministeriet",7.672369038,-6.502322701,1,1,1,1,1,0,1,1,0,1,1,1,6.22,1,9
+866,I den her uge skal hun forberede sig til mesterskabet,6,"uge, forberede, mesterskabet",6.925100745,-7.129608108,1,1,1,1,1,1,1,1,1,1,1,1,6.22,0,9
+867,Jeg præsenterede formanden for en af investorerne,7,"præsenterede, formanden, investorerne",9.87652898,-6.100523995,1,1,1,1,1,1,1,1,0,1,1,1,6.22,0,9
+868,Det betød at vi sagtens kunne tilfredsstille vælgerne,8,"betød, tilfredsstille, vælgerne",7.21572889,-7.213180069,1,1,1,1,1,1,1,0,1,1,0,1,6.56,0,9
+869,Det var jeres avis som først kommenterede videoen,9,"avis, kommenterede, videoen",20.01177972,-1.951546911,1,1,1,1,1,1,1,1,1,1,1,1,6,0,10
+870,Han fremhævede ofte sin styrke og sin sundhed,10,"fremhævede, styrke, sundhed",11.79781538,-5.40198572,1,1,1,1,1,1,1,1,0,1,1,1,6.44,0,9
+871,Der var en atlet der løb rundt nede på stadion,1,"atlet, løb, stadion",22.83663995,-4.770569694,1,1,1,1,1,0,1,1,1,1,1,1,6.13,0,8
+872,Hun var opmærksom mens hun parkerede vognen,2,"opmærksom, parkerede, vognen",7.612191263,-4.381585358,1,1,1,1,1,1,1,1,1,1,1,1,5.44,0,9
+873,De hyrede mange i lufthavnen den her sommer,3,"hyrede, lufthavnen, sommer",29.11510687,-3.114220072,1,1,1,1,1,1,1,1,1,1,1,1,5.63,0,8
+874,Redaktøren fastlægger hvem der skal med på listen,4,"redaktøren, fastlægger, listen",12.38992429,-5.912888188,1,1,1,1,1,1,1,1,0,1,1,1,6.1,0,10
+875,Det er herligt at man godt må klappe de her dyr,5,"herligt, klappe, dyr",11.96672365,-2.917212595,1,1,1,1,1,1,1,1,1,1,1,1,6.25,0,8
+876,Sidste måned skabte de opmærksomhed om spillet,6,"måned, opmærksomhed, spillet",13.63538064,-4.692547269,1,1,1,1,1,0,1,1,1,1,1,1,5.56,1,9
+877,Vi har nemlig allerede renset salaten for jord,7,"renset, salaten, jord",22.54614493,-2.056128612,1,1,1,1,1,1,1,0,1,1,1,1,5.88,0,8
+878,Hun har bekræftet at man kan lande i parken,8,"bekræftet, lande, parken",16.80303886,-4.374057037,1,1,1,1,1,1,1,1,1,1,1,1,5.5,0,10
+879,Det er myndighederne som opfordrer os til at prøve,9,"myndighederne, opfordrer, prøve",15.21156078,-4.806562955,1,1,1,1,1,1,1,1,1,1,1,1,6,0,9
+880,Hun havde kun drukket lidt champagne og en sodavand,10,"drukket, champagne, sodavand",11.42403125,-4.412209279,1,0,1,1,1,1,1,1,1,1,1,1,6.78,0,9
+881,Der er en julemand der bærer på en stor sæk,1,"julemand, bærer, sæk",30.69626669,-3.288073609,1,1,1,1,1,1,1,1,1,1,1,1,6,0,8
+882,Hun er forsigtig når hun smager på chili eller peber,2,"forsigtig, smager, peber",8.689246573,-5.206443343,1,1,1,1,1,0,1,1,1,1,0,1,6.78,0,9
+883,Deltagerne skal næsten kun løbe langs med kysten,3,"deltagerne, løbe, kysten",26.49660434,-3.955964973,1,1,1,1,1,1,1,1,0,1,1,1,6,0,9
+884,Han kan selv afgøre hvem der fortjener en medalje,4,"afgøre, fortjener, medalje",10.26549145,-7.365609764,1,1,1,1,1,1,1,1,1,1,1,1,6.38,0,8
+885,Det var perfekt at de belønnede hele gruppen,5,"perfekt, belønnede, gruppen",9.946709557,-5.094687856,1,1,1,1,1,1,1,1,0,1,0,1,6.13,0,8
+886,I eftermiddag skal jeg desværre lave mit regnskab,6,"eftermiddag, lave, regnskab",15.97697849,-6.178213598,1,1,1,1,1,0,1,1,1,1,1,1,5.6,0,10
+887,Nogle pirater har måske engang begravet en skat her,7,"pirater, begravet, skat",35.9027349,-3.909655385,1,1,1,1,1,1,1,1,1,1,0,1,6.5,0,8
+888,De svarede at vi gerne må forberede os på turen,8,"svarede, forberede, turen",6.85146481,-5.318752784,1,1,1,1,1,1,1,1,0,1,1,1,6.5,0,8
+889,Det var landstræneren som slukkede for håbet,9,"landstræneren, slukkede, håbet",10.35599807,-4.469694267,1,1,1,1,1,0,1,1,1,1,1,1,5,0,9
+890,Hun har både mødt min søn og mine mange fans,10,"mødt, søn, fans",13.0463898,-2.354210888,1,1,1,1,1,1,1,1,1,0,1,1,5.11,0,9
+891,Der var mange brugere der godt kunne lide vores produkt,1,"brugere, lide, produkt",9.522183622,-1.613846028,1,1,1,1,1,1,1,1,1,1,1,0,6.4,0,10
+892,De var stadig sultne selvom de lige havde besøgt en cafe,2,"sultne, besøgt, cafe",22.1802064,-5.135153098,1,1,1,0,0,1,1,1,0,1,1,1,6,0,8
+893,Sandheden vil forhåbentlig brede sig ud til hele verden,3,"sandheden, brede, verden",26.95948894,-4.342783966,1,1,1,1,1,1,1,1,1,1,1,1,5.44,0,9
+894,Hun kan påvirke hvordan de dømmer i landsretten,4,"påvirke, dømmer, landsretten",248.1217445,-4.9660997,1,1,0,1,1,0,1,1,1,1,1,1,6.1,1,10
+895,Det er sandsynligt at de vil optage en dokumentarfilm,5,"sandsynligt, optage, dokumentarfilm",8.166851288,-6.164504628,1,1,1,1,1,1,1,1,1,1,1,1,6.25,0,8
+896,I september skal vi igen rive blade sammen,6,"september, rive, blade",11.20741473,-4.691114302,1,1,1,1,1,1,1,1,1,1,1,1,6.3,0,10
+897,Modstanderen straffede mig for mit dårlige træk,7,"modstanderen, straffede, træk",11.47735299,-5.675305598,1,1,1,1,1,1,1,1,1,1,1,1,6.2,0,10
+898,Han har foreslået at vi prioriterer service mere,8,"foreslået, prioriterer, service",12.79591818,-3.407894831,1,1,1,1,1,1,1,1,1,1,1,1,5.6,0,10
+899,Det er et synspunkt som virkelig støder aktionærerne,9,"synspunkt, støder, aktionærerne",29.71218972,-5.86783542,1,1,1,1,1,0,1,1,1,1,0,1,6.33,1,9
+900,Loven omfatter både medarbejderne og forbrugerne,10,"loven, omfatter, forbrugerne",41.64523632,-3.072412398,1,1,1,1,1,1,1,1,0,1,0,1,6.63,0,8
+901,Det er en tysker der skal instruere de næste tre afsnit,1,"tysker, instruere, afsnit",25.6358808,-7.018545741,1,1,1,1,1,1,1,1,1,1,1,1,6.78,0,9
+902,Han er heldig hvis de opfylder alle hans krav,2,"heldig, opfylder, krav",26.49863049,-7.803143413,1,1,1,1,1,1,1,1,1,1,1,1,6.89,0,9
+903,Min veninde sov desværre under hele filmen,3,"veninde, sov, filmen",10.93310792,-3.251074298,1,1,1,1,1,0,1,1,1,1,1,1,7,0,9
+904,Det fremgår normalt hvem der har godkendt ansøgningen,4,"fremgår, godkendt, ansøgningen",15.84961606,-5.20397392,1,1,1,1,1,0,1,1,0,1,1,1,6.1,0,10
+905,Det var helt tilfældigt at hun trykkede på knappen,5,"tilfældigt, trykkede, knappen",13.28174297,-6.686195946,1,1,1,1,1,1,1,1,0,1,1,1,6.63,0,8
+906,På lørdag skal vi allerede organisere en jagt mere,6,"lørdag, organisere, jagt",13.76383412,-3.884674147,1,1,1,1,1,1,1,1,1,1,1,1,5.22,0,9
+907,Jeg har faktisk bygget en villa til hver af mine søstre,7,"bygget, villa, søstre",21.23052117,-3.761298795,1,1,1,1,1,1,1,1,1,1,1,1,6.4,1,10
+908,De insisterede på at vi skulle udbetale vores gæld,8,"insisterede, udbetale, gæld",10.91560046,-6.637308889,1,1,1,1,1,1,1,1,1,1,0,1,4.56,0,9
+909,Det var kanalen som forbandt os med omverdenen,9,"kanalen, forbandt, omverdenen",30.90191298,-4.111714621,1,1,1,1,1,1,1,1,0,1,1,1,6.25,0,8
+910,Jeg skulle bare lige ud at hente lidt is og nogle æg,10,"hente, is, æg",22.57764777,-2.468892467,1,1,1,1,1,1,1,1,1,1,0,1,6.78,0,9
+911,Der var en udenrigsminister der nedsatte syv udvalg,1,"udenrigsminister, nedsatte, udvalg",14.06222677,-2.802483992,1,1,1,1,1,1,1,1,1,1,1,1,5.4,0,10
+912,Hun var lidt trist fordi efterårsferien snart sluttede,2,"trist, efterårsferien, sluttede",10.36704619,-6.713668694,1,1,1,1,1,1,1,1,1,1,1,1,6.8,0,10
+913,Dronningen vil sikkert glæde sig over jeres engagement,3,"dronningen, glæde, engagement",18.06452518,-7.285656424,1,1,1,1,1,1,1,1,1,1,1,1,7,0,9
+914,Vi kan beregne hvordan man kan producere flere flasker,4,"beregne, producere, flasker",30.47773053,-3.075571077,1,1,1,1,1,1,1,1,0,1,0,1,6.89,0,9
+915,Det er fremragende at vi kunne samle så meget guld,5,"fremragende, samle, guld",7.862603325,-3.288083546,1,1,1,1,1,1,1,1,1,1,1,1,5.7,1,10
+916,På torsdag kan vi forhåbentlig bruge vores køkken igen,6,"torsdag, bruge, køkken",27.16756212,-3.938948682,1,1,1,1,1,1,1,1,0,1,1,1,7,0,9
+917,Instruktøren har hjulpet hende med hendes karriere,7,"instruktøren, hjulpet, karriere",20.78803783,-7.501951926,1,1,1,1,1,1,1,1,1,1,1,1,7,0,9
+918,Han påpegede at vi kunne kombinere vores haver,8,"påpegede, kombinere, haver",6.301738739,-1.869220816,1,1,1,1,1,1,1,1,1,1,1,1,4.9,0,10
+919,Det er vores lærer som ligner en berømt skuespiller,9,"lærer, ligner, skuespiller",9.160272242,-5.32039071,1,1,1,1,1,1,1,1,1,1,1,1,6.67,0,9
+920,Nogle digtere har etableret et netværk eller en klub,10,"digtere, netværk, klub",12.68292669,-4.135698478,1,1,1,1,0,1,1,1,1,1,0,0,6.78,0,9
+921,Der er en kø der begynder helt nede ved stationen,1,"kø, begynder, stationen",30.50144102,-6.726688741,1,1,1,1,1,1,1,1,1,1,1,1,6,0,8
+922,De er meget glade fordi de skal til at holde en fest,2,"glade, holde, fest",20.30954521,-5.267300671,1,1,1,1,1,1,1,0,1,1,1,1,4.5,1,8
+923,Min mor har altid passet rigtig godt på sin formue,3,"mor, passet, formue",16.66280136,-5.267930533,1,1,1,1,1,0,1,1,1,1,1,1,6.75,0,8
+924,De ville skjule hvor de opbevarede julegaverne,4,"skjule, opbevarede, julegaverne",13.86095139,-3.648852595,1,1,1,1,1,1,1,1,1,1,1,1,6,0,8
+925,Det var praktisk at man selv kunne rette i teksten,5,"praktisk, rette, teksten",9.751168227,-6.643699355,1,1,1,1,1,0,1,0,1,1,1,1,6.63,0,8
+926,I november åbner vi endelig for publikum igen,6,"november, åbner, publikum",8.826452672,-3.518468344,1,1,1,1,1,0,1,1,1,1,1,0,6.75,0,8
+927,Direktøren har lige bedt mig om regnskaberne,7,"direktøren, bedt, regnskaberne",9.579047619,-5.60016005,1,1,1,1,1,1,1,1,0,1,1,1,6.63,0,8
+928,Hun sørgede for at vi kunne forhandle med ejerne,8,"sørgede, forhandle, ejerne",5.792330107,-4.209058569,1,1,1,1,1,1,1,1,1,1,1,1,6,0,8
+929,Det var en politimand som fodrede hundene,9,"politimand, fodrede, hundene",6.174688741,-0.734889019,1,1,1,1,1,0,1,1,1,1,1,1,6.25,0,8
+930,Både fodbold og politik fascinerer min bedstefar,10,"fodbold, politik, bedstefar",15.20822152,-4.403819413,1,1,1,1,1,1,1,1,0,1,1,1,6.63,0,8
+931,Der var en skolelærer der brokkede sig over ordbogen,1,"skolelærer, brokkede, ordbogen",8.984955019,-6.327604165,1,1,1,1,1,1,1,1,1,1,1,1,5.88,0,8
+932,Han var ret kontant når han pressede skuespillerne,2,"kontant, pressede, skuespillerne",25.14539654,-5.180327019,0,1,1,1,1,1,1,1,1,1,1,1,5.63,0,8
+933,De fleste mennesker befandt sig heldigvis ved udgangen,3,"mennesker, befandt, udgangen",13.72521091,-5.624928031,1,1,1,1,1,0,1,1,0,1,1,1,6.5,1,8
+934,Vi har opdaget hvordan vi kan bremse lovforslaget,4,"opdaget, bremse, lovforslaget",7.870490569,-4.80147171,1,1,0,1,1,1,1,1,1,1,0,1,6.38,0,8
+935,Det er nok bedst at I henvender jer igen i august,5,"bedst, henvender, august",12.30606386,-6.012988471,1,1,1,1,1,1,1,1,1,1,0,0,6.5,0,8
+936,Inden sommerferien skal jeg have trykt et program,6,"sommerferien, trykt, program",11.10593601,-3.20705452,1,1,1,1,1,1,1,1,1,1,1,1,6.38,0,8
+937,Jeg burde faktisk servere mere fisk for personalet,7,"servere, fisk, personalet",28.41315069,-9.069950258,1,1,1,1,1,1,1,1,1,1,1,1,7,0,8
+938,Vi bør sikre os at de kan erstatte alle vognene,8,"sikre, erstatte, vognene",3.059697146,-5.300646759,1,0,1,1,1,1,1,1,0,1,1,1,6,0,8
+939,Det er en komponist som virkelig kender sin værdi,9,"komponist, kender, værdi",15.80905109,-0.631890645,1,1,1,1,1,1,1,1,0,1,1,1,5.63,0,8
+940,Jeg tilbragte desværre det meste af januar i et studie,10,"tilbragte, januar, studie",11.03117381,-7.964942489,1,1,1,1,1,1,1,1,1,1,1,0,6.88,0,8
+941,Der er mange aktionærer der fordobler deres gevinster,1,"aktionærer, fordobler, gevinster",6.54338998,-3.554431398,1,1,1,1,1,1,1,1,0,1,1,1,6.25,0,8
+942,De er nok trætte når de ankommer til konferencen,2,"trætte, ankommer, konferencen",18.92466538,-5.926823717,0,1,1,1,1,1,1,1,1,1,1,1,6.4,0,10
+943,Nogle af tyskerne er faktisk allerede hoppet i søen,3,"tyskerne, hoppet, søen",22.22965421,-5.151177318,1,1,1,1,1,0,1,1,1,1,1,1,5.7,0,10
+944,Vi ved godt hvem der kunne vejlede mandskabet,4,"ved, vejlede, mandskabet",8.824457631,-4.499333756,1,1,1,1,1,1,1,1,0,1,0,1,6.13,0,8
+945,Det var fint at I straks kontaktede en advokat,5,"fint, kontaktede, advokat",7.468480935,-6.287106015,1,1,1,1,0,1,1,1,1,1,0,1,6.2,1,10
+946,På lørdag kan vi lige svinge forbi med et program,6,"lørdag, svinge, program",5.572641958,-2.932959209,1,1,1,1,1,0,1,1,1,1,0,1,5.7,1,10
+947,I skulle egentlig bare bringe kødet ud til vores skole,7,"bringe, kødet, skole",12.64769361,-3.894944229,1,1,1,1,1,1,1,1,0,1,1,1,5.8,1,10
+948,De har godkendt at jeg skal administrere selskabet,8,"godkendt, administrere, selskabet",21.38802113,-5.062373562,1,1,1,1,1,1,1,1,0,1,1,1,6,0,10
+949,Det var hans advarsler som reddede vores skib,9,"advarsler, reddede, skib",12.14326483,-4.1652908,0,1,1,1,1,1,1,1,0,1,1,1,6.5,0,10
+950,Vi kan selv råde over både lastbilen og maskinerne,10,"råde, lastbilen, maskinerne",8.991843399,-2.084892631,1,1,1,1,1,1,1,1,1,1,1,1,5.7,0,10
+951,Der var en rytter der satsede alt på første etape,1,"rytter, satsede, etape",13.4244869,-4.716927289,1,1,1,1,1,1,1,1,1,1,1,1,5.4,1,10
+952,Jeg var rolig fordi vi var vendt tilbage til centeret,2,"rolig, vendt, centeret",14.00186987,-5.130388048,1,1,1,1,1,1,1,0,1,1,1,1,5.5,1,10
+953,Vi mødte engang nogle rigtige munke i operaen,3,"mødte, munke, operaen",11.90867162,-3.423190812,1,1,1,1,1,1,1,1,1,1,1,1,5.8,1,10
+954,Vi skal vedtage hvad vi skal servere for forskerne,4,"vedtage, servere, forskerne",14.98908041,-6.285119632,1,1,1,1,1,1,1,1,1,1,1,1,5.8,0,10
+955,Det er imponerende at I engagerer jer så meget i politik,5,"imponerende, engagerer, politik",12.78638376,-5.66425358,1,1,1,1,1,1,1,1,0,1,1,1,6.7,0,10
+956,Til december skal de helst have optaget alle afsnittene,6,"december, optaget, afsnittene",9.37084478,-8.09462776,1,0,1,1,1,0,1,1,1,1,1,1,6.5,0,10
+957,Han ville egentlig bare bestille en bolle til turen,7,"bestille, bolle, turen",15.7701576,-3.459767174,1,1,1,1,1,1,1,1,1,1,0,1,6.38,0,8
+958,Det afspejler muligvis at oksekød er under pres,8,"afspejler, oksekød, pres",5.775527166,-4.258660824,1,1,1,1,1,1,1,1,1,1,0,1,2.88,0,8
+959,Det er min fætter som lige har bestået studentereksamen,9,"fætter, bestået, studentereksamen",20.4758452,-7.604206525,1,1,1,1,1,1,1,1,1,1,1,0,6.4,0,10
+960,De skulle alligevel hælde olien over i en skål,10,"hælde, olien, skål",14.70753798,-2.73397435,1,1,1,1,1,1,1,1,1,1,1,1,5.63,0,8
+961,Der er en restaurant der gerne vil ansætte min datter,1,"restaurant, ansætte, datter",13.57248368,-6.407809155,1,1,1,1,1,1,1,1,1,1,1,1,6.44,0,9
+962,Hun er ret effektiv når hun rydder op i sit hjem,2,"effektiv, rydder, hjem",10.70735649,-5.197853791,1,1,1,1,1,1,1,1,1,1,1,1,6.44,0,9
+963,Næsten alle vores medlemmer deltog i overenskomsten,3,"medlemmer, deltog, overenskomsten",45.10282759,-5.374454688,1,1,1,1,1,1,1,1,1,1,1,1,4.89,0,9
+964,Jeg kan huske hvorfor vi strammede op på systemet,4,"huske, strammede, systemet",15.42290415,-7.418911984,1,1,1,1,1,1,1,1,1,1,1,1,5.11,0,9
+965,Det var væsentligt at de anerkendte min beslutning,5,"væsentligt, anerkendte, beslutning",8.141214933,-3.357855447,1,1,1,1,1,1,1,1,0,1,0,1,6.11,0,9
+966,På søndag vil hun formentlig bestille nogle flere sko,6,"søndag, bestille, sko",13.6731345,-4.677018455,1,1,1,1,1,1,1,1,1,1,1,1,6,0,9
+967,Vi har lige fjernet nogle punkter fra dagsordenen,7,"fjernet, punkter, dagsordenen",10.75182173,-4.657212109,1,1,1,1,1,1,1,1,1,1,1,1,6.78,0,9
+968,De har indset at de skal producere flere vacciner,8,"indset, producere, vacciner",25.97443308,-5.995188533,1,1,1,1,1,1,1,0,0,1,1,1,6.56,0,9
+969,Det var desværre en ulykke som kostede os sejren,9,"ulykke, kostede, sejren",22.15627582,-2.986941684,1,1,1,1,1,1,1,1,1,1,1,1,5.67,0,9
+970,Jeg vil da gerne køre ned til grillen efter burgere,10,"køre, grillen, burgere",24.72960393,-4.23511632,1,1,1,1,1,1,1,1,1,1,1,1,6.44,0,9
+971,Der var en dame der ventede på os foran instituttet,1,"dame, ventede, instituttet",10.2794265,-7.285529058,1,1,1,1,1,1,1,1,1,1,1,1,6.78,0,9
+972,Vi var kede af det fordi vi måtte aflyse vores besøg,2,"kede, aflyse, besøg",15.41865525,-5.125599941,1,1,1,1,1,1,1,1,0,1,1,1,6.22,0,9
+973,De her investeringer kan virkelig fremme velfærden,3,"investeringer, fremme, velfærden",29.18650651,-2.826395654,1,1,1,1,1,1,1,1,1,1,1,1,6,0,9
+974,Han kritiserer altid hvordan jeg skyder til bolden,4,"kritiserer, skyder, bolden",11.61516315,-5.99380361,1,1,1,1,1,0,1,1,1,1,1,1,5.89,0,9
+975,Det er flot at de slipper en fugl løs på scenen,5,"flot, slipper, scenen",15.14173262,-5.259218758,1,1,1,1,1,0,1,1,1,1,1,1,5.63,0,8
+976,I torsdags tændte du et håb hos vores patienter,6,"torsdags, håb, patienter",5.185372689,-2.70038481,1,1,1,1,1,1,1,1,1,1,1,1,5.67,0,9
+977,Hun burde sige et eller andet konkret om ændringerne,7,"sige, konkret, ændringerne",10.34691387,-3.772859941,1,1,1,0,1,1,1,1,1,1,1,1,6.44,0,9
+978,Han fremhævede at temperaturen afhænger af klimaet,8,"fremhævede, temperaturen, klimaet",12.55887614,-5.855344708,1,1,1,1,1,0,1,1,0,1,0,1,5.56,0,9
+979,Det er internettet som knytter verden sammen,9,"internettet, knytter, verden",12.99325767,-3.18447499,1,1,1,1,1,1,1,1,0,1,1,1,6.44,0,9
+980,De vil kombinere deres interesser med deres uddannelse,10,"kombinere, interesser, uddannelse",18.22952528,-7.433242594,1,0,1,1,1,1,1,1,1,1,1,1,6.44,0,9
+981,Der er mange unge der gennemfører deres studie,1,"unge, gennemfører, studie",26.80654136,-5.858414757,1,1,1,1,1,1,1,0,1,1,1,1,7,0,8
+982,Han er ansvarlig indtil vi overtager supermarkedet,2,"ansvarlig, overtager, supermarkedet",17.01261936,-7.247543284,1,1,1,1,1,1,1,1,1,1,1,1,6.13,0,8
+983,Menneskerettighederne burde nok indgå i debatten,3,"menneskerettighederne, indgå, debatten",8.939170331,-2.976777671,1,1,1,1,1,1,1,1,1,1,1,1,6.67,0,9
+984,Hun skal vise os hvordan man kan træne sin ryg,4,"vise, træne, ryg",9.470786992,-7.200776206,1,1,1,1,1,1,1,1,1,1,1,1,6.89,0,9
+985,Det var uventet at de interesserede sig for blomster,5,"uventet, interesserede, blomster",13.73322425,-6.623483567,1,1,1,1,1,0,1,1,1,1,1,1,6.11,0,9
+986,I juni slog de rent faktisk alle de andre i ligaen,6,"juni, slog, ligaen",20.71912375,-4.193865046,1,1,1,1,1,1,1,1,1,1,1,1,6.3,0,10
+987,Han havde skrevet en anmeldelse af restauranten,7,"skrevet, anmeldelse, restauranten",13.88534498,-7.303993363,1,1,1,1,1,1,1,1,0,1,1,1,6.88,0,8
+988,Hun kræver kun at vi beskytter hendes barnebarn,8,"kræver, beskytter, barnebarn",10.26992373,-3.190749765,1,1,1,1,1,0,1,1,1,1,1,1,5.6,2,10
+989,Det var en digter som engang stiftede den her klub,9,"digter, stiftede, klub",9.471903489,-4.076254546,1,1,1,1,1,1,1,1,1,1,1,1,6.22,0,9
+990,Hun havde tidligere importeret både tøj og sko,10,"importeret, tøj, sko",37.87615733,-3.525272819,1,1,1,1,1,1,1,1,1,1,0,1,6.63,0,8
+991,Der var desværre noget vand der ramte vores kamera,1,"vand, ramte, kamera",17.13270189,-3.483926905,1,1,1,1,1,1,1,0,1,1,1,1,6,0,10
+992,De var professionelle når de testede vores beregninger,2,"professionelle, testede, beregninger",8.818474013,-5.723792812,1,1,1,1,1,1,1,1,1,1,1,1,4.63,0,8
+993,Jeg har involveret flere grupper i min undersøgelse,3,"involveret, grupper, undersøgelse",14.65266424,-5.785949364,1,1,1,1,1,1,1,1,1,1,1,1,6.56,0,9
+994,De skjuler hvor meget de egentlig tjener på cigaretter,4,"skjuler, tjener, cigaretter",12.621353,-6.99048019,1,1,1,1,1,1,1,0,1,1,0,1,6.67,0,9
+995,Det er ærgerligt at ingen har bemærket jeres program,5,"ærgerligt, bemærket, program",10.81753347,-5.394004597,1,1,1,1,1,1,1,1,0,1,0,1,6.7,0,10
+996,I år har han desværre brændt alle sine chancer,6,"år, brændt, chancer",13.62268336,-4.860042411,1,1,1,1,1,1,1,1,1,1,0,1,6.11,1,9
+997,Jeg har netop afleveret alle pakkerne til folketinget,7,"afleveret, pakkerne, folketinget",27.48393503,-6.48393637,1,1,1,1,1,1,1,1,0,1,1,0,6.33,0,9
+998,Vi håber at I alle gerne vil kopiere vores model,8,"håber, kopiere, model",10.66516446,-4.400485713,1,1,1,1,1,1,1,1,1,1,1,1,6.25,0,8
+999,Det er hans tilhængere som har opfundet de rygter,9,"tilhængere, opfundet, rygter",22.43889175,-3.589641128,1,1,1,1,1,1,1,1,1,1,0,0,5.38,2,8
+1000,Vi dekorerede alle mine ting bortset fra min stol,10,"dekorerede, ting, stol",30.25182161,-5.063790084,1,1,1,1,0,1,1,0,0,1,1,1,5.5,0,8
+1001,Der er få bands der kan tiltrække så mange tilskuere,1,"bands, tiltrække, tilskuere",14.4020597,-4.169681114,1,1,1,1,1,1,1,1,1,1,1,1,6.44,0,9
+1002,De er meget trætte fordi de har undervist i fire timer,2,"trætte, undervist, timer",9.156583062,-6.514724647,1,1,1,1,1,1,1,1,1,1,0,1,6,0,9
+1003,En af sangerinderne har giftet sig med en betjent,3,"sangerinderne, giftet, betjent",14.55305184,-4.907340202,1,1,1,1,1,1,1,1,1,1,1,1,6.5,0,8
+1004,Han bemærkede hvem der havde læst rapporten,4,"bemærkede, læst, rapporten",32.89842932,-2.395084228,1,1,1,1,1,1,1,1,1,1,1,1,6.33,0,9
+1005,Det var velkendt at de sørgede for deres medarbejdere,5,"velkendt, sørgede, medarbejdere",9.740062049,-6.303898611,1,1,1,1,1,1,1,1,1,1,1,1,4.89,0,9
+1006,På tirsdag skal vi nok alligevel kontakte ministeriet,6,"tirsdag, kontakte, ministeriet",9.292665528,-6.175780325,1,1,1,1,1,1,1,1,1,1,1,1,6.33,0,9
+1007,Finansministeren har lige inviteret os til et topmøde,7,"finansministeren, inviteret, topmøde",18.82714875,-6.203956817,1,1,1,1,1,1,1,1,1,1,1,1,5.67,0,9
+1008,Hun insisterer på at jeg skal instruere musicalen,8,"insisterer, instruere, musicalen",12.87193674,-5.56968164,1,1,1,1,1,1,1,1,1,1,0,1,6.63,0,8
+1009,Det var en af arrangørerne som havde forlænget turen,9,"arrangørerne, forlænget, turen",24.2637497,-4.717275366,1,1,1,1,1,1,1,1,1,1,1,1,5.89,0,9
+1010,Han interesserede sig for valget og for valgkampen,10,"interesserede, valget, valgkampen",23.75850152,-6.433389853,1,1,1,1,1,1,1,1,1,1,0,1,6.67,0,9
+1011,Der var stadig folk der ville fastholde traditionerne,1,"folk, fastholde, traditionerne",9.482446188,-5.54289424,1,1,1,1,1,1,1,0,0,1,0,1,6.11,0,9
+1012,Hun var kreativ når hun skulle levere underholdningen,2,"kreativ, levere, underholdningen",7.16126515,-3.580818896,1,1,1,1,1,1,1,1,1,1,0,1,5.56,0,9
+1013,Forestillingen varede desværre i næsten syv timer,3,"forestillingen, varede, timer",35.21504009,-5.783890931,1,1,1,1,1,1,1,1,1,1,0,1,5.11,0,9
+1014,Han afslørede hvorfor han havde forlangt to millioner,4,"afslørede, forlangt, millioner",10.50481705,-1.385488965,1,0,1,1,1,1,1,1,0,1,1,1,6,0,9
+1015,Det er hyggeligt at du har medbragt nogle gæster,5,"hyggeligt, medbragt, gæster",16.27268114,-5.449265315,1,1,1,1,1,1,1,1,1,1,0,1,6.63,0,8
+1016,Efter middagen kan vi køre ned til havnen sammen,6,"middagen, køre, havnen",12.09124843,-7.131821019,1,1,0,1,1,1,1,1,1,1,0,1,6.56,0,9
+1017,Hun fylder efterhånden al sin tid ud med arbejde,7,"fylder, tid, arbejde",11.30644206,-6.397623919,1,0,1,1,0,1,1,1,1,1,0,1,6.22,0,9
+1018,De konkluderede at de kunne nøjes med to flasker,8,"konkluderede, nøjes, flasker",146.9972962,-7.443021409,1,1,1,1,1,0,1,1,1,1,0,1,6,1,9
+1019,Det er faktisk vores leder der selv løste gåden,9,"leder, løste, gåden",13.26321666,-2.738794544,1,1,1,1,1,1,1,1,1,1,1,1,5.22,1,9
+1020,Vi har allerede reduceret mængden af farlige stoffer,10,"reduceret, farlige, stoffer",23.57281504,-6.246962194,1,1,1,1,1,1,1,1,1,1,1,1,6.44,0,9
+1021,Der er en afdelingsleder der vil skrue op for eksporten,1,"afdelingsleder, skrue, eksporten",13.00795075,-3.808597067,1,1,1,1,1,1,1,0,1,1,0,0,6.13,0,8
+1022,Han er naiv hvis han selv vil finansiere vores festival,2,"naiv, finansiere, festival",22.77006557,-5.492466071,1,1,1,1,1,1,1,1,1,1,0,1,5.5,0,8
+1023,Mange af kunstnerne bor sammen i en lejlighed,3,"kunstnerne, bor, lejlighed",23.99299339,-5.341309705,1,1,1,1,1,1,1,1,1,1,1,1,6.25,0,8
+1024,Jeg har hørt hvorfor de afsluttede deres samarbejde,4,"hørt, afsluttede, samarbejde",13.07569514,-6.218765804,1,1,1,1,1,1,1,1,1,1,1,1,5.78,0,9
+1025,Det var meget specielt at de selv dyrkede deres kaffe,5,"specielt, dyrkede, kaffe",12.64769351,-6.105056056,1,1,1,1,1,1,1,1,0,1,1,1,6.88,0,8
+1026,Efter revyen interviewede han en af sangskriverne,6,"revyen, interviewede, sangskriverne",20.145269,-3.570096722,1,1,1,1,1,1,1,1,1,1,1,1,6.5,0,8
+1027,Eksperten ville heldigvis gerne låne os sin rapport,7,"eksperten, låne, rapport",10.10839955,-2.990756644,1,1,1,1,1,1,0,1,1,1,1,1,6.5,0,8
+1028,De anerkendte at hun havde ramt inden for stregen,8,"anerkendte, ramt, stregen",10.5328029,-3.591068899,1,1,1,1,1,1,1,1,1,1,1,1,6,0,8
+1029,Det var en cyklist som havde overnattet på kroen,9,"cyklist, overnattet, kroen",12.4488765,-4.455362957,1,1,1,1,0,1,1,0,1,1,0,1,6.5,0,8
+1030,Hun elskede virkelig sit publikum og sine mange fans,10,"elskede, publikum, fans",18.89786559,-5.02808861,1,1,1,1,1,1,1,1,1,1,0,1,6.5,0,8
+1031,Der var en leverandør der havde fået en smart ide,1,"leverandør, fået, ide",22.91212173,-3.297321616,1,1,1,1,1,1,1,1,1,1,0,0,6,0,9
+1032,Hun var ivrig fordi vi gerne ville støtte hendes politik,2,"ivrig, støtte, politik",16.06861078,-4.124595055,1,1,1,1,1,1,1,1,1,1,1,1,6.13,0,8
+1033,Mine tilhængere havde heldigvis sat sig lige foran scenen,3,"tilhængere, sat, scenen",12.79073037,-3.439213578,1,1,1,0,1,1,1,1,1,1,1,1,6.25,0,8
+1034,Vi skal tælle hvor mange tanke vi allerede har renset,4,"tælle, tanke, renset",10.85198137,-4.336015139,1,1,1,1,1,1,1,0,1,1,0,0,5,0,8
+1035,Det er afgørende at man studerer sine modstandere,5,"afgørende, studerer, modstandere",12.77761878,-6.200979589,1,1,1,1,1,1,1,1,1,1,1,1,6.25,0,8
+1036,I starten dækkede vi faktisk over vores underskud,6,"starten, dækkede, underskud",9.951087627,-5.790168715,1,1,1,1,1,1,1,1,1,0,1,1,5.75,1,8
+1037,Det indebærer nogle konkrete muligheder for borgerne,7,"indebærer, muligheder, borgerne",242.3041392,-2.571512447,1,1,1,1,1,1,1,1,1,1,1,1,6.25,0,8
+1038,Han signalerede at han havde koblet mikrofonen til,8,"signalerede, koblet, mikrofonen",12.21877282,-4.72752461,1,1,1,1,1,1,1,1,0,1,1,1,6.5,0,8
+1039,Det er dine pointer som overbeviste indbyggerne,9,"pointer, overbeviste, indbyggerne",12.51193009,-3.808750759,1,1,1,1,1,1,1,1,1,1,1,1,4.25,0,8
+1040,De analyserer vistnok billeder på den her højskole,10,"analyserer, billeder, højskole",21.52813747,-3.995924101,1,0,1,0,1,0,1,1,1,1,1,1,5.63,1,8
+1041,Der er nogle kvinder der har arrangeret et foredrag,1,"kvinder, arrangeret, foredrag",22.25395329,-7.998397154,1,1,1,1,1,1,1,1,1,1,1,0,5.67,0,9
+1042,I er velkomne hvis I vil byde på noget underholdning,2,"velkomne, byde, underholdning",12.53922747,-0.646766706,1,1,1,1,1,1,1,1,1,1,1,1,4.78,1,9
+1043,Statsministeren vil naturligvis orientere os om krisen,3,"statsministeren, orientere, krisen",6.75231964,-5.384465895,1,1,1,1,1,1,1,1,0,1,1,1,6.56,1,9
+1044,Hun må afgøre hvem der skal betale for arrangementet,4,"afgøre, betale, arrangementet",19.30412135,-7.145376606,1,1,1,1,1,0,1,0,0,1,1,1,6.33,0,9
+1045,Det var virkelig fantastisk at de lyttede til vores forslag,5,"fantastisk, lyttede, forslag",16.75096942,-7.118292883,1,1,1,1,0,1,1,0,1,1,1,1,5.56,1,9
+1046,På et tidspunkt skal vi nok koordinere vores indsats,6,"tidspunkt, koordinere, indsats",17.57758825,-7.106312574,1,1,1,1,1,1,1,1,1,1,0,1,6.22,0,9
+1047,Nogen har igen kastet frugt efter vores målmand,7,"kastet, frugt, målmand",13.91514634,-4.957987883,1,1,1,1,1,1,1,1,0,1,1,1,6.22,0,9
+1048,Han udnytter at alle gerne vil medvirke i hans serie,8,"udnytter, medvirke, serie",24.32187323,-3.920140359,1,1,1,1,1,1,1,1,1,1,1,1,5.78,1,9
+1049,Det var min kollega som havde organiseret vores lejr,9,"kollega, organiseret, lejr",10.92880804,-3.813107028,1,1,1,1,1,1,1,1,0,1,1,1,5.56,0,9
+1050,Vi skal åbenbart enten rejse med fly eller med busser,10,"rejse, fly, busser",32.34261858,-5.707974608,1,0,1,1,1,1,1,1,1,1,0,1,5,1,9
+1051,Der var nogle af emnerne der gjorde mig lidt utryg,1,"emnerne, gjorde, utryg",18.65656842,-3.917452771,1,1,1,1,0,1,1,1,1,1,0,1,5.67,1,9
+1052,Jeg var forsigtig når jeg udtalte mig om retssager,2,"forsigtig, udtalte, retssager",7.782106662,-4.4244222,1,1,1,1,1,1,1,0,1,1,1,1,5.78,0,9
+1053,Justitsministeren hyggede sig tilsyneladende på en café,3,"justitsministeren, hyggede, café",7.322949333,-3.375420638,1,1,1,1,1,1,1,1,1,1,1,1,5.78,0,9
+1054,Vi ville helst skildre alt hvad der skete i festugen,4,"skildre, skete, festugen",9.19436789,-2.199447431,1,1,1,1,0,1,1,0,1,1,1,1,6.13,0,8
+1055,Det er ærgerligt at de allerede har tændt for musikken,5,"ærgerligt, tændt, musikken",14.77158868,-5.193376456,1,1,1,1,0,1,1,1,0,1,0,1,6.44,0,9
+1056,I øjeblikket spreder de faktisk salt på alle vejene,6,"øjeblikket, salt, vejene",12.75286019,-4.159604013,1,1,1,0,1,1,1,1,1,1,1,1,6.22,1,9
+1057,Min onkel præsenterede mig for en af modellerne,7,"onkel, præsenterede, modellerne",12.47722269,-4.926471876,1,1,1,1,1,0,1,1,1,1,1,1,6.33,0,9
+1058,Han undskyldte at han havde trukket sig fra forbundet,8,"undskyldte, trukket, forbundet",13.5288417,-2.789331969,1,1,1,1,1,1,1,1,1,1,1,1,6,0,9
+1059,Det er en samling som består af mange forskellige ting,9,"samling, består, ting",17.33227516,-6.872102834,1,1,1,1,1,1,1,1,1,1,1,1,5.89,0,9
+1060,Hendes ambition voksede i takt med hendes succes,10,"ambition, voksede, succes",7.363453678,-3.670712488,1,1,1,1,1,1,1,1,0,1,0,1,5.89,1,9
+1061,Der er en skjorte der stadigvæk mangler et ærme,1,"skjorte, mangler, ærme",31.21407579,-6.234896164,1,1,1,1,1,1,1,1,1,1,1,0,5.75,0,8
+1062,Vi er naturligvis utilfredse fordi I har afbrudt festivalen,2,"utilfredse, afbrudt, festivalen",11.72128776,-4.215218977,1,1,1,1,0,1,1,1,1,1,0,1,5.6,1,10
+1063,Statsministeren dukkede op sammen med en konsulent,3,"statsministeren, dukkede, konsulent",8.13315164,-6.35761123,1,1,1,1,1,0,1,0,1,1,1,1,6.6,1,10
+1064,Vi har længe talt om hvordan vi kan forny demokratiet,4,"talt, forny, demokratiet",13.02256142,-4.461475628,1,1,1,1,1,1,1,1,0,1,0,1,6,0,11
+1065,Det var åbenlyst at de ville stemme imod vores plan,5,"åbenlyst, stemme, plan",11.34555183,-4.963072876,1,1,1,1,1,1,1,1,1,1,1,1,6.2,0,10
+1066,På mandag kan vi heldigvis danse i hallen igen,6,"mandag, danse, hallen",15.52746259,-4.122796285,1,1,1,1,1,1,1,1,1,1,0,0,6.3,0,10
+1067,Vi skal indføre noget mere struktur her på biblioteket,7,"indføre, struktur, biblioteket",7.539874508,-5.558499057,1,1,1,1,1,1,1,1,1,1,1,1,5.8,0,10
+1068,Ingen ønsker at han fortsætter som udenrigsminister,8,"ønsker, fortsætter, udenrigsminister",10.68959142,-2.838436045,1,1,1,1,1,1,1,1,1,1,1,1,6.55,1,11
+1069,Det var en talsmand som udsendte den her besked,9,"talsmand, udsendte, besked",29.26963999,-6.900144477,1,1,1,1,1,1,1,1,1,1,1,1,5.5,0,10
+1070,Deres træner virkede ambitiøs og meget intens,10,"træner, ambitiøs, intens",15.00747062,-9.57400277,1,1,1,1,1,1,1,1,1,1,0,0,6.4,0,10
+1071,Der var en af turisterne der havde efterladt sit pas,1,"turisterne, efterladt, pas",14.03589453,-6.645238403,1,1,1,1,1,0,1,0,1,1,1,1,6.4,0,10
+1072,Hun var tilfreds når bare omsætningen voksede,2,"tilfreds, omsætningen, voksede",11.10543952,-6.458170464,1,1,1,1,1,1,1,1,1,1,1,1,6,0,10
+1073,Aktionærerne kan sagtens klare sig igennem krisen,3,"aktionærerne, klare, krisen",5.932832089,-7.643732755,1,1,1,1,1,1,1,0,1,1,1,1,6.7,0,10
+1074,Jeg forhørte mig om hvor direktøren skulle sidde,4,"forhørte, direktøren, sidde",27.14908066,-6.581594467,1,1,1,1,1,1,1,1,1,1,0,1,5.7,0,10
+1075,Det er meget væsentligt at du kan lide din klasse,5,"væsentligt, lide, klasse",4.332341678,-0.85011921,1,1,0,1,0,1,1,1,1,1,0,1,5,0,11
+1076,Inden onsdag skulle vi gerne have færdiggjort muren,6,"onsdag, færdiggjort, muren",17.9219806,-4.208036052,1,1,1,1,1,1,1,1,1,1,1,1,6.2,0,10
+1077,De ville forbinde centrum med resten af hovedstaden,7,"forbinde, centrum, hovedstaden",15.10174642,-5.170648888,1,1,1,1,1,1,1,1,0,1,1,1,5.1,0,10
+1078,Hun antog at leverandøren ville kontakte hende igen,8,"antog, leverandøren, kontakte",14.47811761,-5.91513984,0,1,1,1,1,1,1,1,1,1,1,1,6.2,0,10
+1079,Det er en pianist som selv har renoveret klaveret,9,"pianist, renoveret, klaveret",17.20706725,-3.885982062,1,1,1,1,1,0,1,1,0,1,1,1,6.5,0,8
+1080,Han skal helst indtage lidt flere grøntsager og fede fisk,10,"indtage, grøntsager, fisk",16.88164458,-7.540634819,1,1,1,1,0,1,1,0,1,1,0,0,5.6,0,10
+1081,Der er en ordfører der gerne vil styre dagsordenen,1,"ordfører, styre, dagsordenen",17.65858874,-5.626235597,1,1,1,1,1,1,1,1,1,1,1,1,4.73,1,11
+1082,Han er ret sur selvom vi netop roste hans indsats,2,"sur, roste, indsats",14.58785578,-3.914164467,1,1,1,1,1,1,1,1,1,1,0,1,4.55,0,11
+1083,Min kæreste hvilede sig lidt efter konkurrencen,3,"kæreste, hvilede, konkurrencen",10.41626363,-4.408825736,1,1,1,1,1,1,1,1,0,1,1,0,6.75,0,8
+1084,Det fremgår faktisk ikke hvem der synger på pladen,4,"fremgår, synger, pladen",9.022152015,-5.115435053,1,1,1,1,1,1,1,1,1,1,1,1,5.82,0,11
+1085,Det var nødvendigt at de standsede konflikten,5,"nødvendigt, standsede, konflikten",10.81330128,-5.102958397,1,1,1,1,1,1,1,1,0,1,1,1,6.09,0,11
+1086,I den her uge skal vi desværre aflyse nogle foredrag,6,"uge, aflyse, foredrag",21.15186145,-5.597288992,1,1,1,1,1,1,1,1,0,1,0,1,5.36,0,11
+1087,Præsidenten har allerede lovet os et interview,7,"præsidenten, lovet, interview",9.06513021,-5.223654412,1,1,1,1,1,1,1,1,1,1,0,1,6.09,0,11
+1088,Jeg planlægger at sejle jorden rundt til foråret,8,"planlægger, sejle, foråret",11.94452187,-7.47120535,1,1,1,1,1,1,1,1,1,1,1,1,6.09,0,11
+1089,Det var selvfølgelig vores hold som kom bedst fra start,9,"hold, kom, start",11.26056311,-2.854976887,1,1,1,1,1,0,1,1,1,1,1,1,5.91,0,11
+1090,Hun vil allerhelst flytte til en ø eller ud på en gård,10,"flytte, ø, gård",18.99829122,-4.42771324,1,1,1,1,1,1,1,1,1,1,0,1,6.09,0,11
+1091,Der var en af angriberne der jublede efter kampen,1,"angriberne, jublede, kampen",14.83082663,-5.175144517,1,1,1,1,1,0,1,1,1,1,0,1,6.5,0,8
+1092,Hun var venlig fordi vi altid opførte os ordentligt,2,"venlig, opførte, ordentligt",24.84342964,-6.721374556,1,1,1,1,1,1,1,1,1,1,1,1,6.63,0,8
+1093,Udenrigsministeren overlod det hele til forvaltningen,3,"udenrigsministeren, overlod, forvaltningen",16.11528938,-4.226813169,1,1,1,1,1,1,1,1,1,1,1,1,6,0,11
+1094,Han uddybede hvordan man helt kan undgå gæld,4,"uddybede, undgå, gæld",14.14548925,-4.663515873,1,1,1,1,1,1,1,0,1,1,0,1,5,0,11
+1095,Det er almindeligt at man konkurrerer om ressourcerne,5,"almindeligt, konkurrerer, ressourcerne",13.49626889,-4.047089277,1,1,1,1,1,0,1,1,1,1,0,1,5.09,0,11
+1096,Inden december skal vi lægge os fast på en kurs,6,"december, lægge, kurs",17.67206072,-5.123817581,1,1,1,1,1,1,1,1,1,1,0,1,5.91,0,11
+1097,Vi kan muligvis indlede receptionen med en sang,7,"indlede, receptionen, sang",14.57962431,-3.901234018,1,1,0,1,1,0,1,1,1,1,0,1,5.64,0,11
+1098,Han råbte at vi skulle samle os foran gymnasiet,8,"råbte, samle, gymnasiet",20.03560137,-6.519731982,1,1,1,1,1,0,1,1,1,1,1,1,5.27,0,11
+1099,Det er en billedkunstner som udstiller sine værker,9,"billedkunstner, udstiller, værker",246.2877724,-5.034150863,1,1,1,1,1,1,1,1,1,1,1,1,6.63,0,8
+1100,Hun provokerede både oppositionen og sine tilhængere,10,"provokerede, oppositionen, tilhængere",15.15440439,-4.493558589,1,1,1,1,1,0,1,1,1,1,0,1,5.09,0,11
+1101,Der er mange kunder der kommunikerer over nettet,1,"kunder, kommunikerer, nettet",29.74744219,-4.958293357,0,1,1,1,0,1,1,1,1,1,1,1,6.63,0,8
+1102,Jeg er nok lidt barnlig når jeg leger med mine døtre,2,"barnlig, leger, døtre",24.54865557,-4.686489953,1,1,1,1,1,1,1,1,1,1,1,1,6.25,0,8
+1103,Pædagogerne har allerede slukket for tv'et igen,3,"pædagogerne, slukket, tv'et",11.85187946,-5.002776525,1,1,1,1,1,1,1,1,0,1,1,1,6.63,0,8
+1104,Han instruerer os i hvordan vi skal sparke til en fodbold,4,"instruerer, sparke, fodbold",12.90978945,-4.647920886,1,1,1,1,1,1,1,1,0,1,1,1,5.88,0,8
+1105,Det var bæredygtigt at de selv dyrkede alt kornet,5,"bæredygtigt, dyrkede, kornet",9.862156328,-3.865313234,1,1,1,1,1,1,1,1,1,1,1,1,5.63,0,8
+1106,I en periode der rejste vi virkelig meget med fly,6,"periode, rejste, fly",154.4525333,-4.945538876,1,1,1,1,1,0,1,1,0,1,1,1,4.63,0,8
+1107,Hun har allerede overført hele summen til amerikanerne,7,"overført, summen, amerikanerne",27.23180093,-5.558204741,1,1,1,1,1,1,1,1,0,1,1,1,5.88,0,8
+1108,De kontrollerede at alle havde hentet deres billetter,8,"kontrollerede, hentet, billetter",33.88815825,-5.930675599,1,1,1,1,1,0,1,0,0,1,1,1,6.67,0,9
+1109,Det var dronningen selv som havde udvalgt materialerne,9,"dronningen, udvalgt, materialerne",14.41660944,-5.189174906,1,1,1,0,1,1,1,1,1,1,0,0,6.63,0,8
+1110,Vi burde selvfølgelig forske mere i teknologi og innovation,10,"forske, teknologi, innovation",21.90765337,-5.036246971,1,1,1,1,1,0,1,1,0,1,0,0,5.38,0,8
+1111,Der var en talsmand der kommenterede rygterne,1,"talsmand, kommenterede, rygterne",5.20791465,-5.388922996,1,1,1,1,1,1,1,1,1,1,1,1,5.63,0,8
+1112,Hun var vellidt fordi hun kunne udfordre de studerende,2,"vellidt, udfordre, studerende",11.61668749,-3.770092412,1,1,1,1,1,1,1,1,1,1,1,1,6.25,0,8
+1113,Vores mandskab har kvalificeret sig til første division,3,"mandskab, kvalificeret, division",8.849637713,-6.28479889,1,1,1,1,0,1,1,1,0,1,0,1,6.38,0,8
+1114,Vi snakker om hvem der først skal have medicinen,4,"snakker, have, medicinen",6.623366326,-5.650238186,1,1,1,1,1,1,1,0,0,1,0,1,6,1,8
+1115,Det er meget fornuftigt at de vedtog at sænke afgiften,5,"fornuftigt, vedtog, afgiften",11.44978007,-5.057142549,1,1,1,1,1,1,1,1,1,1,1,1,5.5,0,8
+1116,Efter nytår vil vi gerne stille op til flere forhandlinger,6,"nytår, stille, forhandlinger",19.31701331,-6.547323583,1,1,1,1,1,0,1,1,1,1,1,1,6.13,0,8
+1117,Vi burde fordele omsætningen mellem flere brancher,7,"fordele, omsætningen, brancher",19.29193218,-6.528074982,1,1,1,1,1,0,1,1,1,1,1,1,6.13,0,8
+1118,Han troede at de ville indkalde ham til et møde,8,"troede, indkalde, møde",43.89241443,-6.169796946,1,0,1,1,1,1,1,1,1,1,1,1,6.5,0,8
+1119,Det er en anmeldelse som slog vores instruktør helt ud,9,"anmeldelse, slog, instruktør",8.837399026,-3.723434136,1,1,1,1,1,1,1,1,0,1,0,1,6.38,0,8
+1120,Jeg vil modernisere både produktionen og leveringen,10,"modernisere, produktionen, leveringen",25.59531905,-3.242773622,1,1,1,1,1,1,1,1,1,1,1,1,6.63,0,8
+1121,Der er få forslag der kan overraske redaktionen,1,"forslag, overraske, redaktionen",7.587048014,-4.655640275,1,1,1,1,1,1,1,1,1,1,1,1,6.13,0,8
+1122,De er suveræne når de samarbejder med angriberne,2,"suveræne, samarbejder, angriberne",10.29943378,-3.697751558,1,1,1,1,1,1,1,1,1,1,1,1,5.38,1,8
+1123,Landstræneren drømmer selvfølgelig om endnu flere point,3,"landstræneren, drømmer, point",13.13755803,-4.001028023,1,1,1,1,1,1,1,1,1,1,1,0,6.75,0,8
+1124,Vi har aftalt hvem der fremover skal rådgive ledelsen,4,"aftalt, rådgive, ledelsen",6.988857872,-3.388654313,1,1,1,1,1,0,1,1,1,1,0,0,6.75,0,8
+1125,Det var perfekt at de selv kunne bremse angrebet,5,"perfekt, bremse, angrebet",9.56982435,-4.183434301,1,1,1,1,1,1,1,1,1,1,1,1,5.38,1,8
+1126,Her til formiddag skal vi først lige danne os et overblik,6,"formiddag, danne, overblik",17.65936618,-4.037998762,1,1,1,1,1,0,1,1,1,1,1,1,5.75,2,8
+1127,Han har baseret sine beregninger på solide data,7,"baseret, beregninger, data",8.776708712,-5.904688825,1,0,1,1,1,1,1,1,0,1,1,1,6.75,0,8
+1128,De forventer stadigvæk at jeg medvirker i deres serie,8,"forventer, medvirker, serie",17.67906665,-5.805111924,1,1,1,1,0,1,1,1,1,1,1,1,6.75,0,8
+1129,Det var nogle af vores medlemmer som stiftede banken,9,"medlemmer, stiftede, banken",19.39646533,-6.553768282,1,1,1,1,1,1,1,1,1,1,0,1,6.63,0,8
+1130,Man skal naturligvis adskille kunst og virkelighed,10,"adskille, kunst, virkelighed",17.27017778,-4.233421835,0,1,1,1,1,1,1,1,1,1,0,1,4.75,1,8
+1131,Der var en arkitekt der opfyldte alle betingelserne,1,"arkitekt, opfyldte, betingelserne",12.27185075,-7.414824419,1,1,1,1,1,1,1,1,1,1,1,1,6.5,0,8
+1132,Han var systematisk når han skulle nedskrive tallene,2,"systematisk, nedskrive, tallene",10.55653183,-5.395481253,1,1,1,1,1,1,1,1,1,1,1,1,6.63,0,8
+1133,Protesterne drejede sig mest om ligegyldige detaljer,3,"protesterne, drejede, detaljer",22.10461208,-4.673074338,1,1,1,0,1,1,1,1,0,1,1,1,6.5,1,8
+1134,Jeg indså hvad de havde baseret deres overskud på,4,"indså, baseret, overskud",6.740963128,-5.655668832,1,1,1,1,1,1,1,1,1,1,1,1,5.38,1,8
+1135,Det er virkelig smart at de opretholder spændingen,5,"smart, opretholder, spændingen",13.36351704,-5.902383532,1,1,1,1,1,1,1,1,1,1,1,1,6,0,8
+1136,Til nytår skulle vi gerne nærme os en afslutning,6,"nytår, nærme, afslutning",13.93571413,-6.220791076,1,1,1,1,1,1,1,1,1,1,1,1,6.63,0,8
+1137,Hun har rent faktisk lagt hele sin roman på nettet,7,"lagt, roman, nettet",10.86944751,-3.4256245,1,1,1,0,1,1,1,1,0,1,1,1,6.5,0,8
+1138,Han hævdede at jeg havde misforstået hans bemærkning,8,"hævdede, misforstået, bemærkning",17.03124769,-5.975913157,1,1,1,1,1,1,1,1,1,1,1,1,6.5,1,8
+1139,Det er en mail som forhåbentlig kan afslutte konflikten,9,"mail, afslutte, konflikten",10.53562038,-1.524297259,1,1,1,0,1,1,1,0,1,1,1,1,6.25,0,8
+1140,De ville meget gerne udbrede deres ideer og teorier,10,"udbrede, ideer, teorier",19.44184303,-4.943357104,1,1,1,1,0,1,1,1,1,1,0,1,6.75,1,8
+1141,Der er en eller anden præst der opstiller til byrådet,1,"præst, opstiller, byrådet",13.26048425,-2.055990125,1,1,1,1,1,1,1,0,1,1,0,1,5.13,0,8
+1142,Hun er målrettet fordi hun vil konstruere en robot,2,"målrettet, konstruere, robot",11.98289929,-4.171793883,1,1,1,1,1,1,1,1,0,1,1,0,6.13,0,8
+1143,Chefen bestemmer selvfølgelig over sit mandskab,3,"chefen, bestemmer, mandskab",9.645029549,-6.220980756,1,1,1,1,1,1,1,1,0,1,1,1,5.88,0,8
+1144,Det varierer hvordan vi står i meningsmålingerne,4,"varierer, står, meningsmålingerne",16.38304719,-5.147266154,1,1,1,1,1,0,1,1,0,1,1,1,6.25,0,8
+1145,Det var optimalt at de forsynede os med så mange løg,5,"optimalt, forsynede, løg",7.647660943,-3.728662592,1,1,1,1,1,1,1,1,0,1,1,1,3.88,0,8
+1146,I går cyklede vi rent faktisk mere end hundrede kilometer,6,"går, cyklede, kilometer",40.08357243,-3.996010996,1,1,1,1,1,1,1,1,1,1,1,1,5,0,8
+1147,Han har altid gerne villet fylde hele højskolen med kunst,7,"fylde, højskolen, kunst",14.34059323,-1.245480852,1,1,1,1,1,1,1,1,0,1,1,1,5.38,0,8
+1148,Hun føler at I har bidraget meget til hendes kampagne,8,"føler, bidraget, kampagne",14.63686632,-5.995955908,1,1,1,1,1,1,1,1,1,1,0,0,6.38,0,8
+1149,Det var en slutning som virkelig rystede vores læsere,9,"slutning, rystede, læsere",47.09075718,-5.525089744,1,1,1,1,1,1,1,1,1,1,1,1,6.38,0,8
+1150,Fodboldspillerne festede med mig og mine gæster,10,"fodboldspillerne, festede, gæster",11.99400502,-2.916393846,1,1,1,1,1,1,1,1,0,1,1,1,6.13,0,8
+1151,Der var en arkitekt der gennemgik hele vores villa,1,"arkitekt, gennemgik, villa",10.77680373,-5.899253417,1,1,1,1,1,0,1,1,0,1,1,1,5.63,0,8
+1152,Jeg var meget ung da jeg opbyggede mit netværk,2,"ung, opbyggede, netværk",12.09080401,-3.718615349,1,1,1,1,0,1,1,1,1,1,0,1,5.63,0,8
+1153,Vores virksomhed har skilt sig af med alle rederierne,3,"virksomhed, skilt, rederierne",5.894984102,-5.133651163,0,1,1,1,0,1,1,1,1,1,1,1,5.5,0,8
+1154,Vi diskuterer stadig hvor vi skal sejle hen i morgen,4,"diskuterer, sejle, morgen",7.950126272,-6.713128616,1,1,1,1,1,1,1,1,0,1,0,1,6.63,0,8
+1155,Det er korrekt at vi beskæftiger os meget med klimaet,5,"korrekt, beskæftiger, klimaet",4.841198992,-2.614226636,1,1,1,1,1,1,1,1,1,1,1,1,6.13,0,8
+1156,I sin roman forudså han tilsyneladende fremtiden,6,"roman, forudså, fremtiden",15.18096523,-3.759266334,1,1,1,1,1,1,1,1,1,1,0,1,6.13,0,8
+1157,Han satsede desværre sin karriere på en tvivlsom plan,7,"satsede, karriere, plan",13.12211594,-7.489642958,1,1,1,1,1,0,1,1,1,1,1,1,5.13,1,8
+1158,Hun har allerede erklæret at hun vil støtte vores parti,8,"erklæret, støtte, parti",14.82720564,-5.838299465,1,1,1,0,1,1,1,1,1,1,1,1,6.5,0,8
+1159,Det er et system som godt kan øge ens chancer,9,"system, øge, chancer",9.855691309,-6.031515996,1,1,1,1,0,1,1,1,0,1,1,1,4.75,0,8
+1160,De elsker især hendes fantasi og hendes humor,10,"elsker, fantasi, humor",11.78848579,-5.110059062,1,1,1,1,1,1,1,1,0,1,1,1,6.5,0,8
+1161,Der er heldigvis mange mennesker der opfører sig fredeligt,1,"mennesker, opfører, fredeligt",35.84296921,-5.87000779,1,1,0,1,1,1,1,1,1,1,1,1,6.9,0,10
+1162,Han er lykkelig fordi han er startet på sit første job,2,"lykkelig, startet, job",23.06136559,-6.199172402,1,1,1,1,1,1,1,1,1,1,1,1,6.6,0,10
+1163,Min nabo har engang klædt sig ud som en dirigent,3,"nabo, klædt, dirigent",15.11596224,-4.724968947,1,1,1,1,1,1,1,1,1,1,1,1,6.25,0,8
+1164,Jeg kan godt forstå hvorfor du underskrev den aftale,4,"forstå, underskrev, aftale",19.20716193,-7.650461544,1,1,1,1,1,1,1,1,1,1,1,1,6.78,0,9
+1165,Det var praktisk at vi kunne sejle direkte gennem søen,5,"praktisk, sejle, søen",26.82474042,-7.76414872,1,1,1,1,1,1,1,1,1,1,1,1,5.1,0,10
+1166,I oktober kan de forhåbentlig gennemføre afstemningen,6,"oktober, gennemføre, afstemningen",11.89904127,-4.391053607,1,1,1,1,1,1,1,1,1,1,1,1,6.4,0,10
+1167,Vi har ellers allerede lejet nogle lokaler til sangerne,7,"lejet, lokaler, sangerne",6.34819023,-0.928777104,1,1,1,1,1,1,1,1,0,1,0,1,5.27,0,11
+1168,De fokuserede mest på at målmanden havde scoret,8,"fokuserede, målmanden, scoret",11.51826075,-6.804593529,1,1,1,1,1,1,1,1,0,1,1,1,6.11,0,9
+1169,Det var kongen som lige var ankommet til operaen,9,"kongen, ankommet, operaen",29.28668651,-5.877209338,1,1,1,1,1,1,1,1,1,1,1,1,6.1,0,10
+1170,Vi har solgt en del plakater og fotografier i vores butik,10,"solgt, plakater, butik",11.27527046,-6.355004105,1,1,1,0,1,1,1,1,1,1,1,1,6.63,0,8
+1171,Der var en forsvarsspiller der udtalte sig om stillingen,1,"forsvarsspiller, udtalte, stillingen",20.0100305,-7.155480603,1,1,0,1,1,1,1,1,1,1,1,1,5.88,0,8
+1172,Den er nok først parat når lyset ikke længere blinker,2,"parat, lyset, blinker",13.41502121,-4.324076691,1,1,1,1,1,1,1,1,1,1,0,1,6.38,0,8
+1173,Min kat havde placeret sig nøjagtig midt i sengen,3,"kat, placeret, sengen",19.20678126,-6.444112938,1,1,1,1,0,1,0,1,1,1,1,1,6,0,10
+1174,Bestyrelsesformanden pegede på hvor vi skulle sidde,4,"bestyrelsesformanden, pegede, sidde",10.06782162,-7.239806637,1,1,1,1,1,0,1,1,1,1,1,1,6,0,11
+1175,Det er imponerende at de selv fremstiller alle varerne,5,"imponerende, fremstiller, varerne",11.15616949,-3.929347909,1,1,1,1,1,0,1,1,1,1,0,1,6.8,0,10
+1176,Inden turneringen skal vi lige hen og varme op i hallen,6,"turneringen, varme, hallen",19.44992073,-2.098905796,1,1,1,1,1,0,1,0,1,1,1,1,6.67,0,9
+1177,Jeg har allerede sendt min analyse til instituttet,7,"sendt, analyse, instituttet",16.70470093,-6.480976076,1,1,1,1,1,1,1,1,1,1,1,1,6.6,0,10
+1178,Hun vedkendte sig at hun savnede sin gamle stilling,8,"vedkendte, savnede, stilling",29.30741509,-4.123195023,1,1,1,1,1,1,1,0,1,1,1,1,5.2,0,10
+1179,Det er en kunstner som har udvalgt de her sange,9,"kunstner, udvalgt, sange",246.2782391,-5.07035952,1,1,1,1,1,1,1,1,1,1,1,1,6,0,12
+1180,Forandringerne udfordrede selvfølgelig vores traditioner,10,"forandringerne, udfordrede, traditioner",14.5390129,-2.333796588,1,1,1,1,1,1,1,1,0,1,1,1,5.78,0,9
+1181,Der er nogle medier der specialiserer sig i nyheder,1,"medier, specialiserer, nyheder",8.473139087,-5.201752289,1,1,1,0,1,1,1,1,1,1,0,1,6.63,0,8
+1182,Vi er først færdige når vi har malet alle kanterne,2,"færdige, malet, kanterne",24.462721,-4.191234404,1,1,1,1,0,1,1,1,1,1,1,1,7,0,9
+1183,Forskere kan kun sjældent slippe helt for undervisning,3,"forskere, slippe, undervisning",9.649611326,-2.325203077,1,1,1,1,1,1,1,0,1,1,1,1,5.1,1,10
+1184,Vi skal snakke om hvem der egentlig vandt løbet,4,"snakke, vandt, løbet",10.1647529,-5.593321109,1,1,1,1,1,1,1,1,0,1,1,1,5.89,0,9
+1185,Det var naturligt at hun ville beskytte sin investering,5,"naturligt, beskytte, investering",7.45898664,-5.863153539,1,1,1,1,1,1,1,1,1,1,0,1,5.78,0,9
+1186,På lørdag skal han faktisk optræde på mit teater,6,"lørdag, optræde, teater",10.97326225,-8.033368363,1,1,1,1,1,0,1,1,1,1,1,1,6.5,0,10
+1187,De havde bragt vores bagage ned til banegården,7,"bragt, bagage, banegården",7.952088626,-4.846362522,0,1,1,1,1,1,1,1,1,1,0,0,6.63,0,8
+1188,Jeg skal nok sørge for at hun kommer i børnehave,8,"sørge, kommer, børnehave",9.171525661,-4.891206048,1,1,1,1,1,1,1,1,1,1,0,1,6.88,0,8
+1189,Det var en sælger som håndterede vores ordre,9,"sælger, håndterede, ordre",14.99056128,-3.414076242,1,1,1,1,1,1,1,1,0,1,1,1,6.9,0,10
+1190,Han forsøger hovedsageligt at fange sild eller torsk,10,"forsøger, fange, torsk",11.46878013,-6.86210497,1,1,1,1,1,1,1,1,1,1,1,1,6.5,0,8
+1191,Der var en eller anden fyr der rørte ved malerierne,1,"fyr, rørte, malerierne",15.24503931,-2.578489492,1,1,1,1,1,1,1,1,1,1,0,1,6.5,0,10
+1192,Hun var målrettet fordi hun ville forfølge sin drøm,2,"målrettet, forfølge, drøm",17.24011866,-4.358566861,1,1,1,1,1,1,1,1,1,1,1,1,6,0,9
+1193,Min mand droppede rent faktisk ud af universitetet,3,"mand, droppede, universitetet",23.37761233,-5.528639292,1,1,1,1,1,1,1,1,1,1,0,1,6.8,0,10
+1194,De har heldigvis fortalt os hvor vi skal skifte tog,4,"fortalt, skifte, tog",13.55552248,-6.117134228,1,1,1,1,1,1,1,1,1,1,1,1,6.44,0,9
+1195,Det er mærkeligt at de vil hæve ydelserne igen,5,"mærkeligt, hæve, ydelserne",4.981008635,-4.145705191,1,1,1,1,1,1,1,1,1,1,1,1,6.7,1,10
+1196,Inden weekenden skal vi have afgjort begge sager,6,"weekenden, afgjort, sager",15.15497275,-3.910554343,1,1,1,1,1,1,1,1,0,1,1,1,6.38,0,8
+1197,I skal altså fylde hele containeren med fyrværkeri,7,"fylde, containeren, fyrværkeri",18.29823849,-4.631421812,1,1,1,1,1,1,1,1,1,1,1,0,5.89,1,9
+1198,Jeg føler egentlig at vi snart nærmer os en afslutning,8,"føler, nærmer, afslutning",21.56818475,-7.324768036,1,1,1,1,1,1,1,1,1,1,0,1,6.11,1,9
+1199,Det er den her kommentar som havnede på internettet,9,"kommentar, havnede, internettet",30.5245767,-1.977577707,1,1,1,1,1,0,1,1,0,1,1,1,6.11,1,9
+1200,De rådede os til at melde os ind en fagforening,10,"rådede, melde, fagforening",16.68191323,-5.407079643,1,1,1,1,0,1,1,1,0,1,1,1,5.67,0,9
